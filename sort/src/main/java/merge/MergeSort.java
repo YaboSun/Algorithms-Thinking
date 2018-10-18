@@ -43,10 +43,10 @@ public class MergeSort {
 
     /**
      * 将arr[l...mid]以及[mid + 1, r]俩部分进行归并
-     * @param arr
-     * @param l
-     * @param mid
-     * @param r
+     * @param arr 待排序的数组
+     * @param l 数组最左边界
+     * @param mid 中间元素
+     * @param r 数组嘴右元素
      */
     private void merge(int[] arr, int l, int mid, int r) {
         // 声明一个和arr大小相同的辅助数组

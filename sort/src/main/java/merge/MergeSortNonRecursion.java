@@ -8,8 +8,14 @@ package merge;
  */
 public class MergeSortNonRecursion {
 
+    // 为了方便起见 其中一些方法需要调用递归实现
     MergeSortRecursion mergeSortRecursion = new MergeSortRecursion();
 
+    /**
+     * 非递归实现归并排序
+     * @param arr 待排序数组
+     * @param n 数组元素个数
+     */
     public void mergeSortNonRecursion(int[] arr, int n) {
         for (int size = 1; size <= n; size += size) {
             for (int i = 0; i + size < n; i += size + size) {

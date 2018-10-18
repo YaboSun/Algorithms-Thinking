@@ -8,10 +8,10 @@ public class QuickSort {
 
     /**
      * 切分数组，找到基准数值
-     * @param nums
-     * @param left
-     * @param right
-     * @return
+     * @param nums 待排序数组
+     * @param left 数组左边界
+     * @param right 数组右边界
+     * @return left
      */
     public int division(int[] nums, int left, int right) {
         // 以最左边的数（left）为基准
@@ -38,9 +38,9 @@ public class QuickSort {
 
     /**
      * 进行排序
-     * @param nums
-     * @param left
-     * @param right
+     * @param nums 待排序数组
+     * @param left 数组左边界
+     * @param right 数组右边界
      */
     public void quickSort(int[] nums, int left, int right) {
         // 左下标一定小于右下标
@@ -61,9 +61,9 @@ public class QuickSort {
 
     /**
      * 打印中间数组
-     * @param nums
-     * @param begin
-     * @param end
+     * @param nums 待排序数组
+     * @param begin 数组开始位置
+     * @param end 数组最后位置
      */
     public void printPart(int[] nums, int begin, int end) {
         for (int i = 0; i < begin; i++) {

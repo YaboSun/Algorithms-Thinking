@@ -32,8 +32,8 @@ public class MergeSortRecursion {
      * 归并过程
      * @param a 待排序数组
      * @param low 数组最左边界
+     * @param mid 每次归并中间元素下标
      * @param high 数组最右边界
-     * @return 返回排序数组
      */
     public void merge(int[] a, int low, int mid, int high) {
         int[] temp = new int[high - low + 1];

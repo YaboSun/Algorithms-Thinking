@@ -1,5 +1,7 @@
 package select;
 
+import common.SortTestHelper;
+
 /**
  * @author YaboSun
  * @since Created in 18-10-18
@@ -7,6 +9,12 @@ package select;
  * 选择排序
  */
 public class SelectSort {
+
+    /**
+     * 选择排序
+     * @param arr 待排序数组
+     * @param n 数组元素个数
+     */
     public void selectionSort(int[] arr, int n) {
         for (int i = 0; i < n; i++) {
             int minIndex = i;
@@ -15,14 +23,8 @@ public class SelectSort {
                     minIndex = j;
                 }
             }
-            swap(arr, i, minIndex);
+            SortTestHelper.swap(arr, i, minIndex);
         }
     }
 
-    private void swap(int[] arr, int first, int second) {
-        int temp;
-        temp = arr[first];
-        arr[first] = arr[second];
-        arr[second] = temp;
-    }
 }

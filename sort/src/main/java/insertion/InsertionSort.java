@@ -9,6 +9,12 @@ package insertion;
  * 另外一点就是通过插入排序引申希尔排序，整体思路就是插入排序的延伸
  */
 public class InsertionSort {
+
+    /**
+     * 插入排序实现
+     * @param arr 待排序数组
+     * @param n 数组元素个数
+     */
     public void insertionSort(int[] arr, int n) {
         for (int i = 1; i < n; i++) {
             // 第一种实现，细节没有优化，只是将所有的都比较了一遍

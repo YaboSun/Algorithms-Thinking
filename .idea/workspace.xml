@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e420e2a3-b3f5-465e-9b1c-3c0a7444dd6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithms/sort/src/test/java/bubble/BubbleSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/array/src/test/java/easy/leetcode665/LeetCode665Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/java/bubble/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sort/src/main/java/bubble/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/java/common/SortTestHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sort/src/main/java/common/SortTestHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode665/SolutionOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode665/SolutionOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode665/SolutionTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode665/SolutionTwo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,10 +25,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode665/SolutionOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode665/SolutionTwo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/array/src/test/java/easy/leetcode665/LeetCode665Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/merge/GenericMergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+              <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -37,16 +64,19 @@
         <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/bubble/BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
-              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/sort/src/test/java/bubble/BubbleSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+            <state relative-caret-position="323">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -55,7 +85,7 @@
         <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/common/SortTestHelper.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
-              <caret line="104" column="10" lean-forward="true" selection-start-line="104" selection-start-column="10" selection-end-line="104" selection-end-column="10" />
+              <caret line="104" column="10" selection-start-line="104" selection-start-column="10" selection-end-line="104" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -64,7 +94,7 @@
         <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="143" column="29" lean-forward="true" selection-start-line="143" selection-start-column="29" selection-end-line="143" selection-end-column="29" />
+              <caret line="143" column="29" selection-start-line="143" selection-start-column="29" selection-end-line="143" selection-end-column="29" />
               <folding>
                 <element signature="e#5027#5028#0" expanded="true" />
                 <element signature="e#5098#5099#0" expanded="true" />
@@ -74,19 +104,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/DualPivotQuicksort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6137">
-              <caret line="132" column="35" lean-forward="true" selection-start-line="132" selection-start-column="35" selection-end-line="132" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="228">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -95,7 +116,7 @@
         <entry file="file://$PROJECT_DIR$/algorithms/sort/src/test/java/merge/GenericMergeSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -149,7 +170,6 @@
         <option value="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode001/SolutionTwo.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode665/SolutionOne.java" />
         <option value="$PROJECT_DIR$/algorithms/sort/src/main/java/insertion/InsertionSortITA.java" />
         <option value="$PROJECT_DIR$/algorithms/sort/src/main/java/insertion/InsertionSort.java" />
         <option value="$PROJECT_DIR$/algorithms/sort/src/test/java/InsertionSortTest.java" />
@@ -161,6 +181,10 @@
         <option value="$PROJECT_DIR$/algorithms/sort/src/main/java/common/SortTestHelper.java" />
         <option value="$PROJECT_DIR$/algorithms/sort/src/test/java/bubble/BubbleSortTest.java" />
         <option value="$PROJECT_DIR$/algorithms/sort/src/main/java/bubble/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode665/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/leetcode/array/src/test/java/easy/leetcode665/SolutionOneTest.java" />
+        <option value="$PROJECT_DIR$/leetcode/array/src/test/java/easy/leetcode665/LeetCode665Test.java" />
+        <option value="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode665/SolutionTwo.java" />
       </list>
     </option>
   </component>
@@ -197,47 +221,85 @@
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bubble" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode665" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -248,7 +310,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545482001314" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545490076875" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -261,6 +323,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="easy.leetcode665" />
       <recent name="bubble" />
       <recent name="merge" />
     </key>
@@ -287,7 +350,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BubbleSortTest.bubbleSort">
+  <component name="RunManager" selected="JUnit.LeetCode665Test.checkPossibility">
     <configuration name="BubbleSortTest.bubbleSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="sort" />
       <extension name="coverage">
@@ -320,27 +383,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertionSortTest.descInsertionSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="sort" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="InsertionSortTest" />
-      <option name="METHOD_NAME" value="descInsertionSortTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MergeSortIATest.merge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="sort" />
+    <configuration name="LeetCode665Test.checkPossibility" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="array" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="merge.*" />
+          <option name="PATTERN" value="easy.leetcode665.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="merge" />
-      <option name="MAIN_CLASS_NAME" value="merge.MergeSortIATest" />
-      <option name="METHOD_NAME" value="merge" />
+      <option name="PACKAGE_NAME" value="easy.leetcode665" />
+      <option name="MAIN_CLASS_NAME" value="easy.leetcode665.LeetCode665Test" />
+      <option name="METHOD_NAME" value="checkPossibility" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -356,20 +409,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SolutionOneTest.checkPossibility" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.leetcode665.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="easy.leetcode665" />
+      <option name="MAIN_CLASS_NAME" value="easy.leetcode665.SolutionOneTest" />
+      <option name="METHOD_NAME" value="checkPossibility" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="JUnit.InsertionSortTest.descInsertionSortTest" />
-      <item itemvalue="JUnit.MergeSortIATest.merge" />
       <item itemvalue="JUnit.MergeSortTest.mergeSortTwo" />
       <item itemvalue="JUnit.GenericMergeSortTest.mergeSort" />
       <item itemvalue="JUnit.BubbleSortTest.bubbleSort" />
+      <item itemvalue="JUnit.SolutionOneTest.checkPossibility" />
+      <item itemvalue="JUnit.LeetCode665Test.checkPossibility" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LeetCode665Test.checkPossibility" />
+        <item itemvalue="JUnit.SolutionOneTest.checkPossibility" />
         <item itemvalue="JUnit.BubbleSortTest.bubbleSort" />
         <item itemvalue="JUnit.GenericMergeSortTest.mergeSort" />
         <item itemvalue="JUnit.MergeSortTest.mergeSortTwo" />
-        <item itemvalue="JUnit.MergeSortIATest.merge" />
-        <item itemvalue="JUnit.InsertionSortTest.descInsertionSortTest" />
       </list>
     </recent_temporary>
   </component>
@@ -394,7 +463,7 @@
       <workItem from="1539864530679" duration="3410000" />
       <workItem from="1543234651874" duration="4832000" />
       <workItem from="1545400683555" duration="577000" />
-      <workItem from="1545447739269" duration="20002000" />
+      <workItem from="1545447739269" duration="25154000" />
     </task>
     <task id="LOCAL-00001" summary="remove target">
       <created>1543235906419</created>
@@ -431,49 +500,55 @@
       <option name="project" value="LOCAL" />
       <updated>1545479518896</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="bubble sort">
+      <created>1545482055382</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1545482055382</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BubbleSortTest_bubbleSort - 2018.12.22 at 20h 08m 07s.xml">
-      <configuration name="BubbleSortTest.bubbleSort" configurationId="JUnit" />
+    <history-entry file="SolutionOneTest_checkPossibility - 2018.12.22 at 21h 55m 01s.xml">
+      <configuration name="SolutionOneTest.checkPossibility" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BubbleSortTest_bubbleSort - 2018.12.22 at 20h 09m 05s.xml">
-      <configuration name="BubbleSortTest.bubbleSort" configurationId="JUnit" />
+    <history-entry file="SolutionOneTest_checkPossibility - 2018.12.22 at 21h 57m 00s.xml">
+      <configuration name="SolutionOneTest.checkPossibility" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BubbleSortTest_bubbleSort - 2018.12.22 at 20h 11m 43s.xml">
-      <configuration name="BubbleSortTest.bubbleSort" configurationId="JUnit" />
+    <history-entry file="SolutionOneTest_checkPossibility - 2018.12.22 at 21h 59m 12s.xml">
+      <configuration name="SolutionOneTest.checkPossibility" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BubbleSortTest_bubbleSort - 2018.12.22 at 20h 21m 15s.xml">
-      <configuration name="BubbleSortTest.bubbleSort" configurationId="JUnit" />
+    <history-entry file="SolutionOneTest_checkPossibility - 2018.12.22 at 22h 00m 20s.xml">
+      <configuration name="SolutionOneTest.checkPossibility" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BubbleSortTest_bubbleSort - 2018.12.22 at 20h 21m 20s.xml">
-      <configuration name="BubbleSortTest.bubbleSort" configurationId="JUnit" />
+    <history-entry file="SolutionOneTest_checkPossibility - 2018.12.22 at 22h 02m 09s.xml">
+      <configuration name="SolutionOneTest.checkPossibility" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BubbleSortTest_bubbleSort - 2018.12.22 at 20h 22m 35s.xml">
-      <configuration name="BubbleSortTest.bubbleSort" configurationId="JUnit" />
+    <history-entry file="SolutionOneTest_checkPossibility - 2018.12.22 at 22h 02m 17s.xml">
+      <configuration name="SolutionOneTest.checkPossibility" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BubbleSortTest_bubbleSort - 2018.12.22 at 20h 22m 41s.xml">
-      <configuration name="BubbleSortTest.bubbleSort" configurationId="JUnit" />
+    <history-entry file="SolutionOneTest_checkPossibility - 2018.12.22 at 22h 04m 33s.xml">
+      <configuration name="SolutionOneTest.checkPossibility" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BubbleSortTest_bubbleSort - 2018.12.22 at 20h 29m 13s.xml">
-      <configuration name="BubbleSortTest.bubbleSort" configurationId="JUnit" />
+    <history-entry file="LeetCode665Test_checkPossibility - 2018.12.22 at 22h 43m 57s.xml">
+      <configuration name="LeetCode665Test.checkPossibility" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BubbleSortTest_bubbleSort - 2018.12.22 at 20h 29m 27s.xml">
-      <configuration name="BubbleSortTest.bubbleSort" configurationId="JUnit" />
+    <history-entry file="LeetCode665Test_checkPossibility - 2018.12.22 at 22h 45m 36s.xml">
+      <configuration name="LeetCode665Test.checkPossibility" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BubbleSortTest_bubbleSort - 2018.12.22 at 20h 33m 10s.xml">
-      <configuration name="BubbleSortTest.bubbleSort" configurationId="JUnit" />
+    <history-entry file="LeetCode665Test_checkPossibility - 2018.12.22 at 22h 45m 45s.xml">
+      <configuration name="LeetCode665Test.checkPossibility" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30832000" />
+    <option name="totallyTimeSpent" value="35984000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25773746" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25773746" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -482,7 +557,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32900432" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32900432" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -490,7 +565,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32878152" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32792208" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32900432" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -514,7 +589,8 @@
     <MESSAGE value="update readme" />
     <MESSAGE value="insertion sort" />
     <MESSAGE value="merge sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="merge sort" />
+    <MESSAGE value="bubble sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="bubble sort" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -542,6 +618,12 @@
           <line>12</line>
           <properties />
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/array/src/test/java/easy/leetcode665/LeetCode665Test.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -668,13 +750,6 @@
     <entry file="file://$PROJECT_DIR$/leetcode/array/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode665/SolutionTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jianzhioffer/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -706,13 +781,6 @@
             <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode665/SolutionOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -802,21 +870,14 @@
     <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/DualPivotQuicksort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6137">
-          <caret line="132" column="35" lean-forward="true" selection-start-line="132" selection-start-column="35" selection-end-line="132" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <caret line="132" column="35" selection-start-line="132" selection-start-column="35" selection-end-line="132" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/sort/src/test/java/merge/GenericMergeSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -826,7 +887,7 @@
     <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="143" column="29" lean-forward="true" selection-start-line="143" selection-start-column="29" selection-end-line="143" selection-end-column="29" />
+          <caret line="143" column="29" selection-start-line="143" selection-start-column="29" selection-end-line="143" selection-end-column="29" />
           <folding>
             <element signature="e#5027#5028#0" expanded="true" />
             <element signature="e#5098#5099#0" expanded="true" />
@@ -834,31 +895,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/merge/GenericMergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/common/SortTestHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
-          <caret line="104" column="10" lean-forward="true" selection-start-line="104" selection-start-column="10" selection-end-line="104" selection-end-column="10" />
+          <caret line="104" column="10" selection-start-line="104" selection-start-column="10" selection-end-line="104" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/bubble/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/sort/src/test/java/bubble/BubbleSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        <state relative-caret-position="323">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/merge/GenericMergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode665/SolutionOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/array/src/test/java/easy/leetcode665/LeetCode665Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode665/SolutionTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
         </state>
       </provider>
     </entry>

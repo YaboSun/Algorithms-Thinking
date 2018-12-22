@@ -35,4 +35,15 @@ public class InsertionSortTest {
         assertTrue(SortTestHelper.isSorted(arr, n));
         SortTestHelper.printArr(arr);
     }
+
+    @Test
+    public void descInsertionSortTest() {
+        int n = 10;
+        int[] arr = SortTestHelper.generateNearlyOrderedArray(n, 5);
+        SortTestHelper.printArr(arr);
+        insertionSort = new InsertionSort();
+
+        insertionSort.descInsertionSort(arr, n);
+        SortTestHelper.printArr(arr);
+    }
 }

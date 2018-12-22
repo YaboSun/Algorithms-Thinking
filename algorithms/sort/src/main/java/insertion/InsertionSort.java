@@ -58,4 +58,21 @@ public class InsertionSort {
         }
 
     }
+
+    /**
+     * 插入排序的降序实现
+     * @param A 待排序数组
+     * @param n 数组元素个数
+     */
+    public void descInsertionSort(int[] A, int n) {
+        for (int j = 1; j < n; j++) {
+            int key = A[j];
+            int i = j - 1;
+
+            for (; i >=0 && A[i] < key; i--) {
+                A[i + 1] = A[i];
+            }
+            A[i + 1] = key;
+        }
+    }
 }

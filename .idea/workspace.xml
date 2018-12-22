@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e420e2a3-b3f5-465e-9b1c-3c0a7444dd6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/array/src/test/java/easy/leetcode665/LeetCode665Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/array/src/test/java/easy/leetcode674/SolutionOneTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode665/SolutionOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode665/SolutionOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode665/SolutionTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode665/SolutionTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode674/SolutionOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode674/SolutionOne.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,11 +32,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode665/SolutionTwo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="226">
               <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode674/SolutionOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="23" selection-start-line="23" selection-end-line="38" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/array/src/test/java/easy/leetcode674/SolutionOneTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -91,35 +108,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="143" column="29" selection-start-line="143" selection-start-column="29" selection-end-line="143" selection-end-column="29" />
-              <folding>
-                <element signature="e#5027#5028#0" expanded="true" />
-                <element signature="e#5098#5099#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
               <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/sort/src/test/java/merge/GenericMergeSortTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -185,6 +177,8 @@
         <option value="$PROJECT_DIR$/leetcode/array/src/test/java/easy/leetcode665/SolutionOneTest.java" />
         <option value="$PROJECT_DIR$/leetcode/array/src/test/java/easy/leetcode665/LeetCode665Test.java" />
         <option value="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode665/SolutionTwo.java" />
+        <option value="$PROJECT_DIR$/leetcode/array/src/test/java/easy/leetcode674/SolutionOneTest.java" />
+        <option value="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode674/SolutionOne.java" />
       </list>
     </option>
   </component>
@@ -310,7 +304,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545490076875" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545492941971" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -323,6 +317,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="easy.leetcode674" />
       <recent name="easy.leetcode665" />
       <recent name="bubble" />
       <recent name="merge" />
@@ -350,7 +345,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LeetCode665Test.checkPossibility">
+  <component name="RunManager" selected="JUnit.SolutionOneTest.findLengthOfLCIS">
     <configuration name="BubbleSortTest.bubbleSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="sort" />
       <extension name="coverage">
@@ -399,16 +394,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSortTest.mergeSortTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="sort" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MergeSortTest" />
-      <option name="METHOD_NAME" value="mergeSortTwo" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SolutionOneTest.checkPossibility" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="array" />
       <extension name="coverage">
@@ -425,20 +410,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SolutionOneTest.findLengthOfLCIS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.leetcode674.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="easy.leetcode674" />
+      <option name="MAIN_CLASS_NAME" value="easy.leetcode674.SolutionOneTest" />
+      <option name="METHOD_NAME" value="findLengthOfLCIS" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="JUnit.MergeSortTest.mergeSortTwo" />
       <item itemvalue="JUnit.GenericMergeSortTest.mergeSort" />
       <item itemvalue="JUnit.BubbleSortTest.bubbleSort" />
       <item itemvalue="JUnit.SolutionOneTest.checkPossibility" />
       <item itemvalue="JUnit.LeetCode665Test.checkPossibility" />
+      <item itemvalue="JUnit.SolutionOneTest.findLengthOfLCIS" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SolutionOneTest.findLengthOfLCIS" />
         <item itemvalue="JUnit.LeetCode665Test.checkPossibility" />
         <item itemvalue="JUnit.SolutionOneTest.checkPossibility" />
         <item itemvalue="JUnit.BubbleSortTest.bubbleSort" />
         <item itemvalue="JUnit.GenericMergeSortTest.mergeSort" />
-        <item itemvalue="JUnit.MergeSortTest.mergeSortTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -463,7 +464,7 @@
       <workItem from="1539864530679" duration="3410000" />
       <workItem from="1543234651874" duration="4832000" />
       <workItem from="1545400683555" duration="577000" />
-      <workItem from="1545447739269" duration="25154000" />
+      <workItem from="1545447739269" duration="28085000" />
     </task>
     <task id="LOCAL-00001" summary="remove target">
       <created>1543235906419</created>
@@ -507,48 +508,56 @@
       <option name="project" value="LOCAL" />
       <updated>1545482055382</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Solution 665">
+      <created>1545490095096</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1545490095096</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SolutionOneTest_checkPossibility - 2018.12.22 at 21h 55m 01s.xml">
-      <configuration name="SolutionOneTest.checkPossibility" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolutionOneTest_checkPossibility - 2018.12.22 at 21h 57m 00s.xml">
-      <configuration name="SolutionOneTest.checkPossibility" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolutionOneTest_checkPossibility - 2018.12.22 at 21h 59m 12s.xml">
-      <configuration name="SolutionOneTest.checkPossibility" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolutionOneTest_checkPossibility - 2018.12.22 at 22h 00m 20s.xml">
-      <configuration name="SolutionOneTest.checkPossibility" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolutionOneTest_checkPossibility - 2018.12.22 at 22h 02m 09s.xml">
-      <configuration name="SolutionOneTest.checkPossibility" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolutionOneTest_checkPossibility - 2018.12.22 at 22h 02m 17s.xml">
-      <configuration name="SolutionOneTest.checkPossibility" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolutionOneTest_checkPossibility - 2018.12.22 at 22h 04m 33s.xml">
-      <configuration name="SolutionOneTest.checkPossibility" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LeetCode665Test_checkPossibility - 2018.12.22 at 22h 43m 57s.xml">
-      <configuration name="LeetCode665Test.checkPossibility" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LeetCode665Test_checkPossibility - 2018.12.22 at 22h 45m 36s.xml">
       <configuration name="LeetCode665Test.checkPossibility" configurationId="JUnit" />
     </history-entry>
     <history-entry file="LeetCode665Test_checkPossibility - 2018.12.22 at 22h 45m 45s.xml">
       <configuration name="LeetCode665Test.checkPossibility" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SolutionOneTest_findLengthOfLCIS - 2018.12.22 at 23h 24m 10s.xml">
+      <configuration name="SolutionOneTest.findLengthOfLCIS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionOneTest_findLengthOfLCIS - 2018.12.22 at 23h 25m 08s.xml">
+      <configuration name="SolutionOneTest.findLengthOfLCIS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionOneTest_findLengthOfLCIS - 2018.12.22 at 23h 26m 17s.xml">
+      <configuration name="SolutionOneTest.findLengthOfLCIS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionOneTest_findLengthOfLCIS - 2018.12.22 at 23h 30m 30s.xml">
+      <configuration name="SolutionOneTest.findLengthOfLCIS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionOneTest_findLengthOfLCIS - 2018.12.22 at 23h 30m 40s.xml">
+      <configuration name="SolutionOneTest.findLengthOfLCIS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionOneTest_findLengthOfLCIS - 2018.12.22 at 23h 33m 30s.xml">
+      <configuration name="SolutionOneTest.findLengthOfLCIS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionOneTest_findLengthOfLCIS - 2018.12.22 at 23h 33m 34s.xml">
+      <configuration name="SolutionOneTest.findLengthOfLCIS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionOneTest_findLengthOfLCIS - 2018.12.22 at 23h 33m 46s.xml">
+      <configuration name="SolutionOneTest.findLengthOfLCIS" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35984000" />
+    <option name="totallyTimeSpent" value="38915000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25773746" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25773746" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -557,7 +566,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32900432" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32900432" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -590,7 +599,8 @@
     <MESSAGE value="insertion sort" />
     <MESSAGE value="merge sort" />
     <MESSAGE value="bubble sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="bubble sort" />
+    <MESSAGE value="Solution 665" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solution 665" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -624,6 +634,12 @@
           <line>18</line>
           <properties />
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/array/src/test/java/easy/leetcode674/SolutionOneTest.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -951,6 +967,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
           <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/array/src/test/java/easy/leetcode674/SolutionOneTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode674/SolutionOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="23" selection-start-line="23" selection-end-line="38" selection-end-column="22" />
         </state>
       </provider>
     </entry>

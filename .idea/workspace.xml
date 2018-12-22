@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="e420e2a3-b3f5-465e-9b1c-3c0a7444dd6c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOOKLIST.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/java/insertion/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sort/src/main/java/insertion/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/test/java/InsertionSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sort/src/test/java/InsertionSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode001/SolutionOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode665/SolutionOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode001/SolutionTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode665/SolutionTwo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,14 +25,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/insertion/InsertionSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="266">
-                <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/algorithms/sort/src/test/java/InsertionSortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="30" column="37" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,6 +91,10 @@
         <option value="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode001/SolutionTwo.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode665/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/algorithms/sort/src/main/java/insertion/InsertionSortITA.java" />
+        <option value="$PROJECT_DIR$/algorithms/sort/src/main/java/insertion/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/algorithms/sort/src/test/java/InsertionSortTest.java" />
       </list>
     </option>
   </component>
@@ -91,9 +106,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1920" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="x" value="151" />
+    <option name="y" value="86" />
+    <option name="width" value="1717" />
+    <option name="height" value="969" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -112,6 +128,51 @@
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="insertion" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -121,7 +182,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545402187635" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545455870607" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -151,22 +212,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SortTimeTest.calculateSortTime">
-    <configuration name="QuickSortTest.quickSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.InsertionSortTest.insertionSortIATest">
+    <configuration name="InsertionSortTest.insertionSortIATest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="sort" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="QuickSortTest" />
-      <option name="METHOD_NAME" value="quickSort" />
+      <option name="MAIN_CLASS_NAME" value="InsertionSortTest" />
+      <option name="METHOD_NAME" value="insertionSortIATest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSortThreeWaysTest.quickSortThreeWays" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="InsertionSortTest.insertionSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="sort" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="QuickSortThreeWaysTest" />
-      <option name="METHOD_NAME" value="quickSortThreeWays" />
+      <option name="MAIN_CLASS_NAME" value="InsertionSortTest" />
+      <option name="METHOD_NAME" value="insertionSortTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -203,19 +264,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.QuickSortTest.quickSort" />
-      <item itemvalue="JUnit.QuickSortThreeWaysTest.quickSortThreeWays" />
       <item itemvalue="JUnit.SelectSortTest.calculateSortTime" />
       <item itemvalue="JUnit.SelectSortTest.selectionSort" />
       <item itemvalue="JUnit.SortTimeTest.calculateSortTime" />
+      <item itemvalue="JUnit.InsertionSortTest.insertionSortIATest" />
+      <item itemvalue="JUnit.InsertionSortTest.insertionSortTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.InsertionSortTest.insertionSortIATest" />
+        <item itemvalue="JUnit.InsertionSortTest.insertionSortTest" />
         <item itemvalue="JUnit.SortTimeTest.calculateSortTime" />
         <item itemvalue="JUnit.SelectSortTest.selectionSort" />
         <item itemvalue="JUnit.SelectSortTest.calculateSortTime" />
-        <item itemvalue="JUnit.QuickSortThreeWaysTest.quickSortThreeWays" />
-        <item itemvalue="JUnit.QuickSortTest.quickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -240,6 +301,7 @@
       <workItem from="1539864530679" duration="3410000" />
       <workItem from="1543234651874" duration="4832000" />
       <workItem from="1545400683555" duration="577000" />
+      <workItem from="1545447739269" duration="3182000" />
     </task>
     <task id="LOCAL-00001" summary="remove target">
       <created>1543235906419</created>
@@ -255,37 +317,56 @@
       <option name="project" value="LOCAL" />
       <updated>1543238023124</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update readme">
+      <created>1545402338482</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1545402338482</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="InsertionSortTest_insertionSortTest - 2018.10.18 at 21h 00m 33s.xml">
+    <history-entry file="InsertionSortTest_insertionSortTest - 2018.12.22 at 11h 23m 24s.xml">
       <configuration name="InsertionSortTest.insertionSortTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MergeSortNonRecursionTest_mergeSortNonRecursion - 2018.10.18 at 21h 00m 41s.xml">
-      <configuration name="MergeSortNonRecursionTest.mergeSortNonRecursion" configurationId="JUnit" />
+    <history-entry file="InsertionSortTest_insertionSortIATest - 2018.12.22 at 11h 23m 36s.xml">
+      <configuration name="InsertionSortTest.insertionSortIATest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MergeSortNonRecursionTest_mergeSortNonRecursion - 2018.10.18 at 21h 00m 57s.xml">
-      <configuration name="MergeSortNonRecursionTest.mergeSortNonRecursion" configurationId="JUnit" />
+    <history-entry file="InsertionSortTest_insertionSortIATest - 2018.12.22 at 11h 24m 54s.xml">
+      <configuration name="InsertionSortTest.insertionSortIATest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MergeSortTest - 2018.10.18 at 21h 01m 13s.xml">
-      <configuration name="MergeSortTest" configurationId="JUnit" />
+    <history-entry file="InsertionSortTest_insertionSortIATest - 2018.12.22 at 11h 28m 25s.xml">
+      <configuration name="InsertionSortTest.insertionSortIATest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MergeSortTest_mergeSortTwo - 2018.10.18 at 21h 01m 19s.xml">
-      <configuration name="MergeSortTest.mergeSortTwo" configurationId="JUnit" />
+    <history-entry file="InsertionSortTest_insertionSortIATest - 2018.12.22 at 11h 28m 37s.xml">
+      <configuration name="InsertionSortTest.insertionSortIATest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MergeSortTest_mergeSort - 2018.10.18 at 21h 01m 24s.xml">
-      <configuration name="MergeSortTest.mergeSort" configurationId="JUnit" />
+    <history-entry file="InsertionSortTest_insertionSortIATest - 2018.12.22 at 11h 28m 50s.xml">
+      <configuration name="InsertionSortTest.insertionSortIATest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsertionSortTest_insertionSortIATest - 2018.12.22 at 11h 35m 59s.xml">
+      <configuration name="InsertionSortTest.insertionSortIATest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsertionSortTest_insertionSortIATest - 2018.12.22 at 11h 36m 04s.xml">
+      <configuration name="InsertionSortTest.insertionSortIATest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsertionSortTest_insertionSortIATest - 2018.12.22 at 11h 36m 15s.xml">
+      <configuration name="InsertionSortTest.insertionSortIATest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsertionSortTest_insertionSortIATest - 2018.12.22 at 13h 17m 45s.xml">
+      <configuration name="InsertionSortTest.insertionSortIATest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9496000" />
+    <option name="totallyTimeSpent" value="14012000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
+    <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25506938" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25773746" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -294,8 +375,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32937366" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32900432" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39935064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -323,7 +404,20 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="remove target" />
     <MESSAGE value="add booklist" />
-    <option name="LAST_COMMIT_MESSAGE" value="add booklist" />
+    <MESSAGE value="update readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="update readme" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/sort/src/test/java/InsertionSortTest.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/common/SortTestHelper.java" />
@@ -375,13 +469,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/insertion/InsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -492,14 +579,7 @@
     <entry file="file://$PROJECT_DIR$/leetcode/array/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode001/SolutionOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode001/SolutionTwo.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode665/SolutionTwo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
@@ -526,16 +606,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/test/java/InsertionSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="61" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/datastructure/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -546,23 +616,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BOOKLIST.md">
+    <entry file="file://$PROJECT_DIR$/BOOKLIST.md" />
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="57">
-            <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+          <first_editor relative-caret-position="285">
+            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="266">
-            <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode665/SolutionOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/insertion/InsertionSortITA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/insertion/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/test/java/InsertionSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="30" column="37" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

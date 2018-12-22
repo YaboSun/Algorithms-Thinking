@@ -40,4 +40,22 @@ public class InsertionSort {
             arr[j] = element;
         }
     }
+
+    /**
+     * 算法导论伪代码实现
+     * @param A 待排序数组
+     * @param n 数组长度
+     */
+    public void insertionSortIA(int[] A, int n) {
+        for (int j = 1; j < A.length; j++) {
+            int key = A[j];
+            int i = j - 1;
+
+            for (; i >= 0 && A[i] > key; i--) {
+                A[i + 1] = A[i];
+            }
+            A[i + 1] = key;
+        }
+
+    }
 }

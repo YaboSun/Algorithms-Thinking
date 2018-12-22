@@ -1,7 +1,10 @@
-package easy.leetcode001;
+package easy.leetcode665;
 
 /**
  * @author YaboSun
+ *
+ *
  */
 public class SolutionOne {
+
 }

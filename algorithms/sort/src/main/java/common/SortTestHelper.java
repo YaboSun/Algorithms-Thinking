@@ -94,8 +94,8 @@ public interface SortTestHelper {
     static void swap(int[] arr, int i, int j) {
         int temp;
         temp = arr[j];
-        arr[i] = arr[j];
-        arr[j] = temp;
+        arr[j] = arr[i];
+        arr[i] = temp;
     }
 
     static int[] copyIntArray(int[] arr, int n) {

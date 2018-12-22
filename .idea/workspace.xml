@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e420e2a3-b3f5-465e-9b1c-3c0a7444dd6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithms/sort/src/main/java/merge/GenericMergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/sort/src/main/java/merge/MergeSortIA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/sort/src/test/java/merge/GenericMergeSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/sort/src/test/java/merge/MergeSortIATest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/sort/src/test/java/bubble/BubbleSortTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/java/insertion/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sort/src/main/java/insertion/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/test/java/InsertionSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sort/src/test/java/InsertionSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/java/bubble/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sort/src/main/java/bubble/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/java/common/SortTestHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sort/src/main/java/common/SortTestHelper.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,8 +27,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/merge/GenericMergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="23" column="49" lean-forward="true" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+            <state relative-caret-position="285">
+              <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/bubble/BubbleSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithms/sort/src/test/java/bubble/BubbleSortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/common/SortTestHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="104" column="10" lean-forward="true" selection-start-line="104" selection-start-column="10" selection-end-line="104" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -67,11 +91,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/sort/src/test/java/merge/GenericMergeSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="323">
+              <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -134,6 +158,9 @@
         <option value="$PROJECT_DIR$/algorithms/sort/src/main/java/merge/MergeSortIA.java" />
         <option value="$PROJECT_DIR$/algorithms/sort/src/test/java/merge/GenericMergeSortTest.java" />
         <option value="$PROJECT_DIR$/algorithms/sort/src/main/java/merge/GenericMergeSort.java" />
+        <option value="$PROJECT_DIR$/algorithms/sort/src/main/java/common/SortTestHelper.java" />
+        <option value="$PROJECT_DIR$/algorithms/sort/src/test/java/bubble/BubbleSortTest.java" />
+        <option value="$PROJECT_DIR$/algorithms/sort/src/main/java/bubble/BubbleSort.java" />
       </list>
     </option>
   </component>
@@ -210,44 +237,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="insertion" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="merge" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="merge" type="462c0819:PsiDirectoryNode" />
+              <item name="bubble" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -258,7 +248,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545479506503" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545482001314" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -271,6 +261,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="bubble" />
       <recent name="merge" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -296,7 +287,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GenericMergeSortTest.mergeSort">
+  <component name="RunManager" selected="JUnit.BubbleSortTest.bubbleSort">
+    <configuration name="BubbleSortTest.bubbleSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sort" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bubble.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bubble" />
+      <option name="MAIN_CLASS_NAME" value="bubble.BubbleSortTest" />
+      <option name="METHOD_NAME" value="bubbleSort" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GenericMergeSortTest.mergeSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="sort" />
       <extension name="coverage">
@@ -318,16 +325,6 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="InsertionSortTest" />
       <option name="METHOD_NAME" value="descInsertionSortTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InsertionSortTest.insertionSortIATest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="sort" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="InsertionSortTest" />
-      <option name="METHOD_NAME" value="insertionSortIATest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -360,19 +357,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.InsertionSortTest.insertionSortIATest" />
       <item itemvalue="JUnit.InsertionSortTest.descInsertionSortTest" />
       <item itemvalue="JUnit.MergeSortIATest.merge" />
       <item itemvalue="JUnit.MergeSortTest.mergeSortTwo" />
       <item itemvalue="JUnit.GenericMergeSortTest.mergeSort" />
+      <item itemvalue="JUnit.BubbleSortTest.bubbleSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BubbleSortTest.bubbleSort" />
         <item itemvalue="JUnit.GenericMergeSortTest.mergeSort" />
         <item itemvalue="JUnit.MergeSortTest.mergeSortTwo" />
         <item itemvalue="JUnit.MergeSortIATest.merge" />
         <item itemvalue="JUnit.InsertionSortTest.descInsertionSortTest" />
-        <item itemvalue="JUnit.InsertionSortTest.insertionSortIATest" />
       </list>
     </recent_temporary>
   </component>
@@ -397,7 +394,7 @@
       <workItem from="1539864530679" duration="3410000" />
       <workItem from="1543234651874" duration="4832000" />
       <workItem from="1545400683555" duration="577000" />
-      <workItem from="1545447739269" duration="17267000" />
+      <workItem from="1545447739269" duration="20002000" />
     </task>
     <task id="LOCAL-00001" summary="remove target">
       <created>1543235906419</created>
@@ -427,43 +424,50 @@
       <option name="project" value="LOCAL" />
       <updated>1545455930262</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="merge sort">
+      <created>1545479518896</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1545479518896</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MergeSortIATest_merge - 2018.12.22 at 16h 51m 46s.xml">
-      <configuration name="MergeSortIATest.merge" configurationId="JUnit" />
+    <history-entry file="BubbleSortTest_bubbleSort - 2018.12.22 at 20h 08m 07s.xml">
+      <configuration name="BubbleSortTest.bubbleSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MergeSortIATest_merge - 2018.12.22 at 16h 53m 05s.xml">
-      <configuration name="MergeSortIATest.merge" configurationId="JUnit" />
+    <history-entry file="BubbleSortTest_bubbleSort - 2018.12.22 at 20h 09m 05s.xml">
+      <configuration name="BubbleSortTest.bubbleSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MergeSortIATest_merge - 2018.12.22 at 16h 57m 39s.xml">
-      <configuration name="MergeSortIATest.merge" configurationId="JUnit" />
+    <history-entry file="BubbleSortTest_bubbleSort - 2018.12.22 at 20h 11m 43s.xml">
+      <configuration name="BubbleSortTest.bubbleSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MergeSortTest_mergeSortTwo - 2018.12.22 at 17h 06m 33s.xml">
-      <configuration name="MergeSortTest.mergeSortTwo" configurationId="JUnit" />
+    <history-entry file="BubbleSortTest_bubbleSort - 2018.12.22 at 20h 21m 15s.xml">
+      <configuration name="BubbleSortTest.bubbleSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MergeSortTest_mergeSortTwo - 2018.12.22 at 17h 07m 01s.xml">
-      <configuration name="MergeSortTest.mergeSortTwo" configurationId="JUnit" />
+    <history-entry file="BubbleSortTest_bubbleSort - 2018.12.22 at 20h 21m 20s.xml">
+      <configuration name="BubbleSortTest.bubbleSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GenericMergeSortTest_mergeSort - 2018.12.22 at 18h 06m 02s.xml">
-      <configuration name="GenericMergeSortTest.mergeSort" configurationId="JUnit" />
+    <history-entry file="BubbleSortTest_bubbleSort - 2018.12.22 at 20h 22m 35s.xml">
+      <configuration name="BubbleSortTest.bubbleSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GenericMergeSortTest_mergeSort - 2018.12.22 at 18h 06m 21s.xml">
-      <configuration name="GenericMergeSortTest.mergeSort" configurationId="JUnit" />
+    <history-entry file="BubbleSortTest_bubbleSort - 2018.12.22 at 20h 22m 41s.xml">
+      <configuration name="BubbleSortTest.bubbleSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GenericMergeSortTest_mergeSort - 2018.12.22 at 18h 09m 50s.xml">
-      <configuration name="GenericMergeSortTest.mergeSort" configurationId="JUnit" />
+    <history-entry file="BubbleSortTest_bubbleSort - 2018.12.22 at 20h 29m 13s.xml">
+      <configuration name="BubbleSortTest.bubbleSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GenericMergeSortTest_mergeSort - 2018.12.22 at 19h 45m 17s.xml">
-      <configuration name="GenericMergeSortTest.mergeSort" configurationId="JUnit" />
+    <history-entry file="BubbleSortTest_bubbleSort - 2018.12.22 at 20h 29m 27s.xml">
+      <configuration name="BubbleSortTest.bubbleSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GenericMergeSortTest_mergeSort - 2018.12.22 at 19h 48m 05s.xml">
-      <configuration name="GenericMergeSortTest.mergeSort" configurationId="JUnit" />
+    <history-entry file="BubbleSortTest_bubbleSort - 2018.12.22 at 20h 33m 10s.xml">
+      <configuration name="BubbleSortTest.bubbleSort" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28097000" />
+    <option name="totallyTimeSpent" value="30832000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
@@ -478,8 +482,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32900432" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39935064" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32900432" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -509,7 +513,8 @@
     <MESSAGE value="add booklist" />
     <MESSAGE value="update readme" />
     <MESSAGE value="insertion sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="insertion sort" />
+    <MESSAGE value="merge sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge sort" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -533,10 +538,10 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithms/sort/src/main/java/merge/GenericMergeSort.java</url>
-          <line>23</line>
+          <url>file://$PROJECT_DIR$/algorithms/sort/src/main/java/bubble/BubbleSort.java</url>
+          <line>12</line>
           <properties />
-          <option name="timeStamp" value="5" />
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -597,13 +602,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/common/SortTestHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -689,13 +687,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/bubble/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/datastructure/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -808,17 +799,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="143" column="29" lean-forward="true" selection-start-line="143" selection-start-column="29" selection-end-line="143" selection-end-column="29" />
-          <folding>
-            <element signature="e#5027#5028#0" expanded="true" />
-            <element signature="e#5098#5099#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/DualPivotQuicksort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6137">
@@ -833,20 +813,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/merge/GenericMergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="23" column="49" lean-forward="true" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/sort/src/test/java/merge/GenericMergeSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="323">
+          <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="143" column="29" lean-forward="true" selection-start-line="143" selection-start-column="29" selection-end-line="143" selection-end-column="29" />
+          <folding>
+            <element signature="e#5027#5028#0" expanded="true" />
+            <element signature="e#5098#5099#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/merge/GenericMergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/common/SortTestHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="104" column="10" lean-forward="true" selection-start-line="104" selection-start-column="10" selection-end-line="104" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/bubble/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/test/java/bubble/BubbleSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
         </state>
       </provider>
     </entry>

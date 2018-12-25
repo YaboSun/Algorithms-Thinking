@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e420e2a3-b3f5-465e-9b1c-3c0a7444dd6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode001/SolutionOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/array/src/test/java/easy/leetcode001/SolutionOneTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode697/SolutionTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode697/SolutionTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/src/test/java/easy/leetcode697/SolutionOneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/array/src/test/java/easy/leetcode697/SolutionOneTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,24 +26,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode697/SolutionOne.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
+            <state relative-caret-position="342">
               <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#467#485#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode697/SolutionTwo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode001/SolutionOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode697/SolutionTwo.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/array/src/test/java/easy/leetcode001/SolutionOneTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="53" lean-forward="true" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="247">
+              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -72,8 +92,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -132,6 +152,8 @@
         <option value="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode697/SolutionOne.java" />
         <option value="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode697/SolutionTwo.java" />
         <option value="$PROJECT_DIR$/leetcode/array/src/test/java/easy/leetcode697/SolutionOneTest.java" />
+        <option value="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode001/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/leetcode/array/src/test/java/easy/leetcode001/SolutionOneTest.java" />
       </list>
     </option>
   </component>
@@ -143,10 +165,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="151" />
-    <option name="y" value="86" />
-    <option name="width" value="1717" />
-    <option name="height" value="969" />
+    <option name="y" value="28" />
+    <option name="width" value="1920" />
+    <option name="height" value="1052" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -156,8 +177,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,54 +229,18 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode674" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545569330034" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545714166265" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -270,16 +253,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="easy.leetcode001" />
       <recent name="easy.leetcode697" />
       <recent name="easy.leetcode674" />
       <recent name="easy.leetcode665" />
       <recent name="bubble" />
-      <recent name="merge" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -299,23 +282,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SolutionOneTest.findShortestSubArray">
-    <configuration name="BubbleSortTest.bubbleSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="sort" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bubble.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="bubble" />
-      <option name="MAIN_CLASS_NAME" value="bubble.BubbleSortTest" />
-      <option name="METHOD_NAME" value="bubbleSort" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.SolutionOneTest.twoSum">
     <configuration name="LeetCode665Test.checkPossibility" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="array" />
       <extension name="coverage">
@@ -380,20 +347,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SolutionOneTest.twoSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.leetcode001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="easy.leetcode001" />
+      <option name="MAIN_CLASS_NAME" value="easy.leetcode001.SolutionOneTest" />
+      <option name="METHOD_NAME" value="twoSum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="JUnit.BubbleSortTest.bubbleSort" />
       <item itemvalue="JUnit.SolutionOneTest.checkPossibility" />
       <item itemvalue="JUnit.LeetCode665Test.checkPossibility" />
       <item itemvalue="JUnit.SolutionOneTest.findLengthOfLCIS" />
       <item itemvalue="JUnit.SolutionOneTest.findShortestSubArray" />
+      <item itemvalue="JUnit.SolutionOneTest.twoSum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SolutionOneTest.twoSum" />
         <item itemvalue="JUnit.SolutionOneTest.findShortestSubArray" />
         <item itemvalue="JUnit.SolutionOneTest.findLengthOfLCIS" />
         <item itemvalue="JUnit.LeetCode665Test.checkPossibility" />
         <item itemvalue="JUnit.SolutionOneTest.checkPossibility" />
-        <item itemvalue="JUnit.BubbleSortTest.bubbleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -418,7 +401,9 @@
       <workItem from="1539864530679" duration="3410000" />
       <workItem from="1543234651874" duration="4832000" />
       <workItem from="1545400683555" duration="577000" />
-      <workItem from="1545447739269" duration="35017000" />
+      <workItem from="1545447739269" duration="35273000" />
+      <workItem from="1545618933020" duration="1996000" />
+      <workItem from="1545699355530" duration="2991000" />
     </task>
     <task id="LOCAL-00001" summary="remove target">
       <created>1543235906419</created>
@@ -483,13 +468,17 @@
       <option name="project" value="LOCAL" />
       <updated>1545568969397</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Solution 697 test">
+      <created>1545569492696</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1545569492696</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LeetCode665Test_checkPossibility - 2018.12.22 at 22h 45m 45s.xml">
-      <configuration name="LeetCode665Test.checkPossibility" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SolutionOneTest_findLengthOfLCIS - 2018.12.22 at 23h 24m 10s.xml">
       <configuration name="SolutionOneTest.findLengthOfLCIS" configurationId="JUnit" />
     </history-entry>
@@ -517,15 +506,18 @@
     <history-entry file="SolutionOneTest_findShortestSubArray - 2018.12.23 at 20h 51m 17s.xml">
       <configuration name="SolutionOneTest.findShortestSubArray" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SolutionOneTest_twoSum - 2018.12.25 at 10h 30m 31s.xml">
+      <configuration name="SolutionOneTest.twoSum" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45847000" />
+    <option name="totallyTimeSpent" value="51090000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25773746" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26307365" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -534,7 +526,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32900432" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32900432" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -570,7 +562,8 @@
     <MESSAGE value="Solution 665" />
     <MESSAGE value="Solution 674" />
     <MESSAGE value="Solution 697" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solution 697" />
+    <MESSAGE value="Solution 697 test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solution 697 test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -621,8 +614,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/common/SortTestHelper.java" />
-    <entry file="file://$PROJECT_DIR$/sort/src/main/java/SortTestHelper.java" />
     <entry file="file://$PROJECT_DIR$/sort/src/test/java/MaxHeapTest.java" />
     <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/quick/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -776,13 +767,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/insertion/InsertionSortITA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/insertion/InsertionSortITA.java" />
     <entry file="file://$PROJECT_DIR$/algorithms/sort/src/test/java/InsertionSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -955,11 +940,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode697/SolutionOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
+        <state relative-caret-position="342">
           <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#467#485#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -980,11 +964,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode697/SolutionTwo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="53" lean-forward="true" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+        <state relative-caret-position="133">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode001/SolutionOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/array/src/test/java/easy/leetcode001/SolutionOneTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
         </state>
       </provider>
     </entry>

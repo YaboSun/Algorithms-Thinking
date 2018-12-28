@@ -11,7 +11,7 @@ public class SolutionOneTest {
     SolutionOne solutionOne = new SolutionOne();
     @Test
     public void twoSum() {
-        int[] nums = {2, 7, 11, 15};
+        int[] nums = {2, 5, 11, 15};
         int target = 9;
         int[] ints = solutionOne.twoSum(nums, target);
         for (int i : ints) {

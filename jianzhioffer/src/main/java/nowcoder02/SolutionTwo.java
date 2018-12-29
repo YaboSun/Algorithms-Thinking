@@ -7,7 +7,7 @@ package nowcoder02;
  */
 public class SolutionTwo {
     public String replaceSpace(StringBuffer str) {
-        int P1 = str.length() - 1;
+        int P1 = str.length() - 1; // 指向原有字符串末尾
         for (int i = 0; i <= P1; i++)
             if (str.charAt(i) == ' ')
                 str.append("  ");

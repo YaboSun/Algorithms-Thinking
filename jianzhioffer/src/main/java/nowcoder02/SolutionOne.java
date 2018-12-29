@@ -14,10 +14,12 @@ public class SolutionOne {
      * 2、替换以后长度变化问题
      *
      * 可以先遍历数组 找到已有的空格数 然后新建一个
-     *
      */
     public String replaceSpace(StringBuffer str) {
-        char[] ch = str.toString().toCharArray();
+        if (str.length() == 0 || str == null) {
+            return "";
+        }
+        char[] ch = str.toString().toCharArray(); // 这里感觉完全没有必要 之前对StringBuffer不太理解
         int spaceNum = 0;
         for(int i = 0; i < ch.length; i++){
             if(ch[i] == ' '){

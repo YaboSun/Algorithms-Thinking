@@ -9,9 +9,13 @@
         <module name="algorithms" />
         <module name="array" />
         <module name="datastructure" />
+        <module name="huawei" />
         <module name="jianzhioffer" />
         <module name="sort" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="test" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e420e2a3-b3f5-465e-9b1c-3c0a7444dd6c" name="Default Changelist" comment="替换空格问题 测试详细理解">
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder03/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder03/SolutionOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/writtentest/huawei/src/main/java/huawei2016/first/SolutionTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/writtentest/huawei/src/main/java/huawei2016/second/SecondQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/writtentest/huawei/src/main/java/huawei2016/second/SolutionTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/writtentest/huawei/src/main/java/huawei2016/third/ThirdQuestion.java" afterDir="false" />
+    <list default="true" id="e420e2a3-b3f5-465e-9b1c-3c0a7444dd6c" name="Default Changelist" comment="华为2016机试第一题">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/writtentest/huawei/src/main/java/huawei2016/FirstQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/writtentest/huawei/src/main/java/huawei2016/first/FirstQuestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/algorithms.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure/datastructure.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jianzhioffer/jianzhioffer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/array/array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/leetcode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/writtentest/huawei/huawei.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/writtentest/huawei/src/main/java/huawei2016/first/SolutionTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/writtentest/huawei/src/main/java/huawei2016/first/SolutionTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/writtentest/writtentest.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,56 +36,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/writtentest/huawei/src/main/java/huawei2016/first/FirstQuestion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+            <state relative-caret-position="847">
+              <caret line="86" column="13" selection-start-line="86" selection-start-column="13" selection-end-line="86" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1135#1144#0" expanded="true" />
+                <element signature="e#972#981#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/writtentest/huawei/src/main/java/huawei2016/second/SecondQuestion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#614#631#0" expanded="true" />
-                <element signature="e#1011#1039#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/writtentest/huawei/src/main/java/huawei2016/third/ThirdQuestion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/writtentest/huawei/src/main/java/huawei2016/first/SolutionTwo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/writtentest/huawei/src/main/java/huawei2016/second/SolutionTwo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="247">
+              <caret line="55" column="37" lean-forward="true" selection-start-line="55" selection-start-column="37" selection-end-line="55" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#151#159#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -106,7 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/sort/src/test/java/QuickSortThreeWaysTest.java" />
         <option value="$PROJECT_DIR$/sort/src/test/java/SelectSortTest.java" />
         <option value="$PROJECT_DIR$/sort/src/test/java/MergeSortNonRecursionTest.java" />
         <option value="$PROJECT_DIR$/sort/src/main/java/quick/QuickSortImooc.java" />
@@ -157,6 +125,7 @@
         <option value="$PROJECT_DIR$/writtentest/huawei/src/main/java/huawei2016/SecondQuestion.java" />
         <option value="$PROJECT_DIR$/writtentest/huawei/src/main/java/huawei2016/second/SolutionTwo.java" />
         <option value="$PROJECT_DIR$/writtentest/huawei/src/main/java/huawei2016/second/SecondQuestion.java" />
+        <option value="$PROJECT_DIR$/writtentest/huawei/src/main/java/huawei2016/first/SolutionTwo.java" />
       </list>
     </option>
   </component>
@@ -168,9 +137,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1920" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -180,6 +150,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -244,39 +215,16 @@
               <item name="huawei2016" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="writtentest" type="462c0819:PsiDirectoryNode" />
-              <item name="huawei" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="huawei2016" type="462c0819:PsiDirectoryNode" />
-              <item name="second" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="writtentest" type="462c0819:PsiDirectoryNode" />
-              <item name="huawei" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="huawei2016" type="462c0819:PsiDirectoryNode" />
-              <item name="third" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546422646111" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546435276787" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -318,7 +266,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FirstQuestion">
+  <component name="RunManager" selected="Application.SolutionTwo">
     <configuration name="FirstQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="huawei2016.first.FirstQuestion" />
       <module name="huawei" />
@@ -332,18 +280,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionOneTest.findLengthOfLCIS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="array" />
+    <configuration name="SolutionTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="huawei2016.first.SolutionTwo" />
+      <module name="huawei" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.leetcode674.*" />
+          <option name="PATTERN" value="huawei2016.first.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy.leetcode674" />
-      <option name="MAIN_CLASS_NAME" value="easy.leetcode674.SolutionOneTest" />
-      <option name="METHOD_NAME" value="findLengthOfLCIS" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -397,27 +342,27 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.SolutionOneTest.findLengthOfLCIS" />
+      <item itemvalue="Application.FirstQuestion" />
       <item itemvalue="JUnit.SolutionOneTest.findShortestSubArray" />
       <item itemvalue="JUnit.SolutionOneTest.twoSum" />
       <item itemvalue="JUnit.SolutionTwoTest.replaceSpace" />
-      <item itemvalue="Application.FirstQuestion" />
+      <item itemvalue="Application.SolutionTwo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SolutionTwo" />
         <item itemvalue="Application.FirstQuestion" />
         <item itemvalue="JUnit.SolutionTwoTest.replaceSpace" />
         <item itemvalue="JUnit.SolutionOneTest.twoSum" />
         <item itemvalue="JUnit.SolutionOneTest.findShortestSubArray" />
-        <item itemvalue="JUnit.SolutionOneTest.findLengthOfLCIS" />
       </list>
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
     <option name="projectSyncType">
       <map>
-        <entry key="$PROJECT_DIR$/../../GeoSparkTemplateProject/geospark-sql/scala" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../GeoSparkTemplateProject/geospark/scala" value="PREVIEW" />
+        <entry key="E:/GeoSparkTemplateProject/geospark-sql/scala" value="PREVIEW" />
+        <entry key="E:/GeoSparkTemplateProject/geospark/scala" value="PREVIEW" />
       </map>
     </option>
   </component>
@@ -442,6 +387,7 @@
       <workItem from="1546087786477" duration="2180000" />
       <workItem from="1546257934808" duration="1227000" />
       <workItem from="1546394986552" duration="11688000" />
+      <workItem from="1546432415634" duration="2758000" />
     </task>
     <task id="LOCAL-00001" summary="remove target">
       <created>1543235906419</created>
@@ -591,14 +537,14 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81318000" />
+    <option name="totallyTimeSpent" value="84218000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6397059" visible="true" weight="0.24866596" />
-      <window_info id="Structure" order="1" sideWeight="0.3602941" side_tool="true" visible="true" weight="0.24866596" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6374808" weight="0.27987897" />
+      <window_info id="Structure" order="1" sideWeight="0.36153847" side_tool="true" weight="0.27987897" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -606,8 +552,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31932774" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39915967" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31846154" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39846155" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -702,6 +648,12 @@
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/writtentest/huawei/src/main/java/huawei2016/first/SolutionTwo.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -783,13 +735,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/DualPivotQuicksort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6137">
-          <caret line="132" column="35" selection-start-line="132" selection-start-column="35" selection-end-line="132" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/DualPivotQuicksort.java" />
     <entry file="file://$PROJECT_DIR$/algorithms/sort/src/test/java/merge/GenericMergeSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -800,17 +746,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="143" column="29" selection-start-line="143" selection-start-column="29" selection-end-line="143" selection-end-column="29" />
-          <folding>
-            <element signature="e#5027#5028#0" expanded="true" />
-            <element signature="e#5098#5099#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/Arrays.java" />
     <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/common/SortTestHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -974,13 +910,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/lang/StringBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4370">
-          <caret line="269" column="17" selection-start-line="269" selection-start-column="17" selection-end-line="269" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/lang/StringBuffer.java" />
     <entry file="file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder02/SolutionTwoTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -988,13 +918,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/lang/AbstractStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7505">
-          <caret line="427" column="10" selection-start-line="427" selection-start-column="10" selection-end-line="427" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/lang/AbstractStringBuilder.java" />
     <entry file="uml://JAVA/java.util.ArrayList">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -1013,7 +937,7 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="320.0" y="177.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="320.0" y="178.0" />
           <SelectedNodes />
           <Categories />
           <SCOPE>All</SCOPE>
@@ -1021,37 +945,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="493" column="64" selection-start-line="493" selection-start-column="57" selection-end-line="493" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/lang/System.java" />
     <entry file="file://$PROJECT_DIR$/writtentest/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/writtentest/huawei/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="480" column="28" selection-start-line="480" selection-start-column="28" selection-end-line="480" selection-end-column="28" />
-          <folding>
-            <element signature="e#6283#6284#0" expanded="true" />
-            <element signature="e#6351#6352#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/ArrayList.java" />
+    <entry file="file://$PROJECT_DIR$/test/pom.xml" />
     <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder03/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -1070,24 +972,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
           <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/writtentest/huawei/src/main/java/huawei2016/first/FirstQuestion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1135#1144#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/writtentest/huawei/src/main/java/huawei2016/first/SolutionTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -1117,6 +1001,27 @@
             <element signature="imports" expanded="true" />
             <element signature="e#614#631#0" expanded="true" />
             <element signature="e#1011#1039#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writtentest/huawei/src/main/java/huawei2016/first/FirstQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="847">
+          <caret line="86" column="13" selection-start-line="86" selection-start-column="13" selection-end-line="86" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#972#981#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writtentest/huawei/src/main/java/huawei2016/first/SolutionTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="55" column="37" lean-forward="true" selection-start-line="55" selection-start-column="37" selection-end-line="55" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

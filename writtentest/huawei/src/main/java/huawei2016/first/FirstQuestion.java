@@ -1,4 +1,4 @@
-package huawei2016;
+package huawei2016.first;
 
 import java.util.ArrayList;
 import java.util.Scanner;

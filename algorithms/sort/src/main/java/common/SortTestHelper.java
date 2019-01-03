@@ -2,7 +2,7 @@ package common;
 
 /**
  * @author YaboSun
- * @since Created in 18-10-18
+ * Created in 18-10-18
  *
  * 辅助排序，主要是解决硬编码生成数组的问题
  * 如果后面比较算法的效率，可能需要的测试数组有成千上万个数，所以需要随机生成

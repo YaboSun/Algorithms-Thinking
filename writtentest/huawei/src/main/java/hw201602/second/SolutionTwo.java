@@ -1,4 +1,4 @@
-package hw2016.second;
+package hw201602.second;
 
 import java.util.HashSet;
 import java.util.Scanner;
@@ -15,11 +15,11 @@ public class SolutionTwo {
         Scanner in = new Scanner(System.in);
         while(in.hasNext()){
             char[] c = in.next().toCharArray();
-            StringBuffer sb = new StringBuffer();
+            StringBuilder sb = new StringBuilder();
             Set<Character> set = new HashSet<Character>();
-            for(int i = 0;i<c.length;i++){
-                if(set.add(c[i]))
-                    sb.append(c[i]);
+            for (char c1 : c) {
+                if (set.add(c1))
+                    sb.append(c1);
             }
             System.out.println(sb.toString());
         }

@@ -1,4 +1,4 @@
-package hw2016.second;
+package hw201602.second;
 
 import java.util.*;
 

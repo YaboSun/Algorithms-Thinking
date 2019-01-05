@@ -1,4 +1,4 @@
-package huawei2016.third;
+package hw201601.third;
 
 import java.util.Scanner;
 

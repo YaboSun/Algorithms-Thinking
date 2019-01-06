@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed645c3e-dfe4-48b9-a1c4-b94a86186a3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder06/SolutionTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder07/SolutionOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,20 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder06/SolutionOne.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder07/SolutionOne.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="361">
-              <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder06/SolutionTwo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="29" column="4" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -67,6 +58,7 @@
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder05/SolutionOne.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder06/SolutionOne.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder06/SolutionTwo.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder07/SolutionOne.java" />
       </list>
     </option>
   </component>
@@ -140,15 +132,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="nowcoder06" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -159,7 +142,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546788618152" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546789097754" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -222,7 +205,7 @@
       <workItem from="1546479779842" duration="110000" />
       <workItem from="1546662119365" duration="3936000" />
       <workItem from="1546689535820" duration="3984000" />
-      <workItem from="1546759613036" duration="4440000" />
+      <workItem from="1546759613036" duration="5143000" />
     </task>
     <task id="LOCAL-00001" summary="完成剑指Offer第三题">
       <created>1546691205031</created>
@@ -259,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546788189751</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="剑指Offer第六题 二分法优化">
+      <created>1546788628372</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1546788628372</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -286,7 +276,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12679000" />
+    <option name="totallyTimeSpent" value="13382000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
@@ -332,7 +322,8 @@
     <MESSAGE value="剑指Offer第四题" />
     <MESSAGE value="剑指Offer第五题" />
     <MESSAGE value="剑指Offer第六题 暴力解法" />
-    <option name="LAST_COMMIT_MESSAGE" value="剑指Offer第六题 暴力解法" />
+    <MESSAGE value="剑指Offer第六题 二分法优化" />
+    <option name="LAST_COMMIT_MESSAGE" value="剑指Offer第六题 二分法优化" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -451,6 +442,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder06/SolutionTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="50" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder06/SolutionOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -458,10 +456,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder06/SolutionTwo.java">
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder07/SolutionOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="4" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+        <state relative-caret-position="361">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
         </state>
       </provider>
     </entry>

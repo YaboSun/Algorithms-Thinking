@@ -24,6 +24,6 @@ public class PrimTest {
                 { MAX, MAX, MAX, 16, 7, MAX, 19, 0, MAX },
                 { MAX, 12, 8, 21, MAX, MAX, MAX, MAX, 0 }
         };
-        prim.MiniSpanTree_Prim(graph, 9);
+        prim.miniSpanTree_Prim(graph, 9);
     }
 }

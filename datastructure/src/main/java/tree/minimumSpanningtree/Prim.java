@@ -19,7 +19,7 @@ public class Prim {
      * @param graph 右结点生成的二维数组
      * @param n 结点的总个数
      */
-    public void MiniSpanTree_Prim(int[][] graph, int n) {
+    public void miniSpanTree_Prim(int[][] graph, int n) {
         int minWeight; // 最小权值
         int i; // 用于遍历graph
         int j; // 用来顶点下标的循环变量

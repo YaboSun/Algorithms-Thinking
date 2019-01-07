@@ -1,8 +1,7 @@
 package tree.minimumSpanningtree;
 
+import graph.minimumSpanningtree.Prim;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 /**
  * @author YaboSun

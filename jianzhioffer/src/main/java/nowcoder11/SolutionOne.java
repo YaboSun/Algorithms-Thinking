@@ -1,7 +1,5 @@
 package nowcoder11;
 
-import org.omg.CORBA.IRObject;
-
 /**
  * @author YaboSun
  *

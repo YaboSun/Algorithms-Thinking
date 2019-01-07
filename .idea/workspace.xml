@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed645c3e-dfe4-48b9-a1c4-b94a86186a3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/java/tree/minimumSpanningtree/Prim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/test/java/tree/minimumSpanningtree/PrimTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure/src/main/java/tree/minimumSpanningtree/Prim.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/src/main/java/tree/minimumSpanningtree/Prim.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/datastructure/target/" />
@@ -23,16 +22,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/datastructure/src/main/java/tree/minimumSpanningtree/Prim.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+            <state relative-caret-position="380">
+              <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/datastructure/src/test/java/tree/minimumSpanningtree/PrimTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
@@ -156,6 +155,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="minimumSpanningtree" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -165,7 +174,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546825529910" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546826067490" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -247,7 +256,7 @@
       <workItem from="1546662119365" duration="3936000" />
       <workItem from="1546689535820" duration="3984000" />
       <workItem from="1546759613036" duration="6172000" />
-      <workItem from="1546823223840" duration="2181000" />
+      <workItem from="1546823223840" duration="3588000" />
     </task>
     <task id="LOCAL-00001" summary="完成剑指Offer第三题">
       <created>1546691205031</created>
@@ -312,13 +321,17 @@
       <option name="project" value="LOCAL" />
       <updated>1546790101945</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="最小生成树-prim算法实现">
+      <created>1546825552152</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1546825552153</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NativeKMPTest_indexKMP - 2019.01.05 at 15h 11m 09s.xml">
-      <configuration name="NativeKMPTest.indexKMP" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="NativeKMPTest_indexKMP - 2019.01.05 at 15h 11m 27s.xml">
       <configuration name="NativeKMPTest.indexKMP" configurationId="JUnit" />
     </history-entry>
@@ -340,9 +353,18 @@
     <history-entry file="PrimTest_miniSpanTree_Prim - 2019.01.07 at 09h 43m 14s.xml">
       <configuration name="PrimTest.miniSpanTree_Prim" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PrimTest_miniSpanTree_Prim - 2019.01.07 at 09h 45m 28s.xml">
+      <configuration name="PrimTest.miniSpanTree_Prim" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimTest_miniSpanTree_Prim - 2019.01.07 at 09h 54m 24s.xml">
+      <configuration name="PrimTest.miniSpanTree_Prim" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimTest_miniSpanTree_Prim - 2019.01.07 at 10h 00m 39s.xml">
+      <configuration name="PrimTest.miniSpanTree_Prim" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16592000" />
+    <option name="totallyTimeSpent" value="17999000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
@@ -358,7 +380,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32983193" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39915967" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39915967" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -392,7 +414,8 @@
     <MESSAGE value="剑指Offer第七题简单实现" />
     <MESSAGE value="剑指Offer第七题动态规划 非递归实现" />
     <MESSAGE value="剑指Offer第8题 跳台阶" />
-    <option name="LAST_COMMIT_MESSAGE" value="剑指Offer第8题 跳台阶" />
+    <MESSAGE value="最小生成树-prim算法实现" />
+    <option name="LAST_COMMIT_MESSAGE" value="最小生成树-prim算法实现" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -404,10 +427,16 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/datastructure/src/test/java/tree/minimumSpanningtree/PrimTest.java</url>
-          <line>26</line>
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/tree/minimumSpanningtree/Prim.java</url>
+          <line>48</line>
           <properties />
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/tree/minimumSpanningtree/Prim.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -552,17 +581,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure/src/main/java/tree/minimumSpanningtree/Prim.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/datastructure/src/test/java/tree/minimumSpanningtree/PrimTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructure/src/main/java/tree/minimumSpanningtree/Prim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
         </state>
       </provider>
     </entry>

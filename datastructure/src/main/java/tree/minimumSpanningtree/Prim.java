@@ -20,17 +20,23 @@ public class Prim {
      * @param n 结点的总个数
      */
     public void MiniSpanTree_Prim(int[][] graph, int n) {
-        int minWeight, i, j, k;
+        int minWeight; // 最小权值
+        int i; // 用于遍历graph
+        int j; // 用来顶点下标的循环变量
+        int k; // 记录最小权值的顶点下标
         int[] adjvex = new int[MAXVEX]; // 保存相关顶点下标
         int[] lowcost = new int[MAXVEX];
+        // 初始化得到第一行的lowcost
         for (i = 1; i < graph.length; i++) {
             lowcost[i] = graph[0][i];
             adjvex[i] = 0; // 初始化都为v0的下标
         }
+        // 分别遍历得到后面结点的lowcost
         for (i = 1; i < graph.length; i++) {
             minWeight = INFINITY; // 初始化最小权值为无穷
             j = 1;
             k = 0;
+            // 得到最小权值
             while (j < graph.length) {
                 if (lowcost[j] != 0 && lowcost[j] < minWeight) {
                     minWeight = lowcost[j];

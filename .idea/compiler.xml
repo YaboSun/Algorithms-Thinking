@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="algorithms" />
         <module name="array" />
         <module name="datastructure" />
         <module name="huawei" />
         <module name="jianzhioffer" />
+        <module name="search" />
         <module name="sort" />
       </profile>
     </annotationProcessing>

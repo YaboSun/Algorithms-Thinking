@@ -6,7 +6,7 @@ package orderedlist;
 public class BinarySearch {
 
     /**
-     * 折半查找
+     * 折半查找 非递归实现
      * @param arr 有序数组
      * @param n 数组最大下标
      * @param target 目标查找值

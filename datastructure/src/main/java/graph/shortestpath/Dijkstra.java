@@ -55,7 +55,7 @@ public class Dijkstra {
 
     }
 
-    public void printMatrix(int[] matrix) {
+    private void printMatrix(int[] matrix) {
         for (int i : matrix) {
             System.out.print(i + " ");
         }

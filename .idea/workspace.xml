@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed645c3e-dfe4-48b9-a1c4-b94a86186a3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder12/SolutionOneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder13/SolutionOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder13/SolutionTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder13/SolutionOneTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder12/SolutionOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder12/SolutionOne.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/datastructure/target/" />
@@ -25,19 +26,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder12/SolutionOne.java">
+        <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder13/SolutionOne.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="418">
+              <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder12/SolutionOneTest.java">
+        <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder13/SolutionTwo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            <state relative-caret-position="114">
+              <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder13/SolutionOneTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -47,8 +60,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -95,6 +108,9 @@
         <option value="$PROJECT_DIR$/algorithms/sort/src/test/java/heap/MaxHeapTest.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder12/SolutionOne.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder12/SolutionOneTest.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder13/SolutionOneTest.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder13/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder13/SolutionTwo.java" />
       </list>
     </option>
   </component>
@@ -175,7 +191,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="nowcoder12" type="462c0819:PsiDirectoryNode" />
+              <item name="nowcoder13" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -187,18 +203,18 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546946535147" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546948605930" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="nowcoder13" />
       <recent name="nowcoder12" />
       <recent name="heap" />
       <recent name="orderedlist" />
       <recent name="graph.shortestpath" />
-      <recent name="nowcoder09" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -216,7 +232,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SolutionOneTest.power">
+  <component name="RunManager" selected="JUnit.SolutionOneTest.reOrderArray">
     <configuration name="MaxHeapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="heap.MaxHeapTest" />
       <module name="sort" />
@@ -241,22 +257,6 @@
       <option name="PACKAGE_NAME" value="orderedlist" />
       <option name="MAIN_CLASS_NAME" value="orderedlist.BinarySearchTest" />
       <option name="METHOD_NAME" value="binarySearch" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DijkstraTest.shortestPath_Dijkstra" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="datastructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="graph.shortestpath.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="graph.shortestpath" />
-      <option name="MAIN_CLASS_NAME" value="graph.shortestpath.DijkstraTest" />
-      <option name="METHOD_NAME" value="shortestPath_Dijkstra" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -294,13 +294,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SolutionOneTest.reOrderArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jianzhioffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nowcoder13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nowcoder13" />
+      <option name="MAIN_CLASS_NAME" value="nowcoder13.SolutionOneTest" />
+      <option name="METHOD_NAME" value="reOrderArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SolutionOneTest.reOrderArray" />
         <item itemvalue="JUnit.SolutionOneTest.power" />
         <item itemvalue="Application.MaxHeapTest" />
         <item itemvalue="JUnit.BinarySearchTest.binarySearch" />
         <item itemvalue="JUnit.FloydTest.shortestPath_Floyd" />
-        <item itemvalue="JUnit.DijkstraTest.shortestPath_Dijkstra" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +337,7 @@
       <workItem from="1546689535820" duration="3984000" />
       <workItem from="1546759613036" duration="6172000" />
       <workItem from="1546823223840" duration="28263000" />
-      <workItem from="1546910162424" duration="5670000" />
+      <workItem from="1546910162424" duration="7521000" />
     </task>
     <task id="LOCAL-00001" summary="完成剑指Offer第三题">
       <created>1546691205031</created>
@@ -484,22 +500,17 @@
       <option name="project" value="LOCAL" />
       <updated>1546945526189</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="剑指Offer12 详细调试解析">
+      <created>1546946562556</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1546946562556</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BinarySearchTest_binarySearch - 2019.01.07 at 19h 46m 35s.xml">
-      <configuration name="BinarySearchTest.binarySearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BinarySearchTest_binarySearch - 2019.01.07 at 19h 46m 54s.xml">
-      <configuration name="BinarySearchTest.binarySearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BinarySearchTest_binarySearch - 2019.01.07 at 19h 47m 53s.xml">
-      <configuration name="BinarySearchTest.binarySearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolutionOneTest_power - 2019.01.08 at 19h 14m 15s.xml">
-      <configuration name="SolutionOneTest.power" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SolutionOneTest_power - 2019.01.08 at 19h 17m 09s.xml">
       <configuration name="SolutionOneTest.power" configurationId="JUnit" />
     </history-entry>
@@ -518,14 +529,27 @@
     <history-entry file="SolutionOneTest_power - 2019.01.08 at 19h 22m 10s.xml">
       <configuration name="SolutionOneTest.power" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SolutionOneTest_reOrderArray - 2019.01.08 at 19h 43m 16s.xml">
+      <configuration name="SolutionOneTest.reOrderArray" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionOneTest_reOrderArray - 2019.01.08 at 19h 43m 45s.xml">
+      <configuration name="SolutionOneTest.reOrderArray" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionOneTest_reOrderArray - 2019.01.08 at 19h 46m 41s.xml">
+      <configuration name="SolutionOneTest.reOrderArray" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionOneTest_reOrderArray - 2019.01.08 at 19h 46m 47s.xml">
+      <configuration name="SolutionOneTest.reOrderArray" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48344000" />
+    <option name="totallyTimeSpent" value="50195000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26947704" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26947704" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -534,8 +558,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32983193" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39915967" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32983193" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39915967" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -623,6 +647,12 @@
           <line>35</line>
           <properties />
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder13/SolutionOneTest.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -917,6 +947,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder12/SolutionOneTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder12/SolutionOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="463">
@@ -924,10 +961,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder12/SolutionOneTest.java">
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder13/SolutionOneTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        <state relative-caret-position="247">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder13/SolutionOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder13/SolutionTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
         </state>
       </provider>
     </entry>

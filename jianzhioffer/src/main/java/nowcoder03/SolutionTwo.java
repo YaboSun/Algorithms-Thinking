@@ -12,8 +12,8 @@ public class SolutionTwo {
     public ArrayList<Integer> printListFromTailToHead(ListNode listNode) {
         Stack<Integer> stack = new Stack<>();
         while (listNode != null) {
-            stack.push(listNode.val);
-            listNode = listNode.next;
+            stack.push(listNode.getVal());
+            listNode = listNode.getNext();
         }
 
         ArrayList<Integer> list = new ArrayList<>();

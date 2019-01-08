@@ -23,12 +23,12 @@ public class SolutionOne {
         ListNode pNode = listNode;
         while (pNode != null) {
             temp.push(pNode);
-            pNode = pNode.next;
+            pNode = pNode.getNext();
         }
 
         while (!temp.empty()) {
             pNode = temp.peek();
-            arrayList.add(pNode.val);
+            arrayList.add(pNode.getVal());
             temp.pop();
         }
         return arrayList;

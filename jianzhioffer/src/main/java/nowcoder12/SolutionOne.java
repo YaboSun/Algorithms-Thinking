@@ -20,6 +20,7 @@ public class SolutionOne {
     public double Power(double base, int exponent) {
         double res = 1, curr = base;
         int finalExponent;
+
         if(exponent > 0){
             finalExponent = exponent;
         } else if(exponent < 0) {
@@ -29,7 +30,9 @@ public class SolutionOne {
         } else { // n==0
             return 1;// 0的0次方
         }
+
         while(finalExponent != 0){
+            // 将求余操作利用&实现 提高性能
             if((finalExponent & 1) == 1)
                 res *= curr;
             curr *= curr;// 翻倍

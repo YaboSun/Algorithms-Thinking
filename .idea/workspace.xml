@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed645c3e-dfe4-48b9-a1c4-b94a86186a3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder15/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder15/SolutionOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder16/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/algorithm/algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/algorithm/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode167.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode167Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/datastru/datastru.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/datastru/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/datastructure/target/" />
@@ -16,6 +23,8 @@
     <ignored path="$PROJECT_DIR$/algorithms/sort/target/" />
     <ignored path="$PROJECT_DIR$/writtentest/target/" />
     <ignored path="$PROJECT_DIR$/algorithms/search/target/" />
+    <ignored path="$PROJECT_DIR$/leetcode/algorithm/target/" />
+    <ignored path="$PROJECT_DIR$/leetcode/datastru/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,19 +34,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder15/SolutionOne.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode167.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+            <state relative-caret-position="701">
+              <caret line="42" column="20" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="42" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder15/ListNode.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode167Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            <state relative-caret-position="247">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -47,10 +56,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
@@ -104,6 +121,10 @@
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder14/SolutionTwo.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder15/ListNode.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder15/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder16/ListNode.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder16/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode167Test.java" />
+        <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode167.java" />
       </list>
     </option>
   </component>
@@ -131,9 +152,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1920" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="x" value="343" />
+    <option name="y" value="243" />
+    <option name="width" value="1717" />
+    <option name="height" value="969" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -153,37 +175,7 @@
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="nowcoder15" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -196,20 +188,21 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546952742222" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546956543682" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="doublepointer" />
       <recent name="nowcoder13" />
       <recent name="nowcoder12" />
       <recent name="heap" />
       <recent name="orderedlist" />
-      <recent name="graph.shortestpath" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="nowcoder16" />
       <recent name="nowcoder15" />
       <recent name="nowcoder14" />
     </key>
@@ -229,7 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SolutionOneTest.reOrderArray">
+  <component name="RunManager" selected="JUnit.LeetCode167Test.twoSum">
     <configuration name="MaxHeapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="heap.MaxHeapTest" />
       <module name="sort" />
@@ -259,17 +252,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FloydTest.shortestPath_Floyd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="datastructure" />
+    <configuration name="LeetCode167Test.twoSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="graph.shortestpath.*" />
+          <option name="PATTERN" value="doublepointer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="graph.shortestpath" />
-      <option name="MAIN_CLASS_NAME" value="graph.shortestpath.FloydTest" />
-      <option name="METHOD_NAME" value="shortestPath_Floyd" />
+      <option name="PACKAGE_NAME" value="doublepointer" />
+      <option name="MAIN_CLASS_NAME" value="doublepointer.LeetCode167Test" />
+      <option name="METHOD_NAME" value="twoSum" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -309,11 +302,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LeetCode167Test.twoSum" />
         <item itemvalue="JUnit.SolutionOneTest.reOrderArray" />
         <item itemvalue="JUnit.SolutionOneTest.power" />
         <item itemvalue="Application.MaxHeapTest" />
         <item itemvalue="JUnit.BinarySearchTest.binarySearch" />
-        <item itemvalue="JUnit.FloydTest.shortestPath_Floyd" />
       </list>
     </recent_temporary>
   </component>
@@ -335,7 +328,7 @@
       <workItem from="1546759613036" duration="6172000" />
       <workItem from="1546823223840" duration="28263000" />
       <workItem from="1546910162424" duration="8454000" />
-      <workItem from="1546949441811" duration="3294000" />
+      <workItem from="1546949441811" duration="7046000" />
     </task>
     <task id="LOCAL-00001" summary="完成剑指Offer第三题">
       <created>1546691205031</created>
@@ -519,19 +512,17 @@
       <option name="project" value="LOCAL" />
       <updated>1546951262489</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="剑指Offer15 这个有点费解">
+      <created>1546952812417</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1546952812417</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SolutionOneTest_power - 2019.01.08 at 19h 17m 09s.xml">
-      <configuration name="SolutionOneTest.power" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolutionOneTest_power - 2019.01.08 at 19h 17m 44s.xml">
-      <configuration name="SolutionOneTest.power" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolutionOneTest_power - 2019.01.08 at 19h 17m 54s.xml">
-      <configuration name="SolutionOneTest.power" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SolutionOneTest_power - 2019.01.08 at 19h 18m 07s.xml">
       <configuration name="SolutionOneTest.power" configurationId="JUnit" />
     </history-entry>
@@ -553,12 +544,21 @@
     <history-entry file="SolutionOneTest_reOrderArray - 2019.01.08 at 19h 46m 47s.xml">
       <configuration name="SolutionOneTest.reOrderArray" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="LeetCode167Test_twoSum - 2019.01.08 at 21h 54m 20s.xml">
+      <configuration name="LeetCode167Test.twoSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LeetCode167Test_twoSum - 2019.01.08 at 21h 55m 22s.xml">
+      <configuration name="LeetCode167Test.twoSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LeetCode167Test_twoSum - 2019.01.08 at 21h 55m 56s.xml">
+      <configuration name="LeetCode167Test.twoSum" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54422000" />
+    <option name="totallyTimeSpent" value="58174000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
+    <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27267876" />
@@ -570,8 +570,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32983193" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39915967" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32900432" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3982684" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -596,7 +596,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="完成剑指Offer第三题" />
     <MESSAGE value="剑指Offer第三题 优化" />
     <MESSAGE value="剑指Offer第四题" />
     <MESSAGE value="剑指Offer第五题" />
@@ -621,7 +620,8 @@
     <MESSAGE value="剑指Offer12 详细调试解析" />
     <MESSAGE value="剑指Offer13" />
     <MESSAGE value="剑指Offer14" />
-    <option name="LAST_COMMIT_MESSAGE" value="剑指Offer14" />
+    <MESSAGE value="剑指Offer15 这个有点费解" />
+    <option name="LAST_COMMIT_MESSAGE" value="剑指Offer15 这个有点费解" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -668,31 +668,16 @@
           <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode167Test.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure/src/main/java/string/kmp/NativeKMP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure/src/test/java/string/kmp/NativeKMPTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/datastructure/src/main/java/string/kmp/ImproveKMP.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -1035,8 +1020,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder15/SolutionOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        <state relative-caret-position="266">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder16/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder16/SolutionOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/datastru/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode167Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode167.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="701">
+          <caret line="42" column="20" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="42" selection-end-column="20" />
         </state>
       </provider>
     </entry>

@@ -6,7 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="algorithm" />
         <module name="array" />
+        <module name="datastru" />
         <module name="datastructure" />
         <module name="huawei" />
         <module name="jianzhioffer" />

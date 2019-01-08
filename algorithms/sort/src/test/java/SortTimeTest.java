@@ -1,4 +1,4 @@
-import common.SortTestHelper;
+import utils.SortTestHelper;
 import insertion.InsertionSort;
 import merge.MergeSortRecursion;
 import org.junit.Test;

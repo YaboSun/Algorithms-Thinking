@@ -1,6 +1,6 @@
 package merge;
 
-import common.SortTestHelper;
+import utils.SortTestHelper;
 import org.junit.Test;
 
 

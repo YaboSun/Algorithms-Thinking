@@ -1,4 +1,3 @@
-import common.SortTestHelper;
 import merge.MergeSort;
 import merge.MergeSortRecursion;
 import org.junit.Test;

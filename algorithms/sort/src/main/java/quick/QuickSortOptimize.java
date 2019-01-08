@@ -5,7 +5,7 @@ package quick;
  * @since Created in 18-10-18
  */
 
-import common.SortTestHelper;
+import utils.SortTestHelper;
 
 /**
  * Created by hadoop on 18-10-6

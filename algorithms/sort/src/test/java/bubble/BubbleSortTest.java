@@ -1,6 +1,6 @@
 package bubble;
 
-import common.SortTestHelper;
+import utils.SortTestHelper;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

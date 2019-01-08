@@ -2,9 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed645c3e-dfe4-48b9-a1c4-b94a86186a3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder12/SolutionOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/sort/src/main/java/heap/MaxHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/sort/src/test/java/heap/MaxHeapTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder11/SolutionOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder11/SolutionOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/java/bubble/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sort/src/main/java/bubble/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/java/common/SortTestHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sort/src/main/java/utils/SortTestHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/java/quick/QuickSortImooc.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sort/src/main/java/quick/QuickSortImooc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/java/quick/QuickSortOptimize.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sort/src/main/java/quick/QuickSortOptimize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/java/quick/QuickSortThreeWays.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sort/src/main/java/quick/QuickSortThreeWays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/java/select/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sort/src/main/java/select/SelectSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/test/java/InsertionSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sort/src/test/java/InsertionSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/test/java/MergeSortNonRecursionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sort/src/test/java/MergeSortNonRecursionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/test/java/MergeSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sort/src/test/java/MergeSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/test/java/QuickSortImoocTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sort/src/test/java/QuickSortImoocTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/test/java/QuickSortOptimizeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sort/src/test/java/QuickSortOptimizeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/test/java/QuickSortThreeWaysTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sort/src/test/java/QuickSortThreeWaysTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/test/java/SelectSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sort/src/test/java/SelectSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/test/java/SortTimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sort/src/test/java/SortTimeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/test/java/bubble/BubbleSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sort/src/test/java/bubble/BubbleSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/test/java/merge/GenericMergeSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sort/src/test/java/merge/GenericMergeSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/test/java/merge/MergeSortIATest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sort/src/test/java/merge/MergeSortIATest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/datastructure/target/" />
@@ -23,12 +40,40 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder12/SolutionOne.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/heap/MaxHeap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+            <state relative-caret-position="596">
+              <caret line="69" column="30" lean-forward="true" selection-start-line="69" selection-start-column="30" selection-end-line="69" selection-end-column="30" />
+              <folding>
+                <element signature="docComment;class#MaxHeap#0" />
+                <element signature="method#MaxHeap#0;class#MaxHeap#0" />
+                <element signature="e#495#513#0" />
+                <element signature="docComment;method#size#0;class#MaxHeap#0" />
+                <element signature="docComment;method#isEmpty#0;class#MaxHeap#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithms/sort/src/test/java/heap/MaxHeapTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/utils/SortTestHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="26" column="43" lean-forward="true" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -38,8 +83,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -82,6 +127,9 @@
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder11/SolutionTwo.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder11/SolutionOne.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder12/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/algorithms/sort/src/main/java/utils/SortTestHelper.java" />
+        <option value="$PROJECT_DIR$/algorithms/sort/src/main/java/heap/MaxHeap.java" />
+        <option value="$PROJECT_DIR$/algorithms/sort/src/test/java/heap/MaxHeapTest.java" />
       </list>
     </option>
   </component>
@@ -121,7 +169,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -133,25 +180,34 @@
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -159,33 +215,35 @@
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="nowcoder12" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546874937566" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546945500247" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="heap" />
       <recent name="orderedlist" />
       <recent name="graph.shortestpath" />
       <recent name="nowcoder09" />
       <recent name="tree.minimumSpanningtree" />
-      <recent name="string.kmp" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -203,7 +261,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BinarySearchTest.binarySearch">
+  <component name="RunManager" selected="Application.MaxHeapTest">
+    <configuration name="MaxHeapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="heap.MaxHeapTest" />
+      <module name="sort" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="heap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BinarySearchTest.binarySearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="search" />
       <extension name="coverage">
@@ -252,22 +323,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimTest.miniSpanTree_Prim" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="datastructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tree.minimumSpanningtree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tree.minimumSpanningtree" />
-      <option name="MAIN_CLASS_NAME" value="tree.minimumSpanningtree.PrimTest" />
-      <option name="METHOD_NAME" value="miniSpanTree_Prim" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SolutionTwoTest.jumpFloorII" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="jianzhioffer" />
       <extension name="coverage">
@@ -286,11 +341,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxHeapTest" />
         <item itemvalue="JUnit.BinarySearchTest.binarySearch" />
         <item itemvalue="JUnit.FloydTest.shortestPath_Floyd" />
         <item itemvalue="JUnit.DijkstraTest.shortestPath_Dijkstra" />
         <item itemvalue="JUnit.SolutionTwoTest.jumpFloorII" />
-        <item itemvalue="JUnit.PrimTest.miniSpanTree_Prim" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +365,8 @@
       <workItem from="1546662119365" duration="3936000" />
       <workItem from="1546689535820" duration="3984000" />
       <workItem from="1546759613036" duration="6172000" />
-      <workItem from="1546823223840" duration="28027000" />
+      <workItem from="1546823223840" duration="28263000" />
+      <workItem from="1546910162424" duration="4602000" />
     </task>
     <task id="LOCAL-00001" summary="完成剑指Offer第三题">
       <created>1546691205031</created>
@@ -459,7 +515,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546869228130</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="剑指Offer12题">
+      <created>1546875239812</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1546875239812</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -495,13 +558,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42438000" />
+    <option name="totallyTimeSpent" value="47276000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26627535" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26947704" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -510,7 +572,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32983193" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32983193" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39915967" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -556,7 +618,8 @@
     <MESSAGE value="递归实现折半查找" />
     <MESSAGE value="剑指Offer11题 偷巧解法" />
     <MESSAGE value="剑指Offer11题 最优解太nb了" />
-    <option name="LAST_COMMIT_MESSAGE" value="剑指Offer11题 最优解太nb了" />
+    <MESSAGE value="剑指Offer12题" />
+    <option name="LAST_COMMIT_MESSAGE" value="剑指Offer12题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -727,13 +790,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datastructure/src/main/java/tree/minimumSpanningtree/Kruskal_Edge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructure/src/main/java/tree/minimumSpanningtree/Kruskal_Edge.java" />
     <entry file="file://$PROJECT_DIR$/datastructure/src/main/java/graph/minimumSpanningtree/Prim.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="387">
@@ -861,8 +918,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder12/SolutionOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        <state relative-caret-position="285">
+          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/heap/MaxHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="69" column="30" lean-forward="true" selection-start-line="69" selection-start-column="30" selection-end-line="69" selection-end-column="30" />
+          <folding>
+            <element signature="docComment;class#MaxHeap#0" />
+            <element signature="method#MaxHeap#0;class#MaxHeap#0" />
+            <element signature="e#495#513#0" />
+            <element signature="docComment;method#size#0;class#MaxHeap#0" />
+            <element signature="docComment;method#isEmpty#0;class#MaxHeap#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/utils/SortTestHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="43" lean-forward="true" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/test/java/heap/MaxHeapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

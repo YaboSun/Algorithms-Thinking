@@ -1,4 +1,4 @@
-import common.SortTestHelper;
+import utils.SortTestHelper;
 import insertion.InsertionSort;
 import org.junit.Test;
 

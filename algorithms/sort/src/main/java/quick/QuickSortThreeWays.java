@@ -1,6 +1,6 @@
 package quick;
 
-import common.SortTestHelper;
+import utils.SortTestHelper;
 import insertion.InsertionSort;
 
 /**

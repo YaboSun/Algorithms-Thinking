@@ -1,9 +1,6 @@
 package merge;
 
-import common.SortTestHelper;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 /**
  * @author YaboSun

@@ -38,4 +38,13 @@ public class SolutionOne {
         //直接输出pre就是我们想要得到的反转后的链表
         return pre;
     }
+
+    private class ListNode {
+        int val; // 数据域
+        ListNode next = null; // 存放后继节点指针域
+
+        public ListNode(int val) {
+            this.val = val;
+        }
+    }
 }

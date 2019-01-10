@@ -45,6 +45,21 @@ public class MaxHeap {
         count = 0;
     }
 
+    public MaxHeap(int[] arr, int n) {
+        data = new int[n + 1];
+        this.capacity = n;
+        for (int i = 0; i < n; i++) {
+            data[i + 1] = arr[i];
+        }
+        count = n;
+
+        // 这里需要注意的是对于完全二叉树，第一个不是叶子结点的
+        // 下标一定是满足i = count / 2
+        for (int i = count / 2; i >= 1; --i) {
+            shiftDown(i);
+        }
+    }
+
     /**
      * 得到最大堆的元素个数
      * @return count

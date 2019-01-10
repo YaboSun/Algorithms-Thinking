@@ -1,3 +1,4 @@
+import heap.HeapSort;
 import utils.SortTestHelper;
 import insertion.InsertionSort;
 import merge.MergeSortRecursion;
@@ -28,6 +29,7 @@ public class SortTimeTest implements SortTestHelper {
     private int[] newArr1 = SortTestHelper.copyIntArray(arr, n);
     private int[] newArr2 = SortTestHelper.copyIntArray(arr, n);
     private int[] newArr3 = SortTestHelper.copyIntArray(arr, n);
+    private int[] newArr4 = SortTestHelper.copyIntArray(arr, n);
     // 定义用于计算时间的对象
     private long startTime;
     private long endTime;
@@ -65,5 +67,13 @@ public class SortTimeTest implements SortTestHelper {
         endTime = System.currentTimeMillis();
         System.out.println("归并排序所用时间：" + (endTime - startTime) + "ms");
         assertTrue(SortTestHelper.isSorted(newArr3, n));
+
+        // 计算堆排序所用时间
+        HeapSort heapSort = new HeapSort();
+        startTime = System.currentTimeMillis();
+        heapSort.heapSort(newArr4, n);
+        endTime = System.currentTimeMillis();
+        System.out.println("堆排序所用时间：" + (endTime - startTime) + "ms");
+        assertTrue(SortTestHelper.isSorted(newArr4, n));
     }
 }

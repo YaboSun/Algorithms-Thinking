@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed645c3e-dfe4-48b9-a1c4-b94a86186a3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithms/sort/src/main/java/heap/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/sort/src/main/java/heap/IndexMaxHeap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/java/heap/MaxHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sort/src/main/java/heap/MaxHeap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/test/java/SortTimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/sort/src/test/java/SortTimeTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/datastructure/target/" />
@@ -31,8 +29,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/heap/HeapSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="-95">
+              <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/heap/IndexMaxHeap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="511">
+              <caret line="166" column="27" selection-start-line="166" selection-start-column="27" selection-end-line="166" selection-end-column="27" />
+              <folding>
+                <element signature="e#2983#2984#0" expanded="true" />
+                <element signature="e#3013#3014#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -40,23 +51,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/heap/MaxHeap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="129" column="9" lean-forward="true" selection-start-line="129" selection-start-column="9" selection-end-line="129" selection-end-column="9" />
+            <state relative-caret-position="511">
+              <caret line="130" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="130" selection-end-column="5" />
               <folding>
                 <element signature="docComment;class#MaxHeap#0" />
                 <element signature="method#MaxHeap#0;class#MaxHeap#0" />
                 <element signature="docComment;method#size#0;class#MaxHeap#0" />
                 <element signature="docComment;method#isEmpty#0;class#MaxHeap#0" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algorithms/sort/src/test/java/SortTimeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1064">
-              <caret line="76" column="55" lean-forward="true" selection-start-line="76" selection-start-column="55" selection-end-line="76" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -86,7 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder06/SolutionOne.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder06/SolutionTwo.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder07/SolutionOne.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder07/SolutionTwo.java" />
@@ -135,8 +136,9 @@
         <option value="$PROJECT_DIR$/algorithms/sort/src/test/java/heap/MaxHeapTest.java" />
         <option value="$PROJECT_DIR$/algorithms/sort/src/main/java/heap/HeapSortOne.java" />
         <option value="$PROJECT_DIR$/algorithms/sort/src/main/java/heap/MaxHeap.java" />
-        <option value="$PROJECT_DIR$/algorithms/sort/src/main/java/heap/HeapSort.java" />
         <option value="$PROJECT_DIR$/algorithms/sort/src/test/java/SortTimeTest.java" />
+        <option value="$PROJECT_DIR$/algorithms/sort/src/main/java/heap/HeapSort.java" />
+        <option value="$PROJECT_DIR$/algorithms/sort/src/main/java/heap/IndexMaxHeap.java" />
       </list>
     </option>
   </component>
@@ -229,23 +231,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="heap" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -257,7 +242,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547123462109" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547130163010" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -395,7 +380,7 @@
       <workItem from="1546823223840" duration="28263000" />
       <workItem from="1546910162424" duration="8454000" />
       <workItem from="1546949441811" duration="13000000" />
-      <workItem from="1547107540744" duration="8064000" />
+      <workItem from="1547107540744" duration="10606000" />
     </task>
     <task id="LOCAL-00001" summary="完成剑指Offer第三题">
       <created>1546691205031</created>
@@ -614,19 +599,17 @@
       <option name="project" value="LOCAL" />
       <updated>1547118500772</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="堆排序算法 三种代码实现并测试">
+      <created>1547123491117</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1547123491117</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LeetCode345Test_reverseVowels - 2019.01.08 at 23h 14m 16s.xml">
-      <configuration name="LeetCode345Test.reverseVowels" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LeetCode345Test_reverseVowels - 2019.01.08 at 23h 14m 22s.xml">
-      <configuration name="LeetCode345Test.reverseVowels" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LeetCode345Test_reverseVowels - 2019.01.08 at 23h 18m 19s.xml">
-      <configuration name="LeetCode345Test.reverseVowels" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LeetCode345Test_reverseVowels - 2019.01.08 at 23h 20m 45s.xml">
       <configuration name="LeetCode345Test.reverseVowels" configurationId="JUnit" />
     </history-entry>
@@ -648,9 +631,18 @@
     <history-entry file="SortTimeTest_calculateSortTime - 2019.01.10 at 19h 19m 57s.xml">
       <configuration name="SortTimeTest.calculateSortTime" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SortTimeTest_calculateSortTime - 2019.01.10 at 20h 27m 42s.xml">
+      <configuration name="SortTimeTest.calculateSortTime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortTimeTest_calculateSortTime - 2019.01.10 at 20h 28m 00s.xml">
+      <configuration name="SortTimeTest.calculateSortTime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortTimeTest_calculateSortTime - 2019.01.10 at 20h 30m 00s.xml">
+      <configuration name="SortTimeTest.calculateSortTime" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72192000" />
+    <option name="totallyTimeSpent" value="74734000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
@@ -691,7 +683,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="剑指Offer第六题 二分法优化" />
     <MESSAGE value="剑指Offer第七题简单实现" />
     <MESSAGE value="剑指Offer第七题动态规划 非递归实现" />
     <MESSAGE value="剑指Offer第8题 跳台阶" />
@@ -716,7 +707,8 @@
     <MESSAGE value="leetcode633" />
     <MESSAGE value="leetcode345" />
     <MESSAGE value="最大堆删除根节点实现" />
-    <option name="LAST_COMMIT_MESSAGE" value="最大堆删除根节点实现" />
+    <MESSAGE value="堆排序算法 三种代码实现并测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="堆排序算法 三种代码实现并测试" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -779,13 +771,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder06/SolutionOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder07/SolutionTwo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -1120,10 +1105,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/test/java/SortTimeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="73" column="12" selection-start-line="73" selection-start-column="12" selection-end-line="73" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/heap/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/heap/MaxHeap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="129" column="9" lean-forward="true" selection-start-line="129" selection-start-column="9" selection-end-line="129" selection-end-column="9" />
+        <state relative-caret-position="511">
+          <caret line="130" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="130" selection-end-column="5" />
           <folding>
             <element signature="docComment;class#MaxHeap#0" />
             <element signature="method#MaxHeap#0;class#MaxHeap#0" />
@@ -1133,17 +1132,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/heap/HeapSort.java">
+    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/heap/IndexMaxHeap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/test/java/SortTimeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
-          <caret line="76" column="55" lean-forward="true" selection-start-line="76" selection-start-column="55" selection-end-line="76" selection-end-column="55" />
+        <state relative-caret-position="511">
+          <caret line="166" column="27" selection-start-line="166" selection-start-column="27" selection-end-line="166" selection-end-column="27" />
+          <folding>
+            <element signature="e#2983#2984#0" expanded="true" />
+            <element signature="e#3013#3014#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

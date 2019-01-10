@@ -8,6 +8,9 @@ import utils.SortTestHelper;
 public class IndexMaxHeap {
     private int[] data;
     private int[] indexes;
+
+    private int[] reverse; // 索引堆优化
+
     private int capacity;
     private int count;
 
@@ -49,6 +52,9 @@ public class IndexMaxHeap {
         // 这里需要注意设计时下标从1开始
         // 所以要开辟capacity + 1大小的数组
         data = new int[capacity + 1];
+
+        reverse = new int[capacity + 1];
+
         indexes = new int[capacity + 1];
         count = 0;
     }
@@ -97,6 +103,7 @@ public class IndexMaxHeap {
             i += 1;
             data[i] = e;
             indexes[count + 1] = i;
+            reverse[i] = count + 1;
             count++;
             shiftUp(count);
         }
@@ -109,6 +116,8 @@ public class IndexMaxHeap {
     private void shiftUp(int i) {
         while (i > 1 && data[indexes[i / 2]] < data[indexes[i]]) {
             SortTestHelper.swap(indexes, i / 2, i);
+            reverse[indexes[i / 2]] = i / 2;
+            reverse[indexes[i]] = i;
             i /= 2;
         }
     }
@@ -121,6 +130,8 @@ public class IndexMaxHeap {
         int ret = data[indexes[1]]; // 这地方根据之前存的从下标1开始
         if (count > 0) {
             SortTestHelper.swap(indexes, 1, count);
+            reverse[indexes[1]] = 1;
+            reverse[indexes[count]] = 0; // 对于reverse来说是从1索引开始，所以将其删除实际上就是将其置为0
             count--;
             shiftDown(1);
         }
@@ -135,6 +146,8 @@ public class IndexMaxHeap {
         int ret = indexes[1] - 1; // 这地方根据之前存的从下标1开始
         if (count > 0) {
             SortTestHelper.swap(indexes, 1, count);
+            reverse[indexes[1]] = 1;
+            reverse[indexes[count]] = 0; // 对于reverse来说是从1索引开始，所以将其删除实际上就是将其置为0
             count--;
             shiftDown(1);
         }
@@ -147,6 +160,8 @@ public class IndexMaxHeap {
      * @return
      */
     public int getItem(int i) {
+        // 对于用户输入的索引 需要判断其合法性
+        assert (contain(i));
         return data[i + 1];
     }
 
@@ -156,18 +171,30 @@ public class IndexMaxHeap {
      * @param item
      */
     public void change(int i, int item) {
+        // 对于用户输入的索引 需要判断其合法性
+        assert (contain(i));
         i += 1;
         data[i] = item;
 
+        // 第一种实现 时间复杂度为O(n)
         // 找到indexes[j] = i,j表示data[i]在堆中的位置
         // 之后进行shiftUp(j)、shiftDown(j)
-        for (int j = 1; j <= count; ++j) {
+        /*for (int j = 1; j <= count; ++j) {
             if (indexes[j] == i) {
                 shiftUp(j);
                 shiftDown(j);
                 return;
             }
-        }
+        }*/
+
+        // 第二种实现 时间复杂度为O(nlogn)
+        int j = reverse[i];
+        shiftUp(j);
+        shiftDown(j);
+    }
+
+    private boolean contain(int i) {
+        return reverse[i + 1] != 0;
     }
 
     private void shiftDown(int k) {
@@ -186,6 +213,8 @@ public class IndexMaxHeap {
                 break;
             }
             SortTestHelper.swap(indexes, k, j);
+            reverse[indexes[k]] = k;
+            reverse[indexes[j]] = j;
             k = j;
         }
     }

@@ -8,7 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="algorithm" />
         <module name="array" />
-        <module name="datastru" />
+        <module name="datastruc" />
         <module name="datastructure" />
         <module name="huawei" />
         <module name="jianzhioffer" />

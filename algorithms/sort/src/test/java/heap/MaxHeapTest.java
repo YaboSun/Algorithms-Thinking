@@ -14,7 +14,10 @@ public class MaxHeapTest {
         for (int i = 0; i < 15; i++) {
             maxHeap.insert((int) (Math.random() * 100));
         }
-        SortTestHelper.printArr(maxHeap.getData());
+        //SortTestHelper.printArr(maxHeap.getData());
         //assertEquals(0, maxHeap.size());
+        while (!maxHeap.isEmpty()) {
+            System.out.println(maxHeap.extractMax());
+        }
     }
 }

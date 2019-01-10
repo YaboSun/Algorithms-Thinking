@@ -84,4 +84,34 @@ public class MaxHeap {
             i /= 2;
         }
     }
+
+    public int extractMax() {
+        int ret = data[1]; // 这地方根据之前存的从下标1开始
+        if (count > 0) {
+            SortTestHelper.swap(data, 1, count);
+            count--;
+            shiftDown(1);
+        }
+        return ret;
+    }
+
+    private void shiftDown(int k) {
+        // 首先判断结点有孩子结点
+        // 在完全二叉树中只要有左孩子就说明有孩子结点
+        // 通过上面的分析知道左孩子和第一个结点满足2倍的关系
+        // 所以判断条件为2*k <= count(当前结点个数)
+        while (2 * k <= count) {
+            // 需要比较左右孩子大小
+            // 首要判断的边界条件就是有可能没有右孩子
+            int j = 2 * k; // 定义左孩子
+            if (j + 1 <= count && data[j + 1] > data[j]) { // 说明有右孩子
+                j += 1;
+            }
+            if (data[k] >= data[j]) {
+                break;
+            }
+            SortTestHelper.swap(data, k, j);
+            k = j;
+        }
+    }
 }

@@ -14,7 +14,7 @@
     <modules>
         <module>array</module>
         <module>algorithm</module>
-        <module>datastru</module>
+        <module>datastruc</module>
     </modules>
 
 

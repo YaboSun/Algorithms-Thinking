@@ -16,6 +16,6 @@ public class BinarySearchTest {
         int n = 9;
         int target = 10;
         // System.out.println(binarySearch.binarySearchTwo(arr, n, target));
-        System.out.println(binarySearch.binarySearchTmplate(arr, target));
+        System.out.println(binarySearch.binarySearchTemplate(arr, target));
     }
 }

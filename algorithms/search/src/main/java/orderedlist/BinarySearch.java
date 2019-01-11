@@ -67,7 +67,7 @@ public class BinarySearch {
      * @param target
      * @return
      */
-    public int binarySearchTmplate(Comparable[] arr, Comparable target) {
+    public int binarySearchTemplate(Comparable[] arr, Comparable target) {
         int l = 0;
         int r = arr.length - 1;
         while (l <= r) {

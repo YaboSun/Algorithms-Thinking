@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed645c3e-dfe4-48b9-a1c4-b94a86186a3b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/algorithms/search/src/test/java/bst/BinarySearchTreeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algorithms/search/src/main/java/bst/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/search/src/main/java/bst/BinarySearchTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algorithms/search/src/main/java/orderedlist/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/search/src/main/java/orderedlist/BinarySearch.java" afterDir="false" />
@@ -29,45 +30,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/search/src/main/java/orderedlist/BinarySearch.java">
+        <entry file="file://$PROJECT_DIR$/algorithms/search/src/main/java/bst/BinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="69" column="11" selection-start-line="69" selection-start-column="11" selection-end-line="69" selection-end-column="11" />
+            <state relative-caret-position="437">
+              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+              <folding>
+                <element signature="e#222#223#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#375#376#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#558#559#0" expanded="true" />
+                <element signature="e#599#600#0" expanded="true" />
+                <element signature="e#760#761#0" expanded="true" />
+                <element signature="e#804#805#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algorithms/search/src/test/java/orderedlist/BinarySearchTest.java">
+        <entry file="file://$PROJECT_DIR$/algorithms/search/src/test/java/bst/BinarySearchTreeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/search/src/main/java/orderedlist/BinarySearchRecur.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/search/src/main/java/bst/BinarySearchTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-171">
-              <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
-              <folding>
-                <element signature="e#226#227#0" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
-                <element signature="e#282#283#0" expanded="true" />
-                <element signature="e#316#317#0" expanded="true" />
-                <element signature="e#364#365#0" expanded="true" />
-                <element signature="e#395#396#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="228">
+              <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -77,8 +64,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -97,7 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/datastructure/src/main/java/tree/minimumSpanningtree/Kruskal_Edge.java" />
         <option value="$PROJECT_DIR$/datastructure/src/main/java/tree/minimumSpanningtree/Prim.java" />
         <option value="$PROJECT_DIR$/datastructure/src/test/java/tree/minimumSpanningtree/PrimTest.java" />
         <option value="$PROJECT_DIR$/datastructure/src/main/java/tree/minimumSpanningtree/Kruskal.java" />
@@ -145,9 +131,10 @@
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder18/SolutionOne.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder19/SolutionOne.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder19/SolutionOneTest.java" />
-        <option value="$PROJECT_DIR$/algorithms/search/src/main/java/bst/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/algorithms/search/src/main/java/orderedlist/BinarySearch.java" />
         <option value="$PROJECT_DIR$/algorithms/search/src/test/java/orderedlist/BinarySearchTest.java" />
+        <option value="$PROJECT_DIR$/algorithms/search/src/main/java/bst/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/algorithms/search/src/test/java/bst/BinarySearchTreeTest.java" />
       </list>
     </option>
   </component>
@@ -237,7 +224,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="orderedlist" type="462c0819:PsiDirectoryNode" />
+              <item name="bst" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -250,7 +254,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547203535931" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547207678934" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -260,19 +264,19 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="bst" />
       <recent name="nowcoder19" />
       <recent name="doublepointer" />
       <recent name="nowcoder13" />
       <recent name="nowcoder12" />
-      <recent name="heap" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="nowcoder16" />
       <recent name="nowcoder15" />
       <recent name="nowcoder14" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -287,7 +291,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BinarySearchTest.binarySearch">
+  <component name="RunManager" selected="Application.BinarySearchTreeTest">
+    <configuration name="BinarySearchTreeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bst.BinarySearchTreeTest" />
+      <module name="search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bst.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MaxHeapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="heap.MaxHeapTest" />
       <module name="sort" />
@@ -312,22 +329,6 @@
       <option name="PACKAGE_NAME" value="orderedlist" />
       <option name="MAIN_CLASS_NAME" value="orderedlist.BinarySearchTest" />
       <option name="METHOD_NAME" value="binarySearch" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeetCode345Test.reverseVowels" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="doublepointer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="doublepointer" />
-      <option name="MAIN_CLASS_NAME" value="doublepointer.LeetCode345Test" />
-      <option name="METHOD_NAME" value="reverseVowels" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -361,11 +362,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearchTreeTest" />
         <item itemvalue="JUnit.BinarySearchTest.binarySearch" />
         <item itemvalue="JUnit.SolutionOneTest.printMatrix" />
         <item itemvalue="JUnit.SortTimeTest.calculateSortTime" />
         <item itemvalue="Application.MaxHeapTest" />
-        <item itemvalue="JUnit.LeetCode345Test.reverseVowels" />
       </list>
     </recent_temporary>
   </component>
@@ -389,7 +390,7 @@
       <workItem from="1546910162424" duration="8454000" />
       <workItem from="1546949441811" duration="13000000" />
       <workItem from="1547107540744" duration="16312000" />
-      <workItem from="1547171837520" duration="6549000" />
+      <workItem from="1547171837520" duration="10653000" />
     </task>
     <task id="LOCAL-00001" summary="完成剑指Offer第三题">
       <created>1546691205031</created>
@@ -664,13 +665,17 @@
       <option name="project" value="LOCAL" />
       <updated>1547199012533</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="将折半查找int型参数修改为Comparable">
+      <created>1547203656838</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1547203656838</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LeetCode345Test_reverseVowels - 2019.01.08 at 23h 38m 06s.xml">
-      <configuration name="LeetCode345Test.reverseVowels" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LeetCode345Test_reverseVowels - 2019.01.08 at 23h 38m 09s.xml">
       <configuration name="LeetCode345Test.reverseVowels" configurationId="JUnit" />
     </history-entry>
@@ -698,15 +703,18 @@
     <history-entry file="BinarySearchTest_binarySearch - 2019.01.11 at 18h 36m 05s.xml">
       <configuration name="BinarySearchTest.binarySearch" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BinarySearchTest_binarySearch - 2019.01.11 at 18h 49m 13s.xml">
+      <configuration name="BinarySearchTest.binarySearch" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86989000" />
+    <option name="totallyTimeSpent" value="91093000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27908218" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27908218" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -715,7 +723,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32792208" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32792208" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39718616" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -741,7 +749,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="剑指offer第10题" />
     <MESSAGE value="实现dijkstra代码 并调试运行" />
     <MESSAGE value="实现floyd代码 并调试运行" />
     <MESSAGE value="新建查找模块 实现折半查找" />
@@ -766,7 +773,8 @@
     <MESSAGE value="折半查找优化" />
     <MESSAGE value="二分搜索树初步构建" />
     <MESSAGE value="递归实现向二叉搜索树插入元素" />
-    <option name="LAST_COMMIT_MESSAGE" value="递归实现向二叉搜索树插入元素" />
+    <MESSAGE value="将折半查找int型参数修改为Comparable" />
+    <option name="LAST_COMMIT_MESSAGE" value="将折半查找int型参数修改为Comparable" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -835,13 +843,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder08/SolutionOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder09/SolutionOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -1171,32 +1172,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/search/src/main/java/bst/BinarySearchTree.java">
+    <entry file="file://$PROJECT_DIR$/algorithms/search/src/test/java/orderedlist/BinarySearchTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-171">
-          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
-          <folding>
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="304">
+          <caret line="18" column="75" lean-forward="true" selection-start-line="18" selection-start-column="75" selection-end-line="18" selection-end-column="75" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/search/src/main/java/orderedlist/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="69" column="11" selection-start-line="69" selection-start-column="11" selection-end-line="69" selection-end-column="11" />
+        <state relative-caret-position="435">
+          <caret line="68" column="7" lean-forward="true" selection-start-line="68" selection-start-column="7" selection-end-line="68" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/search/src/test/java/orderedlist/BinarySearchTest.java">
+    <entry file="file://$PROJECT_DIR$/algorithms/search/src/main/java/bst/BinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+        <state relative-caret-position="437">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding>
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+            <element signature="e#760#761#0" expanded="true" />
+            <element signature="e#804#805#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/search/src/test/java/bst/BinarySearchTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
         </state>
       </provider>
     </entry>

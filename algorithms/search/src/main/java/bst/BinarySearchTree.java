@@ -27,6 +27,7 @@ public class BinarySearchTree {
 
     /**
      * 向以node为根的二叉搜索树中插入节点(key, value)
+     * 递归实现
      * @param node 当前根节点
      * @param key 要插入节点的key
      * @param value 要插入节点的value

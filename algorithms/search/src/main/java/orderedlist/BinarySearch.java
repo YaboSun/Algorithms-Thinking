@@ -60,4 +60,26 @@ public class BinarySearch {
         }
         return -1;
     }
+
+    /**
+     * 使用类似模板类实现可变参数类型
+     * @param arr
+     * @param target
+     * @return
+     */
+    public int binarySearchTmplate(Comparable[] arr, Comparable target) {
+        int l = 0;
+        int r = arr.length - 1;
+        while (l <= r) {
+            int mid = l + (r - l) / 2;
+            if (arr[mid].compareTo(target) == 0) {
+                return mid;
+            } else if (arr[mid].compareTo(target) < 0) {
+                l = mid + 1;
+            } else {
+                r = mid - 1;
+            }
+        }
+        return -1;
+    }
 }

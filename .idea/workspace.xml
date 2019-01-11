@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed645c3e-dfe4-48b9-a1c4-b94a86186a3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode88.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode141.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,38 +26,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode680.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode680Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode88.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode141.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode345.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1596">
-              <caret line="84" selection-start-line="84" selection-end-line="84" />
+            <state relative-caret-position="246">
+              <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+              <folding>
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,7 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/datastructure/src/main/java/tree/shortestpath/Dijkstra.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder09/SolutionOne.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder09/SolutionTwo.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder09/SolutionTwoTest.java" />
@@ -138,6 +114,7 @@
         <option value="$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode680Test.java" />
         <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode680.java" />
         <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode88.java" />
+        <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode141.java" />
       </list>
     </option>
   </component>
@@ -279,7 +256,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547211011587" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547212301367" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -421,7 +398,7 @@
       <workItem from="1546910162424" duration="8454000" />
       <workItem from="1546949441811" duration="13000000" />
       <workItem from="1547107540744" duration="16312000" />
-      <workItem from="1547171837520" duration="14028000" />
+      <workItem from="1547171837520" duration="15340000" />
     </task>
     <task id="LOCAL-00001" summary="完成剑指Offer第三题">
       <created>1546691205031</created>
@@ -717,7 +694,21 @@
       <option name="project" value="LOCAL" />
       <updated>1547209827697</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="leetcode88">
+      <created>1547210932190</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1547210932190</updated>
+    </task>
+    <task id="LOCAL-00044" summary="leetcode88优化">
+      <created>1547211065190</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1547211065190</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -753,7 +744,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94468000" />
+    <option name="totallyTimeSpent" value="95780000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
@@ -794,8 +785,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="新建查找模块 实现折半查找" />
-    <MESSAGE value="递归实现折半查找" />
     <MESSAGE value="剑指Offer11题 偷巧解法" />
     <MESSAGE value="剑指Offer11题 最优解太nb了" />
     <MESSAGE value="剑指Offer12题" />
@@ -819,7 +808,9 @@
     <MESSAGE value="将折半查找int型参数修改为Comparable" />
     <MESSAGE value="完成所有二叉树相关操作实现及测试" />
     <MESSAGE value="leetcode680" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode680" />
+    <MESSAGE value="leetcode88" />
+    <MESSAGE value="leetcode88优化" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode88优化" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -894,13 +885,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/datastructure/src/test/java/graph/shortestpath/DijkstraTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/datastructure/src/main/java/graph/shortestpath/Dijkstra.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
@@ -1242,13 +1226,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode680.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode680Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -1258,8 +1235,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode88.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        <state relative-caret-position="1007">
+          <caret line="53" column="20" lean-forward="true" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode680.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode141.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <folding>
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

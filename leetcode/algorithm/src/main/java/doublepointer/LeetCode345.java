@@ -43,7 +43,7 @@ public class LeetCode345 {
 
     // -------------------------------discuss-------------------------------------------
 
-    /*public String reverseVowels(String s) {
+    public String reverseVowels1(String s) {
         StringBuilder sb = new StringBuilder();
         int j = s.length() - 1;
         for (int i = 0; i < s.length(); i++)
@@ -61,7 +61,7 @@ public class LeetCode345 {
                 sb.append(s.charAt(i));
         }
         return sb.toString();
-    }*/
+    }
 
 
     // ----------------------------------------notebook--------------------------------------

@@ -13,7 +13,7 @@ package doublepointer;
  * 思路 从后往前进行归并
  */
 public class LeetCode88 {
-    public void merge(int[] nums1, int m, int[] nums2, int n) {
+    public void merge1(int[] nums1, int m, int[] nums2, int n) {
         int i = m - 1;
         int j = n - 1;
         int temp = i + j + 1;
@@ -32,6 +32,32 @@ public class LeetCode88 {
                 nums1[temp--] = nums1[i];
                 i--;
             }
+        }
+    }
+
+
+    // ------------------------------优化解 思路差不多------------------------------------
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
+        int i=m-1;
+        int j=n-1;
+        int k = m+n-1;
+        while(i >=0 && j>=0)
+        {
+            if(nums1[i] > nums2[j]) {
+                nums1[k] = nums1[i];
+                k--;
+                i--;
+            }
+            else {
+                nums1[k] = nums2[j];
+                k--;
+                j--;
+            }
+        }
+        while(j>=0) {
+            nums1[k] = nums2[j];
+            k--;
+            j--;
         }
     }
 }

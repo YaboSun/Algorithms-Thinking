@@ -53,7 +53,7 @@ public class LeetCode215 {
      * @return
      */
     public int findKthLargest(int[] nums, int k) {
-        k = nums.length - k; // 设置第k个 后面排好序直接输出
+        k = nums.length - k; // 设置第k个为基准 后面排好序直接输出
         int l = 0, h = nums.length - 1;
         while (l < h) {
             int j = partition(nums, l, h);

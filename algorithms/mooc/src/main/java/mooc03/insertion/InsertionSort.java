@@ -1,4 +1,4 @@
-package mooc04.insertion;
+package mooc03.insertion;
 
 /**
  * @author YaboSun

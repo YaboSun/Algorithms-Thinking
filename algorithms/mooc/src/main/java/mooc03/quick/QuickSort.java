@@ -1,4 +1,4 @@
-package mooc04.quick;
+package mooc03.quick;
 
 /**
  * @author YaboSun

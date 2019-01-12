@@ -1,6 +1,6 @@
-package mooc04.bubble;
+package mooc03.bubble;
 
-import mooc04.utils.SortTestHelper;
+import mooc03.utils.SortTestHelper;
 
 /**
  * @author YaboSun

@@ -1,6 +1,6 @@
-package mooc04.select;
+package mooc03.select;
 
-import mooc04.utils.SortTestHelper;
+import mooc03.utils.SortTestHelper;
 
 /**
  * @author YaboSun

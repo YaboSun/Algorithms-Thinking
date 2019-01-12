@@ -1,7 +1,7 @@
-package mooc04.quick;
+package mooc03.quick;
 
-import mooc04.utils.SortTestHelper;
-import mooc04.insertion.InsertionSort;
+import mooc03.utils.SortTestHelper;
+import mooc03.insertion.InsertionSort;
 
 /**
  * @author YaboSun

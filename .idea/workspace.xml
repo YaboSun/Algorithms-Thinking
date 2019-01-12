@@ -2,11 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed645c3e-dfe4-48b9-a1c4-b94a86186a3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode215.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/algorithm/src/test/java/sort/LeetCode215Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc03/quick/QuickSortImoocTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode347.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSortOptimize.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSortOptimize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/bubble/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/bubble/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/IndexMaxHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/IndexMaxHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/MaxHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/MaxHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/insertion/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/insertion/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/merge/GenericMergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/merge/GenericMergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/merge/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/merge/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/merge/MergeSortIA.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/merge/MergeSortIA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/merge/MergeSortNonRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/merge/MergeSortNonRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/merge/MergeSortRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/merge/MergeSortRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/quick/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSortImooc.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/quick/QuickSortImooc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSortOptimize.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/quick/QuickSortOptimize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSortThreeWays.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/quick/QuickSortThreeWays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/select/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/select/SelectSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/utils/SortTestHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/utils/SortTestHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode215.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode215.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/datastructure/target/" />
@@ -34,10 +49,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode347.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode215.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="72" column="22" lean-forward="true" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
+            <state relative-caret-position="1045">
+              <caret line="67" column="23" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,50 +70,32 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/sort/LeetCode215Test.java">
+        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/quick/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="760">
+              <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSort.java">
+        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/quick/QuickSortImooc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSortOptimize.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="143" column="31" selection-start-line="143" selection-start-column="27" selection-end-line="143" selection-end-column="31" />
+            <state relative-caret-position="201">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
               <folding>
-                <element signature="e#5027#5028#0" expanded="true" />
-                <element signature="e#5098#5099#0" expanded="true" />
+                <element signature="e#191#192#0" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/DualPivotQuicksort.java">
+        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc03/quick/QuickSortImoocTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="218" column="20" selection-start-line="218" selection-start-column="20" selection-end-line="218" selection-end-column="20" />
+            <state relative-caret-position="209">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -119,10 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/utils/ListNode.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder14/ListNode.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder14/SolutionOne.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder14/SolutionTwo.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder15/ListNode.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder15/SolutionOne.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder16/ListNode.java" />
@@ -167,9 +169,13 @@
         <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooco5/bst/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc05/bst/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/leetcode/algorithm/src/test/java/sort/LeetCode215Test.java" />
-        <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode215.java" />
         <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSortOptimize.java" />
         <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSort.java" />
+        <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode347.java" />
+        <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode215.java" />
+        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/quick/QuickSort.java" />
+        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/quick/QuickSortImooc.java" />
+        <option value="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc03/quick/QuickSortImoocTest.java" />
       </list>
     </option>
   </component>
@@ -254,27 +260,6 @@
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc04" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc04" type="462c0819:PsiDirectoryNode" />
-              <item name="quick" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -318,7 +303,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547297757118" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547302361095" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -328,11 +313,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="mooc03.quick" />
       <recent name="sort" />
       <recent name="nowcoder23" />
       <recent name="doublepointer" />
       <recent name="bst" />
-      <recent name="nowcoder19" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -358,7 +343,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LeetCode215Test">
+  <component name="RunManager" selected="Application.QuickSortImoocTest">
     <configuration name="LeetCode215Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sort.LeetCode215Test" />
       <module name="algorithm" />
@@ -398,6 +383,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="QuickSortImoocTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mooc03.quick.QuickSortImoocTest" />
+      <module name="mooc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mooc03.quick.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SolutionOneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nowcoder23.SolutionOneTest" />
       <module name="jianzhioffer" />
@@ -411,29 +409,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode345Test.reverseVowels" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="doublepointer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="doublepointer" />
-      <option name="MAIN_CLASS_NAME" value="doublepointer.LeetCode345Test" />
-      <option name="METHOD_NAME" value="reverseVowels" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSortImoocTest" />
         <item itemvalue="Application.LeetCode215Test" />
         <item itemvalue="Application.SolutionOneTest" />
         <item itemvalue="Application.LeetCode524Test" />
         <item itemvalue="Application.LeetCode680Test" />
-        <item itemvalue="JUnit.LeetCode345Test.reverseVowels" />
       </list>
     </recent_temporary>
   </component>
@@ -458,14 +440,7 @@
       <workItem from="1546949441811" duration="13000000" />
       <workItem from="1547107540744" duration="16312000" />
       <workItem from="1547171837520" duration="32359000" />
-      <workItem from="1547280595862" duration="11142000" />
-    </task>
-    <task id="LOCAL-00006" summary="剑指Offer第六题 二分法优化">
-      <created>1546788628372</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1546788628372</updated>
+      <workItem from="1547280595862" duration="15408000" />
     </task>
     <task id="LOCAL-00007" summary="剑指Offer第七题简单实现">
       <created>1546789148346</created>
@@ -803,7 +778,14 @@
       <option name="project" value="LOCAL" />
       <updated>1547291983573</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="leetcode215">
+      <created>1547298118847</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1547298118847</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -839,13 +821,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123941000" />
+    <option name="totallyTimeSpent" value="128207000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.28228387" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.28228387" />
       <window_info id="Structure" order="1" sideWeight="0.50089765" side_tool="true" weight="0.28228387" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -855,7 +836,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32792208" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39718616" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39718616" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -880,7 +861,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="leetcode345" />
     <MESSAGE value="最大堆删除根节点实现" />
     <MESSAGE value="堆排序算法 三种代码实现并测试" />
     <MESSAGE value="索引最大堆实现" />
@@ -905,7 +885,8 @@
     <MESSAGE value="调整结构 实现二叉搜索树前中后遍历操作" />
     <MESSAGE value="实现二叉搜索树层序遍历操作" />
     <MESSAGE value="实现二叉搜索树删除最大最小值操作" />
-    <option name="LAST_COMMIT_MESSAGE" value="实现二叉搜索树删除最大最小值操作" />
+    <MESSAGE value="leetcode215" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode215" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -994,41 +975,16 @@
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc03/quick/QuickSortImoocTest.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/test/java/SortTimeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="73" column="12" selection-start-line="73" selection-start-column="12" selection-end-line="73" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/MaxHeap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="130" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="130" selection-end-column="5" />
-          <folding>
-            <element signature="docComment;class#MaxHeap#0" />
-            <element signature="method#MaxHeap#0;class#MaxHeap#0" />
-            <element signature="docComment;method#size#0;class#MaxHeap#0" />
-            <element signature="docComment;method#isEmpty#0;class#MaxHeap#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/IndexMaxHeap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="172" column="41" lean-forward="true" selection-start-line="172" selection-start-column="41" selection-end-line="172" selection-end-column="41" />
-          <folding>
-            <element signature="e#4178#4179#0" expanded="true" />
-            <element signature="e#4219#4220#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/HeapSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-95">
@@ -1350,27 +1306,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode215.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="72" column="22" lean-forward="true" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSortOptimize.java">
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/quick/QuickSortOptimize.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSort.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode347.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+        <state relative-caret-position="209">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/quick/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode215.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="67" column="23" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc03/quick/QuickSortImoocTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/quick/QuickSortImooc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

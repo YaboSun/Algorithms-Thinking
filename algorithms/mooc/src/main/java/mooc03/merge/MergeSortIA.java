@@ -1,4 +1,4 @@
-package mooc04.merge;
+package mooc03.merge;
 
 /**
  * @author YaboSun

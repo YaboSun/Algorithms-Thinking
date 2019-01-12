@@ -1,5 +1,8 @@
 package mooco5.bst;
 
+import java.util.LinkedList;
+import java.util.Queue;
+
 /**
  * @author YaboSun
  */
@@ -76,6 +79,25 @@ public class BinarySearchTree<Key extends Comparable<Key>, Value> {
             node = null;
             count--;
         }
+    }
+
+    /**
+     * 层序遍历实现
+     */
+    private void levelOrder() {
+        Queue<Node> queue = new LinkedList<>();
+        queue.offer(root);
+        while (!queue.isEmpty()) {
+            Node node = queue.peek();
+            System.out.println(node.key);
+            if (node.left != null) {
+                queue.offer(node.left);
+            }
+            if (node.right != null) {
+                queue.offer(node.right);
+            }
+        }
+
     }
     /**
      * 向以node为根的二叉搜索树中插入节点(key, value) 辅助函数
@@ -173,6 +195,8 @@ public class BinarySearchTree<Key extends Comparable<Key>, Value> {
             System.out.println(node.key);
         }
     }
+
+
     /**
      * 二叉搜索树的辅助类
      */

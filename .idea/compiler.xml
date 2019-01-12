@@ -9,16 +9,17 @@
         <module name="algo4" />
         <module name="algorithm" />
         <module name="array" />
+        <module name="dahua" />
         <module name="datastruc" />
-        <module name="datastructure" />
         <module name="huawei" />
         <module name="jianzhioffer" />
         <module name="mooc" />
-        <module name="search" />
-        <module name="sort" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="datastructure" target="1.8" />
+      <module name="search" target="1.8" />
+      <module name="sort" target="8" />
       <module name="test" target="1.5" />
     </bytecodeTargetLevel>
   </component>

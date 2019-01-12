@@ -5,11 +5,13 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/algorithms/sort/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode/datastruc/array/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/algorithms/search/pom.xml" />
+        <option value="$PROJECT_DIR$/datastructure/pom.xml" />
         <option value="$PROJECT_DIR$/test/pom.xml" />
       </set>
     </option>

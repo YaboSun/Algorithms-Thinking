@@ -12,7 +12,6 @@
         <module>leetcode</module>
         <module>jianzhioffer</module>
         <module>algorithms</module>
-        <module>datastructure</module>
         <module>writtentest</module>
     </modules>
 

@@ -6,12 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="algo4" />
         <module name="algorithm" />
         <module name="array" />
         <module name="datastruc" />
         <module name="datastructure" />
         <module name="huawei" />
         <module name="jianzhioffer" />
+        <module name="mooc" />
         <module name="search" />
         <module name="sort" />
       </profile>

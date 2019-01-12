@@ -24,16 +24,20 @@ public class SolutionOne {
             return true;
         }
         int i = start;
+        // 先找到第一个比根节点大的值，根据二叉搜索树特点
+        // 从此节点到根节点一定都比根节点值要大
         for (; i < end; i++) {
             if (sequence[i] > sequence[end]) {
                 break;
             }
         }
+        // 遍历sequence[i...end],如果出现比sequence[end]小的数则肯定不能构成
         for (int j = i; j < end; j++) {
             if (sequence[j] < sequence[end]) {
                 return false;
             }
         }
+        // i实际上将根节点的左右子树分开 后面递归执行判断是否满足就可以
         return isTreeBST(sequence, start, i - 1) && isTreeBST(sequence, i, end - 1);
     }
 }

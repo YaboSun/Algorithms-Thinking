@@ -2,74 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed645c3e-dfe4-48b9-a1c4-b94a86186a3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithms/dahua/dahua.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/search/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/dahua/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/search/src/main/java/bst/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooco5/bst/BinarySearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/search/src/main/java/orderedlist/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooco5/orderedlist/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/search/src/main/java/orderedlist/BinarySearchRecur.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooco5/orderedlist/BinarySearchRecur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/search/src/test/java/bst/BinarySearchTreeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/search/src/test/java/orderedlist/BinarySearchTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/java/bubble/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/bubble/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/java/heap/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/java/heap/IndexMaxHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/IndexMaxHeap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/java/heap/MaxHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/MaxHeap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/java/insertion/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/insertion/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/java/merge/GenericMergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/merge/GenericMergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/java/merge/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/merge/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/java/merge/MergeSortIA.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/merge/MergeSortIA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/java/merge/MergeSortNonRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/merge/MergeSortNonRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/java/merge/MergeSortRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/merge/MergeSortRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/java/quick/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/java/quick/QuickSortImooc.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSortImooc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/java/quick/QuickSortOptimize.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSortOptimize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/java/quick/QuickSortThreeWays.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSortThreeWays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/java/select/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/select/SelectSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/java/utils/SortTestHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/utils/SortTestHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/main/resources/QuickSort.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/test/java/InsertionSortTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/test/java/MergeSortNonRecursionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/test/java/MergeSortTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/test/java/QuickSortImoocTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/test/java/QuickSortOptimizeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/test/java/QuickSortTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/test/java/QuickSortThreeWaysTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/test/java/SelectSortTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/test/java/SortTimeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/test/java/bubble/BubbleSortTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/test/java/heap/MaxHeapTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/test/java/merge/GenericMergeSortTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/sort/src/test/java/merge/MergeSortIATest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastructure/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastructure/src/main/java/graph/minimumSpanningtree/Kruskal.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/dahua/src/main/java/graph/minimumSpanningtree/Kruskal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastructure/src/main/java/graph/minimumSpanningtree/Prim.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/dahua/src/main/java/graph/minimumSpanningtree/Prim.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastructure/src/main/java/graph/shortestpath/Dijkstra.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/dahua/src/main/java/graph/shortestpath/Dijkstra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastructure/src/main/java/graph/shortestpath/Floyd.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/dahua/src/main/java/graph/shortestpath/Floyd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastructure/src/main/java/string/kmp/ImproveKMP.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/dahua/src/main/java/string/kmp/ImproveKMP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastructure/src/main/java/string/kmp/NativeKMP.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/dahua/src/main/java/string/kmp/NativeKMP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastructure/src/main/java/tree/bitree/ThreadedBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/dahua/src/main/java/tree/bitree/ThreadedBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastructure/src/test/java/graph/shortestpath/DijkstraTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastructure/src/test/java/graph/shortestpath/FloydTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastructure/src/test/java/string/kmp/NativeKMPTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastructure/src/test/java/tree/minimumSpanningtree/PrimTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/datastruc/array/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode001/SolutionOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/datastruc/array/src/main/java/easy/leetcode001/SolutionOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode665/SolutionOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/datastruc/array/src/main/java/easy/leetcode665/SolutionOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode665/SolutionTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/datastruc/array/src/main/java/easy/leetcode665/SolutionTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode674/SolutionOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/datastruc/array/src/main/java/easy/leetcode674/SolutionOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode697/SolutionOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/datastruc/array/src/main/java/easy/leetcode697/SolutionOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode697/SolutionTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/datastruc/array/src/main/java/easy/leetcode697/SolutionTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/src/main/java/easy/leetcode717/SolutionOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/datastruc/array/src/main/java/easy/leetcode717/SolutionOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/src/test/java/easy/leetcode001/SolutionOneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/datastruc/array/src/test/java/easy/leetcode001/SolutionOneTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/src/test/java/easy/leetcode665/LeetCode665Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/datastruc/array/src/test/java/easy/leetcode665/LeetCode665Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/src/test/java/easy/leetcode674/SolutionOneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/datastruc/array/src/test/java/easy/leetcode674/SolutionOneTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/src/test/java/easy/leetcode697/SolutionOneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/datastruc/array/src/test/java/easy/leetcode697/SolutionOneTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooco5/bst/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc05/bst/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooco5/orderedlist/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc05/orderedlist/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooco5/orderedlist/BinarySearchRecur.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc05/orderedlist/BinarySearchRecur.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/datastructure/target/" />
@@ -87,6 +23,7 @@
     <ignored path="$PROJECT_DIR$/algorithms/mooc/target/" />
     <ignored path="$PROJECT_DIR$/algorithms/algo4/target/" />
     <ignored path="$PROJECT_DIR$/algorithms/dahua/target/" />
+    <ignored path="$PROJECT_DIR$/leetcode/datastruc/array/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,17 +33,30 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooco5/bst/BinarySearchTree.java">
+        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc05/bst/BinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="72" column="31" lean-forward="true" selection-start-line="72" selection-start-column="31" selection-end-line="72" selection-end-column="31" />
+            <state relative-caret-position="606">
+              <caret line="283" column="43" lean-forward="true" selection-start-line="283" selection-start-column="43" selection-end-line="283" selection-end-column="43" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#837#838#0" expanded="true" />
                 <element signature="e#863#864#0" expanded="true" />
                 <element signature="e#930#931#0" expanded="true" />
                 <element signature="e#962#963#0" expanded="true" />
                 <element signature="e#1024#1025#0" expanded="true" />
                 <element signature="e#1051#1052#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/datastruc/array/src/main/java/easy/leetcode001/SolutionOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -137,7 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder12/SolutionOne.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder12/SolutionOneTest.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder13/SolutionOneTest.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder13/SolutionOne.java" />
@@ -188,6 +137,7 @@
         <option value="$PROJECT_DIR$/algorithms/pom.xml" />
         <option value="$PROJECT_DIR$/leetcode/pom.xml" />
         <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooco5/bst/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc05/bst/BinarySearchTree.java" />
       </list>
     </option>
   </component>
@@ -277,7 +227,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mooco5" type="462c0819:PsiDirectoryNode" />
+              <item name="mooc05" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
@@ -287,7 +237,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mooco5" type="462c0819:PsiDirectoryNode" />
+              <item name="mooc05" type="462c0819:PsiDirectoryNode" />
               <item name="bst" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -301,7 +251,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547282376447" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547291957731" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -441,21 +391,7 @@
       <workItem from="1546949441811" duration="13000000" />
       <workItem from="1547107540744" duration="16312000" />
       <workItem from="1547171837520" duration="32359000" />
-      <workItem from="1547280595862" duration="1683000" />
-    </task>
-    <task id="LOCAL-00003" summary="剑指Offer第四题">
-      <created>1546786806899</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1546786806899</updated>
-    </task>
-    <task id="LOCAL-00004" summary="剑指Offer第五题">
-      <created>1546787784553</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1546787784553</updated>
+      <workItem from="1547280595862" duration="5977000" />
     </task>
     <task id="LOCAL-00005" summary="剑指Offer第六题 暴力解法">
       <created>1546788189751</created>
@@ -786,7 +722,21 @@
       <option name="project" value="LOCAL" />
       <updated>1547279201227</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="调整结构 实现二叉搜索树前中后遍历操作">
+      <created>1547282444699</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1547282444700</updated>
+    </task>
+    <task id="LOCAL-00053" summary="实现二叉搜索树层序遍历操作">
+      <created>1547283875454</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1547283875454</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -822,14 +772,14 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114482000" />
+    <option name="totallyTimeSpent" value="118776000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919486" visible="true" weight="0.28228387" />
-      <window_info active="true" id="Structure" order="1" sideWeight="0.50080514" side_tool="true" visible="true" weight="0.28228387" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49891776" visible="true" weight="0.28228387" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.50108224" side_tool="true" visible="true" weight="0.28228387" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -837,7 +787,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32792208" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32792208" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39718616" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -847,7 +797,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32878152" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32900432" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -863,8 +813,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="剑指Offer15 这个有点费解" />
-    <MESSAGE value="leetcode167" />
     <MESSAGE value="leetcode633" />
     <MESSAGE value="leetcode345" />
     <MESSAGE value="最大堆删除根节点实现" />
@@ -888,7 +836,9 @@
     <MESSAGE value="nowcoder22实现" />
     <MESSAGE value="nowcoder23实现" />
     <MESSAGE value="nowcoder23调试并详细了解其实现原理" />
-    <option name="LAST_COMMIT_MESSAGE" value="nowcoder23调试并详细了解其实现原理" />
+    <MESSAGE value="调整结构 实现二叉搜索树前中后遍历操作" />
+    <MESSAGE value="实现二叉搜索树层序遍历操作" />
+    <option name="LAST_COMMIT_MESSAGE" value="实现二叉搜索树层序遍历操作" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1073,7 +1023,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooco5/orderedlist/BinarySearchRecur.java">
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc05/orderedlist/BinarySearchRecur.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
@@ -1087,7 +1037,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooco5/orderedlist/BinarySearch.java">
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc05/orderedlist/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="68" column="7" lean-forward="true" selection-start-line="68" selection-start-column="7" selection-end-line="68" selection-end-column="7" />
@@ -1261,16 +1211,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/datastruc/array/src/main/java/easy/leetcode001/SolutionOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -1325,11 +1265,22 @@
     <entry file="file://$PROJECT_DIR$/algorithms/dahua/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooco5/bst/BinarySearchTree.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/datastruc/array/src/main/java/easy/leetcode001/SolutionOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="72" column="31" lean-forward="true" selection-start-line="72" selection-start-column="31" selection-end-line="72" selection-end-column="31" />
+        <state relative-caret-position="285">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
           <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc05/bst/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="283" column="43" lean-forward="true" selection-start-line="283" selection-start-column="43" selection-end-line="283" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#837#838#0" expanded="true" />
             <element signature="e#863#864#0" expanded="true" />
             <element signature="e#930#931#0" expanded="true" />

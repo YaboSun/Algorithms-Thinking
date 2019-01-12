@@ -1,4 +1,4 @@
-package mooco5.bst;
+package mooc05.bst;
 
 import java.util.LinkedList;
 import java.util.Queue;
@@ -84,7 +84,7 @@ public class BinarySearchTree<Key extends Comparable<Key>, Value> {
     /**
      * 层序遍历实现
      */
-    private void levelOrder() {
+    public void levelOrder() {
         Queue<Node> queue = new LinkedList<>();
         queue.offer(root);
         while (!queue.isEmpty()) {
@@ -99,6 +99,39 @@ public class BinarySearchTree<Key extends Comparable<Key>, Value> {
         }
 
     }
+
+    /**
+     * 寻找最小的键值
+     * @return
+     */
+    public Key minimum() {
+        assert count != 0;
+        Node minimumNode = minimum(root);
+        return minimumNode.key;
+    }
+
+    /**
+     * 删除最小节点
+     */
+    public void removeMin() {
+        if (root != null) {
+            removeMin(root);
+        }
+    }
+    /**
+     * 寻找最大键值
+     * @return
+     */
+    public Key maximum() {
+        assert count != 0;
+        Node maximumNode = maximum(root);
+        return maximumNode.key;
+    }
+
+    public void removeMax() {
+
+    }
+
     /**
      * 向以node为根的二叉搜索树中插入节点(key, value) 辅助函数
      * 递归实现
@@ -196,7 +229,61 @@ public class BinarySearchTree<Key extends Comparable<Key>, Value> {
         }
     }
 
+    /**
+     * 递归实现求最小节点
+     * @param node
+     * @return
+     */
+    private Node minimum(Node node) {
+        if (node.left == null) {
+            return node;
+        }
+        return minimum(node.left);
+    }
 
+    /**
+     * 删除最小节点
+     * @param node
+     * @return
+     */
+    private Node removeMin(Node node) {
+        if (node.left == null) {
+            Node rightNode = node.right;
+            node.right = null;
+            count--;
+            return rightNode;
+        }
+        node.left = removeMin(node.left);
+        return node;
+    }
+
+    /**
+     * 递归实现求最大节点
+     * @param node
+     * @return
+     */
+    private Node maximum(Node node) {
+        if (node.right == null) {
+            return node;
+        }
+        return maximum(node.right);
+    }
+
+    /**
+     * 删除最小节点
+     * @param node
+     * @return
+     */
+    private Node removeMax(Node node) {
+        if (node.right == null) {
+            Node leftNode = node.left;
+            node.left = null;
+            count--;
+            return leftNode;
+        }
+        node.right = removeMin(node.right);
+        return node;
+    }
     /**
      * 二叉搜索树的辅助类
      */

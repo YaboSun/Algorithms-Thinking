@@ -1,4 +1,4 @@
-package mooco5.orderedlist;
+package mooc05.orderedlist;
 
 /**
  * @author YaboSun

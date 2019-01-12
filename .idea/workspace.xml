@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed645c3e-dfe4-48b9-a1c4-b94a86186a3b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode215.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/algorithm/src/test/java/sort/LeetCode215Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooco5/bst/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc05/bst/BinarySearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooco5/orderedlist/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc05/orderedlist/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooco5/orderedlist/BinarySearchRecur.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc05/orderedlist/BinarySearchRecur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSortOptimize.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSortOptimize.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/datastructure/target/" />
@@ -32,32 +33,63 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc05/bst/BinarySearchTree.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode215.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="606">
-              <caret line="283" column="43" lean-forward="true" selection-start-line="283" selection-start-column="43" selection-end-line="283" selection-end-column="43" />
+            <state relative-caret-position="206">
+              <caret line="72" column="22" lean-forward="true" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#837#838#0" expanded="true" />
-                <element signature="e#863#864#0" expanded="true" />
-                <element signature="e#930#931#0" expanded="true" />
-                <element signature="e#962#963#0" expanded="true" />
-                <element signature="e#1024#1025#0" expanded="true" />
-                <element signature="e#1051#1052#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/datastruc/array/src/main/java/easy/leetcode001/SolutionOne.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/sort/LeetCode215Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            <state relative-caret-position="228">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSortOptimize.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="143" column="31" selection-start-line="143" selection-start-column="27" selection-end-line="143" selection-end-column="31" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#5027#5028#0" expanded="true" />
+                <element signature="e#5098#5099#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/DualPivotQuicksort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="218" column="20" selection-start-line="218" selection-start-column="20" selection-end-line="218" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -87,10 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder12/SolutionOneTest.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder13/SolutionOneTest.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder13/SolutionOne.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder13/SolutionTwo.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/utils/ListNode.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder14/ListNode.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder14/SolutionOne.java" />
@@ -138,6 +166,10 @@
         <option value="$PROJECT_DIR$/leetcode/pom.xml" />
         <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooco5/bst/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc05/bst/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/leetcode/algorithm/src/test/java/sort/LeetCode215Test.java" />
+        <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode215.java" />
+        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSortOptimize.java" />
+        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSort.java" />
       </list>
     </option>
   </component>
@@ -227,7 +259,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc05" type="462c0819:PsiDirectoryNode" />
+              <item name="mooc04" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
@@ -237,8 +269,43 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc05" type="462c0819:PsiDirectoryNode" />
-              <item name="bst" type="462c0819:PsiDirectoryNode" />
+              <item name="mooc04" type="462c0819:PsiDirectoryNode" />
+              <item name="quick" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -251,7 +318,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547291957731" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547297757118" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -261,11 +328,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="sort" />
       <recent name="nowcoder23" />
       <recent name="doublepointer" />
       <recent name="bst" />
       <recent name="nowcoder19" />
-      <recent name="nowcoder13" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -291,13 +358,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SolutionOneTest">
-    <configuration name="BinarySearchTreeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bst.BinarySearchTreeTest" />
-      <module name="search" />
+  <component name="RunManager" selected="Application.LeetCode215Test">
+    <configuration name="LeetCode215Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.LeetCode215Test" />
+      <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bst.*" />
+          <option name="PATTERN" value="sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -362,11 +429,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeetCode215Test" />
         <item itemvalue="Application.SolutionOneTest" />
         <item itemvalue="Application.LeetCode524Test" />
         <item itemvalue="Application.LeetCode680Test" />
         <item itemvalue="JUnit.LeetCode345Test.reverseVowels" />
-        <item itemvalue="Application.BinarySearchTreeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -391,14 +458,7 @@
       <workItem from="1546949441811" duration="13000000" />
       <workItem from="1547107540744" duration="16312000" />
       <workItem from="1547171837520" duration="32359000" />
-      <workItem from="1547280595862" duration="5977000" />
-    </task>
-    <task id="LOCAL-00005" summary="剑指Offer第六题 暴力解法">
-      <created>1546788189751</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1546788189751</updated>
+      <workItem from="1547280595862" duration="11142000" />
     </task>
     <task id="LOCAL-00006" summary="剑指Offer第六题 二分法优化">
       <created>1546788628372</created>
@@ -736,7 +796,14 @@
       <option name="project" value="LOCAL" />
       <updated>1547283875454</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="实现二叉搜索树删除最大最小值操作">
+      <created>1547291983573</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1547291983573</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -772,14 +839,14 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118776000" />
+    <option name="totallyTimeSpent" value="123941000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49891776" visible="true" weight="0.28228387" />
-      <window_info active="true" id="Structure" order="1" sideWeight="0.50108224" side_tool="true" visible="true" weight="0.28228387" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.28228387" />
+      <window_info id="Structure" order="1" sideWeight="0.50089765" side_tool="true" weight="0.28228387" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -788,7 +855,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32792208" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39718616" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39718616" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -813,7 +880,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="leetcode633" />
     <MESSAGE value="leetcode345" />
     <MESSAGE value="最大堆删除根节点实现" />
     <MESSAGE value="堆排序算法 三种代码实现并测试" />
@@ -838,7 +904,8 @@
     <MESSAGE value="nowcoder23调试并详细了解其实现原理" />
     <MESSAGE value="调整结构 实现二叉搜索树前中后遍历操作" />
     <MESSAGE value="实现二叉搜索树层序遍历操作" />
-    <option name="LAST_COMMIT_MESSAGE" value="实现二叉搜索树层序遍历操作" />
+    <MESSAGE value="实现二叉搜索树删除最大最小值操作" />
+    <option name="LAST_COMMIT_MESSAGE" value="实现二叉搜索树删除最大最小值操作" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -921,49 +988,16 @@
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/sort/LeetCode215Test.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder16/SolutionOne.java" />
-    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode167Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode633Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode633.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode167.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/test/java/heap/MaxHeapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/sort/src/test/java/SortTimeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="986">
@@ -1277,8 +1311,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc05/bst/BinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="283" column="43" lean-forward="true" selection-start-line="283" selection-start-column="43" selection-end-line="283" selection-end-column="43" />
+        <state relative-caret-position="397">
+          <caret line="272" column="13" lean-forward="true" selection-start-line="272" selection-start-column="13" selection-end-line="272" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#837#838#0" expanded="true" />
@@ -1288,6 +1322,55 @@
             <element signature="e#1024#1025#0" expanded="true" />
             <element signature="e#1051#1052#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="143" column="31" selection-start-line="143" selection-start-column="27" selection-end-line="143" selection-end-column="31" />
+          <folding>
+            <element signature="e#5027#5028#0" expanded="true" />
+            <element signature="e#5098#5099#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/DualPivotQuicksort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="218" column="20" selection-start-line="218" selection-start-column="20" selection-end-line="218" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/sort/LeetCode215Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode215.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="72" column="22" lean-forward="true" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSortOptimize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
         </state>
       </provider>
     </entry>

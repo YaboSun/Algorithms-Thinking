@@ -38,7 +38,7 @@ public class SortHelper {
      * @param i 第一个元素下标
      * @param j 第二个元素下标
      */
-    public static void change(Object[] a, int i, int j) {
+    public static void exch(Object[] a, int i, int j) {
         Object swap = a[i];
         a[i] = a[j];
         a[j] = swap;

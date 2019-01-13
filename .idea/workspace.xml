@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed645c3e-dfe4-48b9-a1c4-b94a86186a3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/utils/SortHelper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/Insertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/Selection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/algs4/src/test/java/sorting/InsertionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/algs4/src/test/java/sorting/SelectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/Selection.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/Selection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/utils/SortHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/utils/SortHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/algs4/src/test/java/sorting/SelectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/algs4/src/test/java/sorting/SelectionTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/datastructure/target/" />
@@ -51,11 +51,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/Selection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+            <state relative-caret-position="152">
+              <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -63,8 +66,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/utils/SortHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            <state relative-caret-position="302">
+              <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
               <folding>
                 <element signature="e#208#209#0" expanded="true" />
                 <element signature="e#249#250#0" expanded="true" />
@@ -77,11 +80,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/algorithms/algs4/src/test/java/sorting/SelectionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="32" />
+            <state relative-caret-position="285">
+              <caret line="15" column="51" lean-forward="true" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,7 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode167Test.java" />
         <option value="$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode633Test.java" />
         <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode633.java" />
         <option value="$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode345Test.java" />
@@ -162,9 +164,10 @@
         <option value="$PROJECT_DIR$/algorithms/algs4/pom.xml" />
         <option value="$PROJECT_DIR$/algorithms/pom.xml" />
         <option value="$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/Insertion.java" />
-        <option value="$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/utils/SortHelper.java" />
         <option value="$PROJECT_DIR$/algorithms/algs4/src/test/java/sorting/InsertionTest.java" />
+        <option value="$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/utils/SortHelper.java" />
         <option value="$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/Selection.java" />
+        <option value="$PROJECT_DIR$/algorithms/algs4/src/test/java/sorting/SelectionTest.java" />
       </list>
     </option>
   </component>
@@ -294,7 +297,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547349712189" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547355611064" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -432,14 +435,7 @@
       <workItem from="1547107540744" duration="16312000" />
       <workItem from="1547171837520" duration="32359000" />
       <workItem from="1547280595862" duration="16516000" />
-      <workItem from="1547346080866" duration="3613000" />
-    </task>
-    <task id="LOCAL-00009" summary="剑指Offer第8题 跳台阶">
-      <created>1546790101945</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1546790101945</updated>
+      <workItem from="1547346080866" duration="5534000" />
     </task>
     <task id="LOCAL-00010" summary="最小生成树-prim算法实现">
       <created>1546825552152</created>
@@ -777,7 +773,14 @@
       <option name="project" value="LOCAL" />
       <updated>1547347613502</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="编写模板排序辅助类 将原有代码重新调用">
+      <created>1547349853685</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1547349853685</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -813,10 +816,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132928000" />
+    <option name="totallyTimeSpent" value="134849000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
+    <frame x="0" y="28" width="1920" height="1052" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.2854856" />
@@ -828,7 +831,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32792208" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32792208" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39718616" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -854,7 +857,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="索引最大堆实现" />
     <MESSAGE value="索引最大堆优化" />
     <MESSAGE value="剑指Offer18" />
     <MESSAGE value="剑指Offer19" />
@@ -879,7 +881,8 @@
     <MESSAGE value="leetcode215" />
     <MESSAGE value="彻底搞懂快速排序" />
     <MESSAGE value="my initial insertion" />
-    <option name="LAST_COMMIT_MESSAGE" value="my initial insertion" />
+    <MESSAGE value="编写模板排序辅助类 将原有代码重新调用" />
+    <option name="LAST_COMMIT_MESSAGE" value="编写模板排序辅助类 将原有代码重新调用" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1323,8 +1326,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/utils/SortHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        <state relative-caret-position="302">
+          <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
           <folding>
             <element signature="e#208#209#0" expanded="true" />
             <element signature="e#249#250#0" expanded="true" />
@@ -1336,20 +1339,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/algs4/src/test/java/sorting/SelectionTest.java">
+    <entry file="file://$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/Selection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="32" />
+        <state relative-caret-position="152">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/Selection.java">
+    <entry file="file://$PROJECT_DIR$/algorithms/algs4/src/test/java/sorting/SelectionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+        <state relative-caret-position="285">
+          <caret line="15" column="51" lean-forward="true" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

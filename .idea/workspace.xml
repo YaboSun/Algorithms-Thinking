@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed645c3e-dfe4-48b9-a1c4-b94a86186a3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/Insertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/algs4/src/test/java/sorting/InsertionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/utils/SortHelper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/algo4/algo4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/algs4/algs4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/algo4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/algs4/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/Insertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/Selection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/algs4/src/test/java/sorting/InsertionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/algs4/src/test/java/sorting/SelectionTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/datastructure/target/" />
@@ -55,19 +52,39 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/Insertion.java">
+        <entry file="file://$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/Selection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+            <state relative-caret-position="342">
+              <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/algs4/src/test/java/sorting/InsertionTest.java">
+        <entry file="file://$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/utils/SortHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+            <state relative-caret-position="133">
+              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+              <folding>
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#805#806#0" expanded="true" />
+                <element signature="e#856#857#0" expanded="true" />
+                <element signature="e#1454#1455#0" expanded="true" />
+                <element signature="e#1505#1506#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/algs4/src/test/java/sorting/SelectionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -77,8 +94,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -97,8 +114,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder16/SolutionOne.java" />
-        <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode167.java" />
         <option value="$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode167Test.java" />
         <option value="$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode633Test.java" />
         <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode633.java" />
@@ -146,8 +161,10 @@
         <option value="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc03/quick/QuickSortImoocTest.java" />
         <option value="$PROJECT_DIR$/algorithms/algs4/pom.xml" />
         <option value="$PROJECT_DIR$/algorithms/pom.xml" />
-        <option value="$PROJECT_DIR$/algorithms/algs4/src/test/java/sorting/InsertionTest.java" />
         <option value="$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/Insertion.java" />
+        <option value="$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/utils/SortHelper.java" />
+        <option value="$PROJECT_DIR$/algorithms/algs4/src/test/java/sorting/InsertionTest.java" />
+        <option value="$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/Selection.java" />
       </list>
     </option>
   </component>
@@ -229,6 +246,43 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="algs4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sorting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="algs4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="algs4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="algs4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sorting" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -240,7 +294,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547347471607" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547349712189" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -280,20 +334,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InsertionTest">
-    <configuration name="InsertionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.InsertionTest" />
-      <module name="algs4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SelectionTest">
     <configuration name="LeetCode215Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sort.LeetCode215Test" />
       <module name="algorithm" />
@@ -333,6 +374,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SelectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.SelectionTest" />
+      <module name="algs4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SolutionOneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nowcoder23.SolutionOneTest" />
       <module name="jianzhioffer" />
@@ -348,7 +402,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InsertionTest" />
+        <item itemvalue="Application.SelectionTest" />
         <item itemvalue="Application.QuickSortImoocTest" />
         <item itemvalue="Application.LeetCode215Test" />
         <item itemvalue="Application.SolutionOneTest" />
@@ -378,14 +432,7 @@
       <workItem from="1547107540744" duration="16312000" />
       <workItem from="1547171837520" duration="32359000" />
       <workItem from="1547280595862" duration="16516000" />
-      <workItem from="1547346080866" duration="1373000" />
-    </task>
-    <task id="LOCAL-00008" summary="剑指Offer第七题动态规划 非递归实现">
-      <created>1546789449464</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1546789449464</updated>
+      <workItem from="1547346080866" duration="3613000" />
     </task>
     <task id="LOCAL-00009" summary="剑指Offer第8题 跳台阶">
       <created>1546790101945</created>
@@ -723,7 +770,14 @@
       <option name="project" value="LOCAL" />
       <updated>1547302522705</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="my initial insertion">
+      <created>1547347613499</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1547347613502</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -759,13 +813,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130688000" />
+    <option name="totallyTimeSpent" value="132928000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.2854856" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.2854856" />
       <window_info id="Structure" order="1" sideWeight="0.50089765" side_tool="true" weight="0.28228387" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -774,13 +828,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32792208" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39718616" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32792208" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39718616" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32983193" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32900432" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32878152" />
@@ -800,7 +854,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="堆排序算法 三种代码实现并测试" />
     <MESSAGE value="索引最大堆实现" />
     <MESSAGE value="索引最大堆优化" />
     <MESSAGE value="剑指Offer18" />
@@ -825,7 +878,8 @@
     <MESSAGE value="实现二叉搜索树删除最大最小值操作" />
     <MESSAGE value="leetcode215" />
     <MESSAGE value="彻底搞懂快速排序" />
-    <option name="LAST_COMMIT_MESSAGE" value="彻底搞懂快速排序" />
+    <MESSAGE value="my initial insertion" />
+    <option name="LAST_COMMIT_MESSAGE" value="my initial insertion" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -921,8 +975,8 @@
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithms/algs4/src/test/java/sorting/InsertionTest.java</url>
-          <line>11</line>
+          <url>file://$PROJECT_DIR$/algorithms/algs4/src/test/java/sorting/SelectionTest.java</url>
+          <line>13</line>
           <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
@@ -930,13 +984,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder18/SolutionOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder19/SolutionOneTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -1274,17 +1321,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/algs4/src/test/java/sorting/InsertionTest.java">
+    <entry file="file://$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/utils/SortHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        <state relative-caret-position="133">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#805#806#0" expanded="true" />
+            <element signature="e#856#857#0" expanded="true" />
+            <element signature="e#1454#1455#0" expanded="true" />
+            <element signature="e#1505#1506#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/Insertion.java">
+    <entry file="file://$PROJECT_DIR$/algorithms/algs4/src/test/java/sorting/SelectionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/Selection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
         </state>
       </provider>
     </entry>

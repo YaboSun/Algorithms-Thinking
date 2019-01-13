@@ -1,9 +1,12 @@
 package sorting;
 
+import sorting.utils.SortHelper;
 /**
  * @author YaboSun
  */
-public class Insertion {
+public class Selection {
+
+    private Selection() {}
 
     /********************************************************
      *                      个人代码初步实现
@@ -15,25 +18,15 @@ public class Insertion {
      * 后面依次比较，如果arr[j] < min就交换arr[i]和arr[j]
      * @param arr
      */
-    public void mySort(Comparable[] arr) {
+    public static void mySort(Comparable[] arr) {
         for (int i = 0; i < arr.length - 1; i++) {
             for (int j = i + 1; j < arr.length; j++) {
                 Comparable min = arr[i];
                 if (arr[j].compareTo(min) < 0) {
-                    swap(arr, i, j);
+                    SortHelper.change(arr, i, j);
                 }
             }
         }
     }
 
-    /********************************************************
-     *                      排序辅助函数
-     * ******************************************************/
-
-    // 交换a[i]和a[j]
-    private void swap(Object[] arr, int i, int j) {
-        Object temp = arr[i];
-        arr[i] = arr[j];
-        arr[j] = temp;
-    }
 }

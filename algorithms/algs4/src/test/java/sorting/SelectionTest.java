@@ -1,14 +1,16 @@
 package sorting;
 
+import sorting.utils.SortHelper;
+
 import static org.junit.Assert.*;
 
 /**
  * @author YaboSun
  */
-public class InsertionTest {
+public class SelectionTest {
     public static void main(String[] args) {
-        Insertion insertion = new Insertion();
         Comparable[] arr = new Comparable[]{3,6,7,2};
-        insertion.mySort(arr);
+        Selection.mySort(arr);
+        assert SortHelper.isSorted(arr);
     }
 }

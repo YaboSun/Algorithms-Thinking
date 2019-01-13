@@ -12,7 +12,9 @@ public class UnionFindTest {
     public static void main(String[] args) {
         int n = 100000;
 
+        // TODO 这里我测出来第二种比第一种还要慢！？
         UnionFindTestHelper.testUF1(n);
         UnionFindTestHelper.testUF2(n);
+        UnionFindTestHelper.testUF3(n);
     }
 }

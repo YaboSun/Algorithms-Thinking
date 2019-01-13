@@ -13,7 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>mooc</module>
-        <module>algo4</module>
+        <module>algs4</module>
         <module>dahua</module>
     </modules>
 

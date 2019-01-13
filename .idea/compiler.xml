@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="algo4" />
         <module name="algorithm" />
+        <module name="algs4" />
         <module name="array" />
         <module name="dahua" />
         <module name="datastruc" />

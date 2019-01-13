@@ -129,9 +129,18 @@ public class BinarySearchTree<Key extends Comparable<Key>, Value> {
     }
 
     public void removeMax() {
-
+        if (root != null) {
+            removeMax(root);
+        }
     }
 
+    /**
+     * 删除二分搜索树中键值为key的节点
+     * @param key
+     */
+    public void remove(Key key) {
+        root = remove(root, key);
+    }
     /**
      * 向以node为根的二叉搜索树中插入节点(key, value) 辅助函数
      * 递归实现
@@ -284,6 +293,54 @@ public class BinarySearchTree<Key extends Comparable<Key>, Value> {
         node.right = removeMin(node.right);
         return node;
     }
+
+    /**
+     * 删除以node为根的二分搜索树中键值为key的节点
+     * 主要删除思路就是找当前根节点node右子树中最小的节点作为新的根节点
+     * 返回删除节点后新的二叉树的根
+     * @param node 当前二分搜索树根节点
+     * @param key 要删除节点键值为key
+     * @return 返回删除节点后新的二叉树的根
+     */
+    public Node remove(Node node, Key key) {
+        if (node == null) {
+            return null;
+        }
+
+        if (key.compareTo(node.key) < 0) {
+            node.left = remove(node.left, key);
+            return node;
+        } else if (key.compareTo(node.key) > 0) {
+            node.right = remove(node.right, key);
+            return node;
+        } else { // key == node.key
+            if (node.left == null) {
+                Node rightNode = node.right;
+                node = null;
+                count--;
+                return rightNode;
+            }
+            if (node.right == null) {
+                Node leftNode = node.left;
+                node = null;
+                count--;
+                return leftNode;
+            }
+
+            // 左右都不为空
+            Node successor = new Node(minimum(node.left)); // 找到node节点删除以后新的节点并用新建的结点保存
+            count++; // 维护count的值不变
+
+            successor.right = removeMin(node.right);
+            successor.left = node.left;
+
+            node = null;
+            count--;
+
+            return successor;
+        }
+    }
+
     /**
      * 二叉搜索树的辅助类
      */
@@ -298,6 +355,14 @@ public class BinarySearchTree<Key extends Comparable<Key>, Value> {
             this.value = value;
             this.left = null;
             this.right = null;
+        }
+
+        // 用于保存node，防止后面修改将对应的引用删除
+        public Node(Node node) {
+            this.key = node.key;
+            this.value = node.value;
+            this.left = node.left;
+            this.right = node.right;
         }
     }
 }

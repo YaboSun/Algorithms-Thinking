@@ -18,6 +18,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="array" target="1.8" />
+      <module name="datastru" target="1.8" />
       <module name="datastructure" target="1.8" />
       <module name="search" target="1.8" />
       <module name="sort" target="8" />

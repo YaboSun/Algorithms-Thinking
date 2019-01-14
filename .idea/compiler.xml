@@ -10,6 +10,7 @@
         <module name="algs4" />
         <module name="array" />
         <module name="dahua" />
+        <module name="datastru" />
         <module name="datastruc" />
         <module name="huawei" />
         <module name="jianzhioffer" />

@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed645c3e-dfe4-48b9-a1c4-b94a86186a3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder25/SolutionOne.java" afterDir="false" />
+    <list default="true" id="e420e2a3-b3f5-465e-9b1c-3c0a7444dd6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder26/SolutionOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/algs4/algs4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/dahua/dahua.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/mooc/mooc.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/datastructure/target/" />
@@ -17,11 +21,10 @@
     <ignored path="$PROJECT_DIR$/algorithms/search/target/" />
     <ignored path="$PROJECT_DIR$/leetcode/algorithm/target/" />
     <ignored path="$PROJECT_DIR$/leetcode/datastru/target/" />
-    <ignored path="$PROJECT_DIR$/leetcode/datastruc/target/" />
-    <ignored path="$PROJECT_DIR$/algorithms/mooc/target/" />
-    <ignored path="$PROJECT_DIR$/algorithms/algo4/target/" />
     <ignored path="$PROJECT_DIR$/algorithms/dahua/target/" />
     <ignored path="$PROJECT_DIR$/leetcode/datastruc/array/target/" />
+    <ignored path="$PROJECT_DIR$/leetcode/datastruc/target/" />
+    <ignored path="$PROJECT_DIR$/algorithms/mooc/target/" />
     <ignored path="$PROJECT_DIR$/algorithms/algs4/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,16 +33,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder25/SolutionOne.java">
+        <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder26/SolutionOne.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
-              <folding>
-                <element signature="e#305#306#0" expanded="true" />
-                <element signature="e#347#348#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="562">
+              <caret line="85" column="8" selection-start-line="85" selection-start-column="8" selection-end-line="85" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/Selection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -69,57 +77,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/algorithms/search/src/main/java/orderedlist/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder05/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder06/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder06/SolutionTwo.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder07/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder07/SolutionTwo.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder08/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/datastructure/src/main/java/tree/minimumSpanningtree/Kruskal_Edge.java" />
+        <option value="$PROJECT_DIR$/datastructure/src/main/java/tree/minimumSpanningtree/Prim.java" />
+        <option value="$PROJECT_DIR$/datastructure/src/test/java/tree/minimumSpanningtree/PrimTest.java" />
+        <option value="$PROJECT_DIR$/datastructure/src/main/java/tree/minimumSpanningtree/Kruskal.java" />
+        <option value="$PROJECT_DIR$/datastructure/src/main/java/tree/shortestpath/Dijkstra.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder09/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder09/SolutionTwo.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder09/SolutionTwoTest.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder10/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/datastructure/src/test/java/graph/shortestpath/DijkstraTest.java" />
+        <option value="$PROJECT_DIR$/datastructure/src/test/java/graph/shortestpath/FloydTest.java" />
+        <option value="$PROJECT_DIR$/datastructure/src/main/java/graph/shortestpath/Dijkstra.java" />
+        <option value="$PROJECT_DIR$/datastructure/src/main/java/graph/shortestpath/Floyd.java" />
         <option value="$PROJECT_DIR$/algorithms/search/src/test/java/orderedlist/BinarySearchTest.java" />
-        <option value="$PROJECT_DIR$/algorithms/search/src/main/java/bst/BinarySearchTree.java" />
-        <option value="$PROJECT_DIR$/algorithms/search/src/test/java/bst/BinarySearchTreeTest.java" />
-        <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode345.java" />
-        <option value="$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode680Test.java" />
-        <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode680.java" />
-        <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode88.java" />
-        <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode141.java" />
-        <option value="$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode524Test.java" />
-        <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode524.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder20/SolutinOne.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder20/SolutionTwo.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder21/SolutionOne.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder22/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/algorithms/search/src/main/java/orderedlist/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/algorithms/search/src/main/java/orderedlist/BinarySearchRecur.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder11/SolutionTwo.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder11/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/algorithms/sort/src/main/java/utils/SortTestHelper.java" />
+        <option value="$PROJECT_DIR$/algorithms/sort/src/main/java/heap/MaxHeap.java" />
+        <option value="$PROJECT_DIR$/algorithms/sort/src/test/java/heap/MaxHeapTest.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder12/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder12/SolutionOneTest.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder13/SolutionOneTest.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder13/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder13/SolutionTwo.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/utils/ListNode.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder03/SolutionOne.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder03/SolutionTwo.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder04/SolutionOne.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder23/SolutionOneTest.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder23/SolutionOne.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/leetcode/pom.xml" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooco5/bst/BinarySearchTree.java" />
-        <option value="$PROJECT_DIR$/leetcode/algorithm/src/test/java/sort/LeetCode215Test.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSortOptimize.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSort.java" />
-        <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode347.java" />
-        <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode215.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/quick/QuickSort.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/quick/QuickSortImooc.java" />
-        <option value="$PROJECT_DIR$/algorithms/algs4/pom.xml" />
-        <option value="$PROJECT_DIR$/algorithms/pom.xml" />
-        <option value="$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/Insertion.java" />
-        <option value="$PROJECT_DIR$/algorithms/algs4/src/test/java/sorting/InsertionTest.java" />
-        <option value="$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/utils/SortHelper.java" />
-        <option value="$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/Selection.java" />
-        <option value="$PROJECT_DIR$/algorithms/algs4/src/test/java/sorting/SelectionTest.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/quick/QuickSortTest.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc03/quick/QuickSortImoocTest.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc05/bst/BinarySearchTree.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/UnionFind.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/UnionFind1.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/quickfind/UnionFind1.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc06/unionfind/quickfind/UnionFind1Test.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/quickfind/UnionFindTestHelper.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/quickunion/UnionFind2.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/optimize/size/UnionFind3.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc06/unionfind/UnionFindTest.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/utils/UnionFindTestHelper.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder24/SolutionOne.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder25/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder14/ListNode.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder15/ListNode.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder16/ListNode.java" />
+        <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode167.java" />
+        <option value="$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode167Test.java" />
+        <option value="$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode633Test.java" />
+        <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode633.java" />
+        <option value="$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode345Test.java" />
+        <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode345.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/common/TreeNode.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder14/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder14/SolutionTwo.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder15/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder16/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder17/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder26/SolutionOne.java" />
       </list>
     </option>
   </component>
@@ -147,12 +155,12 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="203" />
-    <option name="y" value="150" />
+    <option name="x" value="343" />
+    <option name="y" value="243" />
     <option name="width" value="1717" />
-    <option name="height" value="944" />
+    <option name="height" value="969" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -170,25 +178,34 @@
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="algs4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="algs4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="algs4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="algs4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -196,58 +213,44 @@
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="algs4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="nowcoder24" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="sorting" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547383575931" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547430730739" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="mooc06.unionfind.quickfind" />
-      <recent name="sorting" />
-      <recent name="mooc03.quick" />
-      <recent name="sort" />
-      <recent name="nowcoder23" />
+      <recent name="doublepointer" />
+      <recent name="nowcoder13" />
+      <recent name="nowcoder12" />
+      <recent name="heap" />
+      <recent name="orderedlist" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="nowcoder16" />
       <recent name="nowcoder15" />
       <recent name="nowcoder14" />
     </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="mooc06.unionfind" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/leetcode/datastruc" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -262,79 +265,101 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="LeetCode215Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.LeetCode215Test" />
+  <component name="RunManager" selected="JUnit.LeetCode345Test.reverseVowels">
+    <configuration name="LeetCode167Test.twoSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="doublepointer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="doublepointer" />
+      <option name="MAIN_CLASS_NAME" value="doublepointer.LeetCode167Test" />
+      <option name="METHOD_NAME" value="twoSum" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSortImoocTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mooc03.quick.QuickSortImoocTest" />
-      <module name="mooc" />
+    <configuration name="LeetCode345Test.reverseVowels" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mooc03.quick.*" />
+          <option name="PATTERN" value="doublepointer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="doublepointer" />
+      <option name="MAIN_CLASS_NAME" value="doublepointer.LeetCode345Test" />
+      <option name="METHOD_NAME" value="reverseVowels" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.SelectionTest" />
-      <module name="algs4" />
+    <configuration name="LeetCode633Test.judgeSquareSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sorting.*" />
+          <option name="PATTERN" value="doublepointer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="doublepointer" />
+      <option name="MAIN_CLASS_NAME" value="doublepointer.LeetCode633Test" />
+      <option name="METHOD_NAME" value="judgeSquareSum" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionOneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nowcoder23.SolutionOneTest" />
+    <configuration name="SolutionOneTest.power" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="jianzhioffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nowcoder23.*" />
+          <option name="PATTERN" value="nowcoder12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="nowcoder12" />
+      <option name="MAIN_CLASS_NAME" value="nowcoder12.SolutionOneTest" />
+      <option name="METHOD_NAME" value="power" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnionFindTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mooc06.unionfind.UnionFindTest" />
-      <module name="mooc" />
+    <configuration name="SolutionOneTest.reOrderArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jianzhioffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mooc06.unionfind.utils.*" />
+          <option name="PATTERN" value="nowcoder13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="nowcoder13" />
+      <option name="MAIN_CLASS_NAME" value="nowcoder13.SolutionOneTest" />
+      <option name="METHOD_NAME" value="reOrderArray" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.LeetCode167Test.twoSum" />
+      <item itemvalue="JUnit.LeetCode345Test.reverseVowels" />
+      <item itemvalue="JUnit.LeetCode633Test.judgeSquareSum" />
+      <item itemvalue="JUnit.SolutionOneTest.power" />
+      <item itemvalue="JUnit.SolutionOneTest.reOrderArray" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UnionFindTest" />
-        <item itemvalue="Application.QuickSortImoocTest" />
-        <item itemvalue="Application.SelectionTest" />
-        <item itemvalue="Application.LeetCode215Test" />
-        <item itemvalue="Application.SolutionOneTest" />
+        <item itemvalue="JUnit.LeetCode345Test.reverseVowels" />
+        <item itemvalue="JUnit.LeetCode633Test.judgeSquareSum" />
+        <item itemvalue="JUnit.LeetCode167Test.twoSum" />
+        <item itemvalue="JUnit.SolutionOneTest.reOrderArray" />
+        <item itemvalue="JUnit.SolutionOneTest.power" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +368,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ed645c3e-dfe4-48b9-a1c4-b94a86186a3b" name="Default Changelist" comment="" />
+      <changelist id="e420e2a3-b3f5-465e-9b1c-3c0a7444dd6c" name="Default Changelist" comment="" />
       <created>1546479447808</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -356,11 +381,114 @@
       <workItem from="1546759613036" duration="6172000" />
       <workItem from="1546823223840" duration="28263000" />
       <workItem from="1546910162424" duration="8454000" />
-      <workItem from="1546949441811" duration="13000000" />
-      <workItem from="1547107540744" duration="16312000" />
-      <workItem from="1547171837520" duration="32359000" />
-      <workItem from="1547280595862" duration="16516000" />
-      <workItem from="1547346080866" duration="22125000" />
+      <workItem from="1546949441811" duration="12665000" />
+      <workItem from="1547426985170" duration="70000" />
+      <workItem from="1547427229908" duration="3330000" />
+    </task>
+    <task id="LOCAL-00001" summary="完成剑指Offer第三题">
+      <created>1546691205031</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1546691205032</updated>
+    </task>
+    <task id="LOCAL-00002" summary="剑指Offer第三题 优化">
+      <created>1546691365900</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1546691365900</updated>
+    </task>
+    <task id="LOCAL-00003" summary="剑指Offer第四题">
+      <created>1546786806899</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1546786806899</updated>
+    </task>
+    <task id="LOCAL-00004" summary="剑指Offer第五题">
+      <created>1546787784553</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1546787784553</updated>
+    </task>
+    <task id="LOCAL-00005" summary="剑指Offer第六题 暴力解法">
+      <created>1546788189751</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1546788189751</updated>
+    </task>
+    <task id="LOCAL-00006" summary="剑指Offer第六题 二分法优化">
+      <created>1546788628372</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1546788628372</updated>
+    </task>
+    <task id="LOCAL-00007" summary="剑指Offer第七题简单实现">
+      <created>1546789148346</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1546789148347</updated>
+    </task>
+    <task id="LOCAL-00008" summary="剑指Offer第七题动态规划 非递归实现">
+      <created>1546789449464</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1546789449464</updated>
+    </task>
+    <task id="LOCAL-00009" summary="剑指Offer第8题 跳台阶">
+      <created>1546790101945</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1546790101945</updated>
+    </task>
+    <task id="LOCAL-00010" summary="最小生成树-prim算法实现">
+      <created>1546825552152</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1546825552153</updated>
+    </task>
+    <task id="LOCAL-00011" summary="最小生成树-prim算法搞通">
+      <created>1546826838197</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1546826838197</updated>
+    </task>
+    <task id="LOCAL-00012" summary="最小生成树-kruskal核心代码实现">
+      <created>1546831439866</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1546831439866</updated>
+    </task>
+    <task id="LOCAL-00013" summary="剑指offer第9题 两种方法实现">
+      <created>1546835517397</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1546835517397</updated>
+    </task>
+    <task id="LOCAL-00014" summary="剑指offer第10题">
+      <created>1546836410661</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1546836410661</updated>
+    </task>
+    <task id="LOCAL-00015" summary="实现dijkstra代码 并调试运行">
+      <created>1546852298356</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1546852298356</updated>
     </task>
     <task id="LOCAL-00016" summary="实现floyd代码 并调试运行">
       <created>1546859121992</created>
@@ -460,295 +588,64 @@
       <option name="project" value="LOCAL" />
       <updated>1546957474513</updated>
     </task>
-    <task id="LOCAL-00030" summary="leetcode345">
-      <created>1546962211070</created>
+    <task id="LOCAL-00030" summary="剑指offer16">
+      <created>1547037614479</created>
       <option name="number" value="00030" />
       <option name="presentableId" value="LOCAL-00030" />
       <option name="project" value="LOCAL" />
-      <updated>1546962211070</updated>
+      <updated>1547037614479</updated>
     </task>
-    <task id="LOCAL-00031" summary="最大堆删除根节点实现">
-      <created>1547118500770</created>
+    <task id="LOCAL-00031" summary="剑指offer17">
+      <created>1547041013516</created>
       <option name="number" value="00031" />
       <option name="presentableId" value="LOCAL-00031" />
       <option name="project" value="LOCAL" />
-      <updated>1547118500772</updated>
+      <updated>1547041013516</updated>
     </task>
-    <task id="LOCAL-00032" summary="堆排序算法 三种代码实现并测试">
-      <created>1547123491117</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1547123491117</updated>
-    </task>
-    <task id="LOCAL-00033" summary="索引最大堆实现">
-      <created>1547130240098</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1547130240098</updated>
-    </task>
-    <task id="LOCAL-00034" summary="索引最大堆优化">
-      <created>1547131483157</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1547131483157</updated>
-    </task>
-    <task id="LOCAL-00035" summary="剑指Offer18">
-      <created>1547133722880</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1547133722880</updated>
-    </task>
-    <task id="LOCAL-00036" summary="剑指Offer19">
-      <created>1547136264505</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1547136264505</updated>
-    </task>
-    <task id="LOCAL-00037" summary="折半查找优化">
-      <created>1547197206894</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1547197206894</updated>
-    </task>
-    <task id="LOCAL-00038" summary="二分搜索树初步构建">
-      <created>1547197820462</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1547197820462</updated>
-    </task>
-    <task id="LOCAL-00039" summary="递归实现向二叉搜索树插入元素">
-      <created>1547199012533</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1547199012533</updated>
-    </task>
-    <task id="LOCAL-00040" summary="将折半查找int型参数修改为Comparable">
-      <created>1547203656838</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1547203656838</updated>
-    </task>
-    <task id="LOCAL-00041" summary="完成所有二叉树相关操作实现及测试">
-      <created>1547207722788</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1547207722788</updated>
-    </task>
-    <task id="LOCAL-00042" summary="leetcode680">
-      <created>1547209827696</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1547209827697</updated>
-    </task>
-    <task id="LOCAL-00043" summary="leetcode88">
-      <created>1547210932190</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1547210932190</updated>
-    </task>
-    <task id="LOCAL-00044" summary="leetcode88优化">
-      <created>1547211065190</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1547211065190</updated>
-    </task>
-    <task id="LOCAL-00045" summary="leetcode141实现">
-      <created>1547212347384</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1547212347384</updated>
-    </task>
-    <task id="LOCAL-00046" summary="leetcode524">
-      <created>1547215256540</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1547215256540</updated>
-    </task>
-    <task id="LOCAL-00047" summary="nowcoder20实现">
-      <created>1547217642761</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1547217642761</updated>
-    </task>
-    <task id="LOCAL-00048" summary="nowcoder21实现">
-      <created>1547219222838</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1547219222838</updated>
-    </task>
-    <task id="LOCAL-00049" summary="nowcoder22实现">
-      <created>1547221100032</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1547221100033</updated>
-    </task>
-    <task id="LOCAL-00050" summary="nowcoder23实现">
-      <created>1547222754672</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1547222754681</updated>
-    </task>
-    <task id="LOCAL-00051" summary="nowcoder23调试并详细了解其实现原理">
-      <created>1547279201227</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1547279201227</updated>
-    </task>
-    <task id="LOCAL-00052" summary="调整结构 实现二叉搜索树前中后遍历操作">
-      <created>1547282444699</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1547282444700</updated>
-    </task>
-    <task id="LOCAL-00053" summary="实现二叉搜索树层序遍历操作">
-      <created>1547283875454</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1547283875454</updated>
-    </task>
-    <task id="LOCAL-00054" summary="实现二叉搜索树删除最大最小值操作">
-      <created>1547291983573</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1547291983573</updated>
-    </task>
-    <task id="LOCAL-00055" summary="leetcode215">
-      <created>1547298118847</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1547298118847</updated>
-    </task>
-    <task id="LOCAL-00056" summary="彻底搞懂快速排序">
-      <created>1547302522704</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1547302522705</updated>
-    </task>
-    <task id="LOCAL-00057" summary="my initial insertion">
-      <created>1547347613499</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1547347613502</updated>
-    </task>
-    <task id="LOCAL-00058" summary="编写模板排序辅助类 将原有代码重新调用">
-      <created>1547349853685</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1547349853685</updated>
-    </task>
-    <task id="LOCAL-00059" summary="完善选择排序">
-      <created>1547355660596</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1547355660607</updated>
-    </task>
-    <task id="LOCAL-00060" summary="二分搜索树删除节点">
-      <created>1547363286176</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1547363286176</updated>
-    </task>
-    <task id="LOCAL-00061" summary="union find第一版本实现以及运行时间测试">
-      <created>1547371108835</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1547371108835</updated>
-    </task>
-    <task id="LOCAL-00062" summary="union find第二版本实现以及运行时间测试">
-      <created>1547376783524</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1547376783524</updated>
-    </task>
-    <task id="LOCAL-00063" summary="union find第三版本实现以及运行时间测试">
-      <created>1547378218032</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1547378218032</updated>
-    </task>
-    <task id="LOCAL-00064" summary="nowcoder24题">
-      <created>1547381287791</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1547381287791</updated>
-    </task>
-    <option name="localTasksCounter" value="65" />
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LeetCode345Test_reverseVowels - 2019.01.08 at 23h 42m 52s.xml">
+    <history-entry file="LeetCode345Test_reverseVowels - 2019.01.08 at 23h 03m 31s.xml">
       <configuration name="LeetCode345Test.reverseVowels" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortTimeTest_calculateSortTime - 2019.01.10 at 19h 19m 57s.xml">
-      <configuration name="SortTimeTest.calculateSortTime" configurationId="JUnit" />
+    <history-entry file="LeetCode345Test_reverseVowels - 2019.01.08 at 23h 04m 56s.xml">
+      <configuration name="LeetCode345Test.reverseVowels" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortTimeTest_calculateSortTime - 2019.01.10 at 20h 27m 42s.xml">
-      <configuration name="SortTimeTest.calculateSortTime" configurationId="JUnit" />
+    <history-entry file="LeetCode345Test_reverseVowels - 2019.01.08 at 23h 14m 16s.xml">
+      <configuration name="LeetCode345Test.reverseVowels" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortTimeTest_calculateSortTime - 2019.01.10 at 20h 28m 00s.xml">
-      <configuration name="SortTimeTest.calculateSortTime" configurationId="JUnit" />
+    <history-entry file="LeetCode345Test_reverseVowels - 2019.01.08 at 23h 14m 22s.xml">
+      <configuration name="LeetCode345Test.reverseVowels" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortTimeTest_calculateSortTime - 2019.01.10 at 20h 30m 00s.xml">
-      <configuration name="SortTimeTest.calculateSortTime" configurationId="JUnit" />
+    <history-entry file="LeetCode345Test_reverseVowels - 2019.01.08 at 23h 18m 19s.xml">
+      <configuration name="LeetCode345Test.reverseVowels" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionOneTest_printMatrix - 2019.01.11 at 00h 04m 16s.xml">
-      <configuration name="SolutionOneTest.printMatrix" configurationId="JUnit" />
+    <history-entry file="LeetCode345Test_reverseVowels - 2019.01.08 at 23h 20m 45s.xml">
+      <configuration name="LeetCode345Test.reverseVowels" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinarySearchTest_binarySearch - 2019.01.11 at 16h 33m 18s.xml">
-      <configuration name="BinarySearchTest.binarySearch" configurationId="JUnit" />
+    <history-entry file="LeetCode345Test_reverseVowels - 2019.01.08 at 23h 20m 50s.xml">
+      <configuration name="LeetCode345Test.reverseVowels" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinarySearchTest_binarySearch - 2019.01.11 at 18h 36m 05s.xml">
-      <configuration name="BinarySearchTest.binarySearch" configurationId="JUnit" />
+    <history-entry file="LeetCode345Test_reverseVowels - 2019.01.08 at 23h 22m 37s.xml">
+      <configuration name="LeetCode345Test.reverseVowels" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinarySearchTest_binarySearch - 2019.01.11 at 18h 49m 13s.xml">
-      <configuration name="BinarySearchTest.binarySearch" configurationId="JUnit" />
+    <history-entry file="LeetCode345Test_reverseVowels - 2019.01.08 at 23h 38m 06s.xml">
+      <configuration name="LeetCode345Test.reverseVowels" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeetCode345Test_reverseVowels - 2019.01.11 at 20h 08m 34s.xml">
+    <history-entry file="LeetCode345Test_reverseVowels - 2019.01.08 at 23h 38m 09s.xml">
       <configuration name="LeetCode345Test.reverseVowels" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151440000" />
+    <option name="totallyTimeSpent" value="73586000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49673203" visible="true" weight="0.2854856" />
-      <window_info id="Structure" order="1" sideWeight="0.503268" side_tool="true" weight="0.2854856" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2980333" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -756,17 +653,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994664" weight="0.33766234" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39718616" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32900432" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3982684" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32900432" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3276923" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053364" side_tool="true" weight="0.33766234" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32900432" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32878152" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -782,50 +679,50 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="将折半查找int型参数修改为Comparable" />
-    <MESSAGE value="完成所有二叉树相关操作实现及测试" />
-    <MESSAGE value="leetcode680" />
-    <MESSAGE value="leetcode88" />
-    <MESSAGE value="leetcode88优化" />
-    <MESSAGE value="leetcode141实现" />
-    <MESSAGE value="leetcode524" />
-    <MESSAGE value="nowcoder20实现" />
-    <MESSAGE value="nowcoder21实现" />
-    <MESSAGE value="nowcoder22实现" />
-    <MESSAGE value="nowcoder23实现" />
-    <MESSAGE value="nowcoder23调试并详细了解其实现原理" />
-    <MESSAGE value="调整结构 实现二叉搜索树前中后遍历操作" />
-    <MESSAGE value="实现二叉搜索树层序遍历操作" />
-    <MESSAGE value="实现二叉搜索树删除最大最小值操作" />
-    <MESSAGE value="leetcode215" />
-    <MESSAGE value="彻底搞懂快速排序" />
-    <MESSAGE value="my initial insertion" />
-    <MESSAGE value="编写模板排序辅助类 将原有代码重新调用" />
-    <MESSAGE value="完善选择排序" />
-    <MESSAGE value="二分搜索树删除节点" />
-    <MESSAGE value="union find第一版本实现以及运行时间测试" />
-    <MESSAGE value="union find第二版本实现以及运行时间测试" />
-    <MESSAGE value="union find第三版本实现以及运行时间测试" />
-    <MESSAGE value="nowcoder24题" />
-    <option name="LAST_COMMIT_MESSAGE" value="nowcoder24题" />
+    <MESSAGE value="剑指Offer第六题 二分法优化" />
+    <MESSAGE value="剑指Offer第七题简单实现" />
+    <MESSAGE value="剑指Offer第七题动态规划 非递归实现" />
+    <MESSAGE value="剑指Offer第8题 跳台阶" />
+    <MESSAGE value="最小生成树-prim算法实现" />
+    <MESSAGE value="最小生成树-prim算法搞通" />
+    <MESSAGE value="最小生成树-kruskal核心代码实现" />
+    <MESSAGE value="剑指offer第9题 两种方法实现" />
+    <MESSAGE value="剑指offer第10题" />
+    <MESSAGE value="实现dijkstra代码 并调试运行" />
+    <MESSAGE value="实现floyd代码 并调试运行" />
+    <MESSAGE value="新建查找模块 实现折半查找" />
+    <MESSAGE value="递归实现折半查找" />
+    <MESSAGE value="剑指Offer11题 偷巧解法" />
+    <MESSAGE value="剑指Offer11题 最优解太nb了" />
+    <MESSAGE value="剑指Offer12题" />
+    <MESSAGE value="max heap实现" />
+    <MESSAGE value="剑指Offer12 详细调试解析" />
+    <MESSAGE value="剑指Offer13" />
+    <MESSAGE value="剑指Offer14" />
+    <MESSAGE value="剑指Offer15 这个有点费解" />
+    <MESSAGE value="leetcode167" />
+    <MESSAGE value="leetcode633" />
+    <MESSAGE value="剑指offer16" />
+    <MESSAGE value="剑指offer17" />
+    <option name="LAST_COMMIT_MESSAGE" value="剑指offer17" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/datastructure/src/test/java/string/kmp/NativeKMPTest.java</url>
-          <line>14</line>
+          <line>16</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithms/dahua/src/main/java/graph/minimumSpanningtree/Prim.java</url>
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/graph/minimumSpanningtree/Prim.java</url>
           <line>48</line>
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithms/dahua/src/main/java/graph/minimumSpanningtree/Prim.java</url>
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/graph/minimumSpanningtree/Prim.java</url>
           <line>39</line>
           <properties />
           <option name="timeStamp" value="4" />
@@ -838,7 +735,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/datastructure/src/test/java/graph/shortestpath/DijkstraTest.java</url>
-          <line>27</line>
+          <line>29</line>
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
@@ -860,151 +757,213 @@
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithms/sort/src/test/java/heap/MaxHeapTest.java</url>
-          <line>19</line>
-          <properties />
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder19/SolutionOneTest.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode345Test.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode524Test.java</url>
-          <line>20</line>
-          <properties />
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder23/SolutionOneTest.java</url>
-          <line>11</line>
-          <properties />
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/sort/LeetCode215Test.java</url>
-          <line>12</line>
-          <properties />
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc03/quick/QuickSortImoocTest.java</url>
-          <line>13</line>
-          <properties />
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithms/algs4/src/test/java/sorting/SelectionTest.java</url>
-          <line>13</line>
-          <properties />
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc06/unionfind/UnionFindTest.java</url>
-          <line>16</line>
-          <properties />
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode680.java">
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder07/SolutionTwo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="114">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode141.java">
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder07/SolutionOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19">
-          <caret line="23" column="63" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
+        <state relative-caret-position="323">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode524Test.java">
+    <entry file="file://$PROJECT_DIR$/datastructure/src/main/java/tree/minimumSpanningtree/Kruskal_Edge.java" />
+    <entry file="file://$PROJECT_DIR$/datastructure/src/main/java/graph/minimumSpanningtree/Prim.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="387">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructure/src/main/java/graph/minimumSpanningtree/Kruskal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="30" lean-forward="true" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode524.java">
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder08/SolutionOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        <state relative-caret-position="171">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder20/SolutionTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder20/SolutinOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder19/SolutionOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder21/SolutionOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder22/SolutionOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder01/SolutionOne.java">
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder09/SolutionOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder03/ListNode.java" />
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder03/SolutionTwo.java">
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder09/SolutionTwoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder09/SolutionTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructure/src/test/java/tree/minimumSpanningtree/PrimTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructure/src/test/java/graph/shortestpath/DijkstraTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructure/src/main/java/graph/shortestpath/Dijkstra.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructure/src/test/java/graph/shortestpath/FloydTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructure/src/main/java/graph/shortestpath/Floyd.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/search/src/test/java/orderedlist/BinarySearchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/search/src/main/java/orderedlist/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/search/src/main/java/orderedlist/BinarySearchRecur.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/search/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder10/SolutionOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder11/SolutionOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder11/SolutionTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/utils/SortTestHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="43" lean-forward="true" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/test/java/heap/MaxHeapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/heap/MaxHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="69" column="30" lean-forward="true" selection-start-line="69" selection-start-column="30" selection-end-line="69" selection-end-column="30" />
+          <folding>
+            <element signature="docComment;class#MaxHeap#0" />
+            <element signature="method#MaxHeap#0;class#MaxHeap#0" />
+            <element signature="e#495#513#0" />
+            <element signature="docComment;method#size#0;class#MaxHeap#0" />
+            <element signature="docComment;method#isEmpty#0;class#MaxHeap#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder12/SolutionOneTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder12/SolutionOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder13/SolutionOneTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder13/SolutionTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder13/SolutionOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1013,381 +972,145 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder03/SolutionOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="36" column="11" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+        <state relative-caret-position="437">
+          <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder04/TreeNode.java" />
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder04/SolutionOne.java">
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder03/SolutionTwo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="44" column="11" lean-forward="true" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="11" />
+        <state relative-caret-position="421">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder23/SolutionOneTest.java">
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder03/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="190">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder23/SolutionOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/writtentest/pom.xml">
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder15/ListNode.java" />
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/datastruc/pom.xml">
+    <entry file="file://$PROJECT_DIR$/leetcode/datastru/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/pom.xml">
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode167Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        <state relative-caret-position="95">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/dahua/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/datastruc/array/src/main/java/easy/leetcode001/SolutionOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="143" column="31" selection-start-line="143" selection-start-column="27" selection-end-line="143" selection-end-column="31" />
-          <folding>
-            <element signature="e#5027#5028#0" expanded="true" />
-            <element signature="e#5098#5099#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/DualPivotQuicksort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="218" column="20" selection-start-line="218" selection-start-column="20" selection-end-line="218" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/sort/LeetCode215Test.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode633Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/quick/QuickSortOptimize.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode633.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        <state relative-caret-position="105">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode215.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode167.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1045">
-          <caret line="67" column="23" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="188">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode347.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode345Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        <state relative-caret-position="247">
+          <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/pom.xml">
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode345.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        <state relative-caret-position="416">
+          <caret line="66" column="4" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/utils/SortHelper.java">
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder16/ListNode.java" />
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/common/TreeNode.java" />
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/common/ListNode.java" />
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder14/SolutionOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
-          <folding>
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#805#806#0" expanded="true" />
-            <element signature="e#856#857#0" expanded="true" />
-            <element signature="e#1454#1455#0" expanded="true" />
-            <element signature="e#1505#1506#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="334">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder14/SolutionTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder15/SolutionOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder16/SolutionOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder17/SolutionOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/Selection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/algs4/src/test/java/sorting/SelectionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/algs4/pom.xml">
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder26/SolutionOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="562">
+          <caret line="85" column="8" selection-start-line="85" selection-start-column="8" selection-end-line="85" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/quick/QuickSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc03/quick/QuickSortImoocTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/quick/QuickSortImooc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
-          <folding>
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/quick/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="758">
-          <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc05/bst/BinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="347" column="16" lean-forward="true" selection-start-line="347" selection-start-column="16" selection-end-line="347" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2538#2539#0" expanded="true" />
-            <element signature="e#2561#2562#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/quickfind/UnionFind1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-          <folding>
-            <element signature="e#601#602#0" expanded="true" />
-            <element signature="e#640#641#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder06/SolutionOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder06/SolutionTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc06/unionfind/UnionFindTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/optimize/size/UnionFind3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/utils/UnionFindTestHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/quickunion/UnionFind2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="41" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder24/SolutionOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder25/SolutionOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
-          <folding>
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>@types/jquery</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>algo4</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: junit:junit:4.12</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

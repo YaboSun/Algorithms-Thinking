@@ -35,6 +35,9 @@ public class LeetCode451 {
             // 如果包含就获得当前的值并 + 1
             frequencyForNum.put(c, frequencyForNum.getOrDefault(c, 0) + 1);
         }
+        // 这个关键是要理解这个桶的设计
+        // 后面按照value的值来放置对应的位置，这样就可以保证从后往前一定是从大到小的顺序
+        // 而且开辟的是一个ArrayList可以满足这样的要求，出现多少次就在后面append多少次 最后进行输出
         List<Character>[] frequencyBucket = new ArrayList[s.length() + 1];
         for (char c : frequencyForNum.keySet()) {
             int f = frequencyForNum.get(c);
@@ -49,7 +52,7 @@ public class LeetCode451 {
                 continue;
             }
             for (char c : frequencyBucket[i]) {
-                for (int j = 0; j < i; j++) {
+                for (int j = 0; j < i; j++) { // 遍历有多少个字母就输出多少个
                     stringBuilder.append(c);
                 }
             }

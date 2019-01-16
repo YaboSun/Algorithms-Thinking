@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e420e2a3-b3f5-465e-9b1c-3c0a7444dd6c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder02/SolutionTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder02/SolutionTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode451.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode451.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,11 +33,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode451.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="40" column="39" lean-forward="true" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+            <state relative-caret-position="798">
+              <caret line="54" column="63" selection-start-line="54" selection-start-column="63" selection-end-line="54" selection-end-column="63" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/sort/LeetCode451Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -50,8 +56,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -70,7 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/datastructure/src/main/java/tree/minimumSpanningtree/Kruskal_Edge.java" />
         <option value="$PROJECT_DIR$/datastructure/src/main/java/tree/minimumSpanningtree/Prim.java" />
         <option value="$PROJECT_DIR$/datastructure/src/test/java/tree/minimumSpanningtree/PrimTest.java" />
         <option value="$PROJECT_DIR$/datastructure/src/main/java/tree/minimumSpanningtree/Kruskal.java" />
@@ -120,6 +125,7 @@
         <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode347.java" />
         <option value="$PROJECT_DIR$/leetcode/algorithm/src/test/java/sort/LeetCode347Test.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder02/SolutionTwo.java" />
+        <option value="$PROJECT_DIR$/leetcode/algorithm/src/test/java/sort/LeetCode451Test.java" />
         <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode451.java" />
       </list>
     </option>
@@ -229,7 +235,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547626126360" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547626434177" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -243,13 +249,13 @@
       <recent name="nowcoder13" />
       <recent name="nowcoder12" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="nowcoder16" />
       <recent name="nowcoder15" />
       <recent name="nowcoder14" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -377,7 +383,7 @@
       <workItem from="1547451819727" duration="9892000" />
       <workItem from="1547517284007" duration="3748000" />
       <workItem from="1547600281012" duration="3058000" />
-      <workItem from="1547621344907" duration="3192000" />
+      <workItem from="1547621344907" duration="4559000" />
     </task>
     <task id="LOCAL-00001" summary="完成剑指Offer第三题">
       <created>1546691205031</created>
@@ -624,7 +630,14 @@
       <option name="project" value="LOCAL" />
       <updated>1547458413106</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="leetcode451">
+      <created>1547626166018</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1547626166019</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -660,13 +673,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98092000" />
+    <option name="totallyTimeSpent" value="99459000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25567323" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25567323" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -676,7 +689,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3276923" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39692307" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39692307" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -772,7 +785,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="剑指Offer第8题 跳台阶" />
     <MESSAGE value="最小生成树-prim算法实现" />
     <MESSAGE value="最小生成树-prim算法搞通" />
     <MESSAGE value="最小生成树-kruskal核心代码实现" />
@@ -797,7 +809,8 @@
     <MESSAGE value="剑指offer26" />
     <MESSAGE value="剑指offer27 回溯法" />
     <MESSAGE value="leetcode347" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode347" />
+    <MESSAGE value="leetcode451" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode451" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -862,11 +875,33 @@
           <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode451.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/sort/LeetCode451Test.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode451.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="c" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/datastructure/src/main/java/graph/shortestpath/Floyd.java" />
     <entry file="file://$PROJECT_DIR$/algorithms/search/src/test/java/orderedlist/BinarySearchTest.java" />
     <entry file="file://$PROJECT_DIR$/algorithms/search/src/main/java/orderedlist/BinarySearch.java" />
     <entry file="file://$PROJECT_DIR$/algorithms/search/src/main/java/orderedlist/BinarySearchRecur.java" />
@@ -1142,10 +1177,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/sort/LeetCode451Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode451.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="40" column="39" lean-forward="true" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+        <state relative-caret-position="798">
+          <caret line="54" column="63" selection-start-line="54" selection-start-column="63" selection-end-line="54" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -1,16 +1,19 @@
-package mooc06.unionfind.optimize.rank;
+package mooc06.unionfind.optimize.pathcompression;
 
 /**
  * @author YaboSun
- * 使用rank优化并查集
+ *
+ * 并查集第五种实现方式 路径压缩算法
+ *
+ * 前面都是在union方面进行优化，还可以在find过程中进行优化
+ *
  */
-public class UnionFind4 {
-
+public class UnionFind5 {
     private int[] parent; // parent[i]表示第i个元素所指向的父节点
     private int[] rank; // rank[i]表示以i为根的集合所表示的树的层数
     private int count; // 数据个数
 
-    public UnionFind4(int count) {
+    public UnionFind5(int count) {
         parent = new int[count];
         rank = new int[count];
         this.count = count;
@@ -23,12 +26,14 @@ public class UnionFind4 {
 
     // 查找过程, 查找元素p所对应的集合编号
     // O(h)复杂度, h为树的高度
-    private int find(int p){
+    private int find(int p) {
         assert( p >= 0 && p < count );
         // 不断去查询自己的父亲节点, 直到到达根节点
         // 根节点的特点: parent[p] == p
-        while( p != parent[p] )
+        while( p != parent[p] ){
+            parent[p] = parent[parent[p]]; // 路径压缩核心代码。。。
             p = parent[p];
+        }
         return p;
     }
 

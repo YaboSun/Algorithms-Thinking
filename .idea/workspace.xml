@@ -2,26 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed645c3e-dfe4-48b9-a1c4-b94a86186a3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/optimize/rank/UnionFind4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/datastruc/array/array.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/datastruc/datastruc.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/optimize/pathcompression/UnionFind5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/datastru/array/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/datastru/array/src/main/java/easy/leetcode001/SolutionOne.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/datastru/array/src/main/java/easy/leetcode665/SolutionOne.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/datastru/array/src/main/java/easy/leetcode665/SolutionTwo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/datastru/array/src/main/java/easy/leetcode674/SolutionOne.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/datastru/array/src/main/java/easy/leetcode697/SolutionOne.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/datastru/array/src/main/java/easy/leetcode697/SolutionTwo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/datastru/array/src/main/java/easy/leetcode717/SolutionOne.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/datastru/array/src/test/java/easy/leetcode001/SolutionOneTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/datastru/array/src/test/java/easy/leetcode665/LeetCode665Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/datastru/array/src/test/java/easy/leetcode674/SolutionOneTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/datastru/array/src/test/java/easy/leetcode697/SolutionOneTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/datastru/datastruc.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/datastru/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/optimize/rank/UnionFind4.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/optimize/rank/UnionFind4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/utils/UnionFindTestHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/utils/UnionFindTestHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc06/unionfind/UnionFindTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc06/unionfind/UnionFindTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/datastructure/target/" />
@@ -49,29 +34,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder25/SolutionOne.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/optimize/size/UnionFind3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="741">
-              <caret line="41" column="36" lean-forward="true" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/optimize/pathcompression/UnionFind5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-238">
+              <caret line="28" column="29" lean-forward="true" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+              <folding>
+                <element signature="e#960#961#0" expanded="true" />
+                <element signature="e#1001#1002#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/utils/UnionFindTestHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="141" column="1" lean-forward="true" selection-start-line="141" selection-start-column="1" selection-end-line="141" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc06/unionfind/UnionFindTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/optimize/rank/UnionFind4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="701">
-              <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+            <state relative-caret-position="427">
+              <caret line="54" column="34" lean-forward="true" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
               <folding>
                 <element signature="e#815#816#0" expanded="true" />
                 <element signature="e#856#857#0" expanded="true" />
@@ -105,7 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/algorithms/search/src/test/java/orderedlist/BinarySearchTest.java" />
         <option value="$PROJECT_DIR$/algorithms/search/src/main/java/bst/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/algorithms/search/src/test/java/bst/BinarySearchTreeTest.java" />
         <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode345.java" />
@@ -151,11 +151,12 @@
         <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/quickfind/UnionFindTestHelper.java" />
         <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/quickunion/UnionFind2.java" />
         <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/optimize/size/UnionFind3.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc06/unionfind/UnionFindTest.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/utils/UnionFindTestHelper.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder24/SolutionOne.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder25/SolutionOne.java" />
         <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/optimize/rank/UnionFind4.java" />
+        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/utils/UnionFindTestHelper.java" />
+        <option value="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc06/unionfind/UnionFindTest.java" />
+        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/optimize/pathcompression/UnionFind5.java" />
       </list>
     </option>
   </component>
@@ -284,7 +285,57 @@
               <item name="mooc06" type="462c0819:PsiDirectoryNode" />
               <item name="unionfind" type="462c0819:PsiDirectoryNode" />
               <item name="optimize" type="462c0819:PsiDirectoryNode" />
-              <item name="size" type="462c0819:PsiDirectoryNode" />
+              <item name="rank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="mooc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mooc06" type="462c0819:PsiDirectoryNode" />
+              <item name="unionfind" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="mooc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="mooc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="mooc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mooc06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="mooc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mooc06" type="462c0819:PsiDirectoryNode" />
+              <item name="unionfind" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -295,7 +346,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547707277253" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547708238688" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -439,14 +490,7 @@
       <workItem from="1547280595862" duration="16516000" />
       <workItem from="1547346080866" duration="22171000" />
       <workItem from="1547439161094" duration="7220000" />
-      <workItem from="1547687300116" duration="3528000" />
-    </task>
-    <task id="LOCAL-00017" summary="实现floyd代码 并调试运行">
-      <created>1546859164429</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1546859164429</updated>
+      <workItem from="1547687300116" duration="5366000" />
     </task>
     <task id="LOCAL-00018" summary="新建查找模块 实现折半查找">
       <created>1546861714238</created>
@@ -784,7 +828,14 @@
       <option name="project" value="LOCAL" />
       <updated>1547383603388</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="union find第四种实现">
+      <created>1547707302320</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1547707302321</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -820,13 +871,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="162234000" />
+    <option name="totallyTimeSpent" value="164072000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49673203" visible="true" weight="0.19210246" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49673203" visible="true" weight="0.19210246" />
       <window_info id="Structure" order="1" sideWeight="0.503268" side_tool="true" weight="0.2854856" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -835,7 +886,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994664" weight="0.33766234" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4994664" visible="true" weight="0.33766234" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39718616" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -861,7 +912,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="完成所有二叉树相关操作实现及测试" />
     <MESSAGE value="leetcode680" />
     <MESSAGE value="leetcode88" />
     <MESSAGE value="leetcode88优化" />
@@ -886,7 +936,8 @@
     <MESSAGE value="union find第三版本实现以及运行时间测试" />
     <MESSAGE value="nowcoder24题" />
     <MESSAGE value="nowcoder25题" />
-    <option name="LAST_COMMIT_MESSAGE" value="nowcoder25题" />
+    <MESSAGE value="union find第四种实现" />
+    <option name="LAST_COMMIT_MESSAGE" value="union find第四种实现" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -997,13 +1048,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode141.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19">
-          <caret line="23" column="63" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode524Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -1314,23 +1358,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc06/unionfind/UnionFindTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/utils/UnionFindTestHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/quickunion/UnionFind2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="741">
@@ -1361,11 +1388,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/optimize/rank/UnionFind4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="701">
-          <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+        <state relative-caret-position="427">
+          <caret line="54" column="34" lean-forward="true" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
           <folding>
             <element signature="e#815#816#0" expanded="true" />
             <element signature="e#856#857#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/utils/UnionFindTestHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="141" column="1" lean-forward="true" selection-start-line="141" selection-start-column="1" selection-end-line="141" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc06/unionfind/UnionFindTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/optimize/pathcompression/UnionFind5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-238">
+          <caret line="28" column="29" lean-forward="true" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+          <folding>
+            <element signature="e#960#961#0" expanded="true" />
+            <element signature="e#1001#1002#0" expanded="true" />
           </folding>
         </state>
       </provider>

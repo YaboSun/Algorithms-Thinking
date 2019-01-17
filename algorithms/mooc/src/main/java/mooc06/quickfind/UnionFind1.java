@@ -1,4 +1,4 @@
-package mooc06.unionfind.quickfind;
+package mooc06.quickfind;
 
 /**
  * @author YaboSun

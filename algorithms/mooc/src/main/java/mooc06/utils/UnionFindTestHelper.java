@@ -1,10 +1,10 @@
-package mooc06.unionfind.utils;
+package mooc06.utils;
 
-import mooc06.unionfind.optimize.pathcompression.UnionFind5;
-import mooc06.unionfind.optimize.rank.UnionFind4;
-import mooc06.unionfind.optimize.size.UnionFind3;
-import mooc06.unionfind.quickfind.UnionFind1;
-import mooc06.unionfind.quickunion.UnionFind2;
+import mooc06.optimize.UnionFind5;
+import mooc06.optimize.UnionFind4;
+import mooc06.optimize.UnionFind3;
+import mooc06.quickfind.UnionFind1;
+import mooc06.quickunion.UnionFind2;
 
 /**
  * @author YaboSun

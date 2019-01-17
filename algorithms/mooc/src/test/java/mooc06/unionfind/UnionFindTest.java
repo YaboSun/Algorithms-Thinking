@@ -1,7 +1,7 @@
 package mooc06.unionfind;
 
 
-import mooc06.unionfind.utils.UnionFindTestHelper;
+import mooc06.utils.UnionFindTestHelper;
 
 /**
  * @author YaboSun

@@ -1,22 +1,21 @@
-package mooc06.unionfind.optimize.size;
+package mooc06.quickunion;
 
 /**
  * @author YaboSun
  *
- * 第三版UnionFind
+ * 第二个版本的UnionFind
  */
-public class UnionFind3 {
+public class UnionFind2 {
+
     private int[] parent;
-    int[] sz; // sz[i]表示以i为根的集合中的元素个数
     int count;
 
-    public UnionFind3(int count) {
+    public UnionFind2(int count) {
         this.parent = new int[count];
         this.count = count;
-        sz = new int[count];
+
         for (int i = 0; i < count; i++) {
             parent[i] = i;
-            sz[i] = 1;
         }
     }
 
@@ -39,13 +38,6 @@ public class UnionFind3 {
         if (pRoot == qRoot) {
             return;
         }
-        if (sz[pRoot] < sz[qRoot]) {
-            parent[pRoot] = qRoot;
-            sz[qRoot] += sz[pRoot]; // 维护qRoot元素个数
-        } else {
-            parent[qRoot] = pRoot;
-            sz[pRoot] += sz[qRoot];
-        }
-
+        parent[pRoot] = qRoot;
     }
 }

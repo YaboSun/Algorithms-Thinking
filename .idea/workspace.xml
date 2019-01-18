@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ed645c3e-dfe4-48b9-a1c4-b94a86186a3b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/DenseGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/DenseGraph.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/SparseGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/SparseGraph.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,25 +33,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/SparseGraph.java">
+        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/DenseGraph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="568">
-              <caret line="57" column="25" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
+            <state relative-caret-position="720">
+              <caret line="88" column="5" lean-forward="true" selection-start-line="74" selection-start-column="4" selection-end-line="88" selection-end-column="5" />
               <folding>
-                <element signature="e#526#527#0" expanded="true" />
-                <element signature="e#553#554#0" expanded="true" />
-                <element signature="e#580#581#0" expanded="true" />
-                <element signature="e#607#608#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/DenseGraph.java">
+        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/SparseGraph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="44" column="36" lean-forward="true" selection-start-line="43" selection-start-column="8" selection-end-line="44" selection-end-column="36" />
+            <state relative-caret-position="321">
+              <caret line="68" column="28" lean-forward="true" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -234,7 +232,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547798341380" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547800841769" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -379,14 +377,7 @@
       <workItem from="1547280595862" duration="16516000" />
       <workItem from="1547346080866" duration="22171000" />
       <workItem from="1547439161094" duration="7220000" />
-      <workItem from="1547687300116" duration="22044000" />
-    </task>
-    <task id="LOCAL-00026" summary="剑指Offer14">
-      <created>1546951262489</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1546951262489</updated>
+      <workItem from="1547687300116" duration="24574000" />
     </task>
     <task id="LOCAL-00027" summary="剑指Offer15 这个有点费解">
       <created>1546952812417</created>
@@ -724,7 +715,14 @@
       <option name="project" value="LOCAL" />
       <updated>1547796698118</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="邻接表实现稀疏图的基本操作">
+      <created>1547798376623</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1547798376623</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -760,7 +758,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="180750000" />
+    <option name="totallyTimeSpent" value="183280000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
@@ -801,7 +799,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="nowcoder23实现" />
     <MESSAGE value="nowcoder23调试并详细了解其实现原理" />
     <MESSAGE value="调整结构 实现二叉搜索树前中后遍历操作" />
     <MESSAGE value="实现二叉搜索树层序遍历操作" />
@@ -826,7 +823,8 @@
     <MESSAGE value="自己实现nowcoder30" />
     <MESSAGE value="白板实现nowcoder03" />
     <MESSAGE value="邻接矩阵实现稠密图的基本操作" />
-    <option name="LAST_COMMIT_MESSAGE" value="邻接矩阵实现稠密图的基本操作" />
+    <MESSAGE value="邻接表实现稀疏图的基本操作" />
+    <option name="LAST_COMMIT_MESSAGE" value="邻接表实现稀疏图的基本操作" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1316,22 +1314,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/DenseGraph.java">
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/SparseGraph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="44" column="36" lean-forward="true" selection-start-line="43" selection-start-column="8" selection-end-line="44" selection-end-column="36" />
+        <state relative-caret-position="321">
+          <caret line="68" column="28" lean-forward="true" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/SparseGraph.java">
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/DenseGraph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
-          <caret line="57" column="25" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
+        <state relative-caret-position="720">
+          <caret line="88" column="5" lean-forward="true" selection-start-line="74" selection-start-column="4" selection-end-line="88" selection-end-column="5" />
           <folding>
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-            <element signature="e#580#581#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,5 +1,8 @@
 package mooc07;
 
+import java.util.ArrayList;
+import java.util.Iterator;
+
 /**
  * @author YaboSun
  *
@@ -67,5 +70,21 @@ public class DenseGraph {
         assert v >= 0 && v <= nodes;
         assert w >= 0 && w <= nodes;
         return g[v][w];
+    }
+
+    /**
+     * 返回图中一个顶点的所有邻边
+     * @param v 顶点v
+     * @return 返回顶点的所有邻边
+     */
+    public ArrayList<Integer> adj(int v) {
+        assert v >=0 && v < nodes;
+        ArrayList<Integer> adjV = new ArrayList<>();
+        for (int i = 0; i < nodes; i++) {
+            if (g[v][i]) {
+                adjV.add(i);
+            }
+        }
+        return adjV;
     }
 }

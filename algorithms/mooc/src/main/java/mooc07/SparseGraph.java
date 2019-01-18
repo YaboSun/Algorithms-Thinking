@@ -72,4 +72,14 @@ public class SparseGraph {
 
         return false;
     }
+
+    /**
+     * 返回图中一个顶点的所有邻边
+     * @param v 顶点v
+     * @return 返回顶点的所有邻边
+     */
+    public ArrayList<Integer> adj(int v) {
+        assert v >=0 && v < nodes;
+        return g[v];
+    }
 }

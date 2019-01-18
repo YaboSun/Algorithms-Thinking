@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed645c3e-dfe4-48b9-a1c4-b94a86186a3b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/ReadGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/resources/testG1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/resources/testG2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc07/ReadGraphTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/DenseGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/DenseGraph.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/SparseGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/SparseGraph.java" afterDir="false" />
@@ -32,11 +37,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/DenseGraph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="88" column="5" lean-forward="true" selection-start-line="74" selection-start-column="4" selection-end-line="88" selection-end-column="5" />
+            <state relative-caret-position="549">
+              <caret line="79" column="19" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -45,10 +50,58 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/resources/testG1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/ReadGraph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="149">
+              <caret line="43" column="32" lean-forward="true" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc07/ReadGraphTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/Graph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/resources/testG2.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/SparseGraph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="68" column="28" lean-forward="true" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
+            <state relative-caret-position="396">
+              <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -58,8 +111,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -78,11 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder20/SolutinOne.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder20/SolutionTwo.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder21/SolutionOne.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder22/SolutionOne.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder03/SolutionOne.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder03/SolutionTwo.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder04/SolutionOne.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder23/SolutionOneTest.java" />
@@ -127,8 +176,13 @@
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder29/SolutionOne.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder30/SolutionOne.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder03/SolutionThree.java" />
+        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/resources/testG1.txt" />
+        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/resources/testG2.txt" />
         <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/DenseGraph.java" />
+        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/Graph.java" />
         <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/SparseGraph.java" />
+        <option value="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc07/ReadGraphTest.java" />
+        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/ReadGraph.java" />
       </list>
     </option>
   </component>
@@ -223,6 +277,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="mooc07" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="mooc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -232,7 +295,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547800841769" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547803879551" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -243,13 +306,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="mooc07" />
       <recent name="nowcoder29" />
       <recent name="nowcoder28" />
       <recent name="mooc06.unionfind.quickfind" />
       <recent name="sorting" />
-      <recent name="mooc03.quick" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/algorithms/mooc/src/main/resources" />
+      <recent name="$PROJECT_DIR$/algorithms/mooc/src/main/java" />
+      <recent name="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07" />
       <recent name="$PROJECT_DIR$/leetcode/datastruc" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -277,7 +343,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LeetCode451Test">
+  <component name="RunManager" selected="Application.ReadGraphTest">
     <configuration name="LeetCode451Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sort.LeetCode451Test" />
       <module name="algorithm" />
@@ -291,12 +357,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSortImoocTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mooc03.quick.QuickSortImoocTest" />
+    <configuration name="ReadGraphTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mooc07.ReadGraphTest" />
       <module name="mooc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mooc03.quick.*" />
+          <option name="PATTERN" value="mooc07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -345,11 +411,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReadGraphTest" />
         <item itemvalue="Application.LeetCode451Test" />
         <item itemvalue="Application.SolutionOneTest" />
         <item itemvalue="Application.SolutionOneTest (1)" />
         <item itemvalue="Application.UnionFindTest" />
-        <item itemvalue="Application.QuickSortImoocTest" />
       </list>
     </recent_temporary>
   </component>
@@ -377,14 +443,7 @@
       <workItem from="1547280595862" duration="16516000" />
       <workItem from="1547346080866" duration="22171000" />
       <workItem from="1547439161094" duration="7220000" />
-      <workItem from="1547687300116" duration="24574000" />
-    </task>
-    <task id="LOCAL-00027" summary="剑指Offer15 这个有点费解">
-      <created>1546952812417</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1546952812417</updated>
+      <workItem from="1547687300116" duration="27828000" />
     </task>
     <task id="LOCAL-00028" summary="leetcode167">
       <created>1546956587869</created>
@@ -722,7 +781,14 @@
       <option name="project" value="LOCAL" />
       <updated>1547798376623</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="两种实现添加得到顶点所有邻边功能">
+      <created>1547800892124</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1547800892124</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -758,13 +824,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="183280000" />
+    <option name="totallyTimeSpent" value="186534000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49673203" visible="true" weight="0.19210246" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49673203" visible="true" weight="0.19210246" />
       <window_info id="Structure" order="1" sideWeight="0.503268" side_tool="true" weight="0.2854856" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -773,7 +839,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893278" weight="0.33766234" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49893278" visible="true" weight="0.33766234" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39718616" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -799,7 +865,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="nowcoder23调试并详细了解其实现原理" />
     <MESSAGE value="调整结构 实现二叉搜索树前中后遍历操作" />
     <MESSAGE value="实现二叉搜索树层序遍历操作" />
     <MESSAGE value="实现二叉搜索树删除最大最小值操作" />
@@ -824,7 +889,8 @@
     <MESSAGE value="白板实现nowcoder03" />
     <MESSAGE value="邻接矩阵实现稠密图的基本操作" />
     <MESSAGE value="邻接表实现稀疏图的基本操作" />
-    <option name="LAST_COMMIT_MESSAGE" value="邻接表实现稀疏图的基本操作" />
+    <MESSAGE value="两种实现添加得到顶点所有邻边功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="两种实现添加得到顶点所有邻边功能" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -943,35 +1009,16 @@
           <properties />
           <option name="timeStamp" value="25" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/ReadGraph.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder23/SolutionOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/writtentest/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/datastruc/pom.xml" />
     <entry file="file://$PROJECT_DIR$/leetcode/algorithm/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1314,20 +1361,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/SparseGraph.java">
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/resources/testG2.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="68" column="28" lean-forward="true" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
+        <state relative-caret-position="114">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/resources/testG1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/DenseGraph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="88" column="5" lean-forward="true" selection-start-line="74" selection-start-column="4" selection-end-line="88" selection-end-column="5" />
+        <state relative-caret-position="549">
+          <caret line="79" column="19" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/SparseGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/ReadGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="43" column="32" lean-forward="true" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc07/ReadGraphTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>

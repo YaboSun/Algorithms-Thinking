@@ -7,7 +7,7 @@ import java.util.ArrayList;
  *
  * 稀疏图 使用邻接表实现
  */
-public class SparseGraph {
+public class SparseGraph implements Graph {
 
     private int nodes; // 节点数
     private int edges; // 边数
@@ -19,6 +19,7 @@ public class SparseGraph {
         this.edges = 0;
         this.directed = directed;
 
+        g = new ArrayList[nodes];
         for (int i = 0; i < nodes; i++) {
             g[i] = new ArrayList<>();
         }
@@ -74,11 +75,28 @@ public class SparseGraph {
     }
 
     /**
+     * 显示图的信息
+     */
+    @Override
+    public void show() {
+
+        for (int i = 0; i < nodes; i++) {
+            System.out.print("vertex" + i + ":\t");
+
+            for (int j = 0; j < g[i].size(); j++) {
+                System.out.print(g[i].get(j) + "\t");
+            }
+
+            System.out.println();
+        }
+    }
+
+    /**
      * 返回图中一个顶点的所有邻边
      * @param v 顶点v
      * @return 返回顶点的所有邻边
      */
-    public ArrayList<Integer> adj(int v) {
+    public Iterable<Integer> adj(int v) {
         assert v >=0 && v < nodes;
         return g[v];
     }

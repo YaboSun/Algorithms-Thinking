@@ -77,7 +77,7 @@ public class DenseGraph {
      * @param v 顶点v
      * @return 返回顶点的所有邻边
      */
-    public ArrayList<Integer> adj(int v) {
+    public Iterable<Integer> adj(int v) {
         assert v >=0 && v < nodes;
         ArrayList<Integer> adjV = new ArrayList<>();
         for (int i = 0; i < nodes; i++) {

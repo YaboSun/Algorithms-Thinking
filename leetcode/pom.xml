@@ -13,7 +13,6 @@
     <packaging>pom</packaging>
     <modules>
         <module>algorithm</module>
-        <module>datastruc</module>
     </modules>
 
 

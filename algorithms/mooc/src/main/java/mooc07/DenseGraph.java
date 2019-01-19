@@ -8,7 +8,7 @@ import java.util.Iterator;
  *
  * 稠密图 使用邻接矩阵实现
  */
-public class DenseGraph {
+public class DenseGraph implements Graph {
 
     private int nodes; // 节点数
     private int edges; // 边数
@@ -65,11 +65,20 @@ public class DenseGraph {
         edges++;
     }
 
-    private boolean hasEdge(int v, int w) {
+    public boolean hasEdge(int v, int w) {
 
         assert v >= 0 && v <= nodes;
         assert w >= 0 && w <= nodes;
         return g[v][w];
+    }
+
+    @Override
+    public void show() {
+        for( int i = 0 ; i < nodes ; i ++ ){
+            for( int j = 0 ; j < nodes ; j ++ )
+                System.out.print(g[i][j]+"\t");
+            System.out.println();
+        }
     }
 
     /**

@@ -32,6 +32,9 @@ public interface Graph {
      */
     public boolean hasEdge(int v, int w);
 
+    /**
+     * 显示图信息
+     */
     public void show();
 
     /**

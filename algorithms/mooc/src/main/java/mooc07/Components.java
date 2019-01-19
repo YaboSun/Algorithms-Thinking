@@ -51,5 +51,8 @@ public class Components {
         return id[v] == id[w];
     }
 
+    public int count() {
+        return ccount;
+    }
 
 }

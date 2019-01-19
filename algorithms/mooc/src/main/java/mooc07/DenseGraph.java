@@ -1,7 +1,6 @@
 package mooc07;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 
 /**
  * @author YaboSun

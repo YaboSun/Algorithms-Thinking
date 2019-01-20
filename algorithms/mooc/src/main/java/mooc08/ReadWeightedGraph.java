@@ -52,7 +52,7 @@ public class ReadWeightedGraph {
     private void readFile(String fileName) {
         assert fileName != null;
         try {
-            String path = ReadWeightedGraph.class.getClassLoader().getResource(fileName).getPath();
+            String path = ReadWeightedGraph.class.getResource(File.separator + fileName).getPath();
             File file = new File(path);
 
             if (file.exists()) {

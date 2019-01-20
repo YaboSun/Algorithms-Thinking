@@ -20,6 +20,7 @@ public class DenseWeightedGraph<Weight extends Number & Comparable>
         this.directed = directed;
         // 初始化g为n*n矩阵
         // 初始化时每一条边对应的都是null
+        g = new Edge[nodes][nodes];
         for (int i = 0; i < nodes; i++) {
             for (int j = 0; j < nodes; j++) {
                 g[i][j] = null;

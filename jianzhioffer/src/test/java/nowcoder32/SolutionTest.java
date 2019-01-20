@@ -1,4 +1,4 @@
-package nowcoder31;
+package nowcoder32;
 
 import static org.junit.Assert.*;
 
@@ -6,10 +6,10 @@ import static org.junit.Assert.*;
  * @author YaboSun
  */
 public class SolutionTest {
+
     public static void main(String[] args) {
-        int n = 13;
+        int[] numbers = {3,32,321};
         Solution solution = new Solution();
-        System.out.println(solution.NumberOf1Between1AndN_Solution1(n));
-        System.out.println(solution.NumberOf1Between1AndN_Solution2(n));
+        System.out.println(solution.PrintMinNumber1(numbers));
     }
 }

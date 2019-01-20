@@ -1,6 +1,8 @@
 package mooc08;
 
-import static org.junit.Assert.*;
+import mooc08.weightedgraph.DenseWeightedGraph;
+import mooc08.weightedgraph.ReadWeightedGraph;
+import mooc08.weightedgraph.SparseWeightedGraph;
 
 /**
  * @author YaboSun

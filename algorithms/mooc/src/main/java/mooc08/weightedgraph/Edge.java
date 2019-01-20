@@ -1,4 +1,4 @@
-package mooc08;
+package mooc08.weightedgraph;
 
 /**
  * @author YaboSun

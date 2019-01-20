@@ -1,4 +1,4 @@
-package mooc08;
+package mooc08.weightedgraph;
 
 import java.io.*;
 import java.util.InputMismatchException;

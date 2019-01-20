@@ -1,4 +1,4 @@
-package mooc08;
+package mooc08.weightedgraph;
 
 import java.util.ArrayList;
 

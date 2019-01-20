@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed645c3e-dfe4-48b9-a1c4-b94a86186a3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/WeightedGraph.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -31,21 +31,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/Edge.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/DenseGraph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="91" selection-start-line="7" selection-start-column="91" selection-end-line="7" selection-end-column="91" />
-              <folding>
-                <element signature="e#486#487#0" expanded="true" />
-                <element signature="e#510#511#0" expanded="true" />
-                <element signature="e#541#542#0" expanded="true" />
-                <element signature="e#565#566#0" expanded="true" />
-                <element signature="e#603#604#0" expanded="true" />
-                <element signature="e#631#632#0" expanded="true" />
-                <element signature="e#668#669#0" expanded="true" />
-                <element signature="e#716#717#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="570">
+              <caret line="58" column="31" lean-forward="true" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/WeightedGraph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -76,7 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooco5/bst/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/leetcode/algorithm/src/test/java/sort/LeetCode215Test.java" />
         <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSortOptimize.java" />
         <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/quick/QuickSort.java" />
@@ -127,6 +125,7 @@
         <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/DenseGraph.java" />
         <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/ShortestPath.java" />
         <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/Edge.java" />
+        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/WeightedGraph.java" />
       </list>
     </option>
   </component>
@@ -217,6 +216,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mooc07" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="mooc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="mooc08" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -229,7 +238,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547967416325" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547967924499" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -379,14 +388,7 @@
       <workItem from="1547439161094" duration="7220000" />
       <workItem from="1547687300116" duration="31044000" />
       <workItem from="1547820373859" duration="13597000" />
-      <workItem from="1547945365221" duration="2021000" />
-    </task>
-    <task id="LOCAL-00033" summary="索引最大堆实现">
-      <created>1547130240098</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1547130240098</updated>
+      <workItem from="1547945365221" duration="2945000" />
     </task>
     <task id="LOCAL-00034" summary="索引最大堆优化">
       <created>1547131483157</created>
@@ -724,7 +726,14 @@
       <option name="project" value="LOCAL" />
       <updated>1547887444430</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="有权图构造边">
+      <created>1547967438963</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1547967438963</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -760,7 +769,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="205368000" />
+    <option name="totallyTimeSpent" value="206292000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
@@ -801,7 +810,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="my initial insertion" />
     <MESSAGE value="编写模板排序辅助类 将原有代码重新调用" />
     <MESSAGE value="完善选择排序" />
     <MESSAGE value="二分搜索树删除节点" />
@@ -826,7 +834,8 @@
     <MESSAGE value="图的深度优先遍历" />
     <MESSAGE value="深度优先遍历路径输出" />
     <MESSAGE value="广度优先最短路径实现" />
-    <option name="LAST_COMMIT_MESSAGE" value="广度优先最短路径实现" />
+    <MESSAGE value="有权图构造边" />
+    <option name="LAST_COMMIT_MESSAGE" value="有权图构造边" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -955,13 +964,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/quick/QuickSortOptimize.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/utils/SortHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="302">
@@ -1335,13 +1337,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/DenseGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/ShortestPath.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
@@ -1364,8 +1359,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/Edge.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="91" selection-start-line="7" selection-start-column="91" selection-end-line="7" selection-end-column="91" />
+        <state relative-caret-position="836">
+          <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
           <folding>
             <element signature="e#486#487#0" expanded="true" />
             <element signature="e#510#511#0" expanded="true" />
@@ -1376,6 +1371,20 @@
             <element signature="e#668#669#0" expanded="true" />
             <element signature="e#716#717#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/DenseGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="58" column="31" lean-forward="true" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/WeightedGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
         </state>
       </provider>
     </entry>

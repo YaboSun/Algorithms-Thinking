@@ -33,6 +33,12 @@ public class Edge<Weight extends Number & Comparable> implements Comparable<Edge
         return weight;
     }
 
+    // 给定一个顶点, 返回另一个顶点
+    public int other(int x){
+        assert x == v1 || x == v2;
+        return x == v1 ? v2 : v1;
+    }
+
     public String toString() {
         return "" + v1 + "-" + v2 + ":" + weight;
     }

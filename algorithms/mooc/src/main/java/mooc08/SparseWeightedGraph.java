@@ -16,7 +16,7 @@ public class SparseWeightedGraph<Weight extends Number & Comparable>
     public SparseWeightedGraph(int nodes, boolean directed) {
         assert nodes >= 0;
         this.nodes = nodes;
-        this.nodes = 0;
+        this.edges = 0;
         this.directed = directed;
 
         g = new ArrayList[nodes];
@@ -69,7 +69,7 @@ public class SparseWeightedGraph<Weight extends Number & Comparable>
     public void show() {
         for( int i = 0 ; i < nodes ; i ++ ){
             System.out.print("vertex " + i + ":\t");
-            for( int j = 0 ; j < g[i].size() ; j ++ ){
+            for(int j = 0 ; j < g[i].size() ; j ++){
                 Edge e = g[i].get(j);
                 System.out.print( "( to:" + e.other(i) + ",wt:" + e.getWeight() + ")\t");
             }

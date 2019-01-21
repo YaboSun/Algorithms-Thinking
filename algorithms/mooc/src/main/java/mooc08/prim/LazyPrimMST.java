@@ -19,6 +19,7 @@ public class LazyPrimMST<Weight extends Number & Comparable> {
     private Number mstWeight; // 最小生成树的权值
 
     // 构造函数 使用Prim算法求图的最小生成树
+    // 时间复杂度为O(ElogE)级别的
     public LazyPrimMST(WeightedGraph<Weight> graph) {
 
         // 初始化

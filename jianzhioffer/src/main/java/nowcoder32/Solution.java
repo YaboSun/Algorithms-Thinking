@@ -12,10 +12,12 @@ import java.util.Comparator;
  */
 public class Solution {
 
-    //
+    //可以看成是一个排序问题，在比较两个字符串 S1 和 S2 的大小时，
+    // 应该比较的是 S1+S2 和 S2+S1 的大小，如果 S1+S2 < S2+S1，
+    // 那么应该把 S1 排在前面，否则 应该把 S2 排在前面
     public String PrintMinNumber1(int [] numbers) {
         int n;
-        String s = "";
+        StringBuilder s = new StringBuilder();
         ArrayList<Integer> list = new ArrayList<>();
         for (int i : numbers) {
             list.add(i);
@@ -31,9 +33,9 @@ public class Solution {
         });
 
         for (int j : list) {
-            s += j;
+            s.append(j);
         }
 
-        return s;
+        return s.toString();
     }
 }

@@ -3,7 +3,7 @@ package mooc08.weightedgraph;
 /**
  * @author YaboSun
  */
-interface WeightedGraph<Weight extends Number & Comparable> {
+public interface WeightedGraph<Weight extends Number & Comparable> {
 
     /**
      * 获得顶点

@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed645c3e-dfe4-48b9-a1c4-b94a86186a3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/MinHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc04/heap/MinHeapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/prim/LazyPrimMST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc08/prim/LazyPrimMSTTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/weightedgraph/WeightedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/weightedgraph/WeightedGraph.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/datastructure/target/" />
@@ -63,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/MinHeap.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
-              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
               <folding>
                 <element signature="e#876#877#0" expanded="true" />
                 <element signature="e#903#904#0" expanded="true" />
@@ -74,13 +75,74 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc04/heap/MinHeapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+            <state relative-caret-position="285">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#203#212#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/prim/LazyPrimMST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="50" column="43" lean-forward="true" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1842#1843#0" expanded="true" />
+                <element signature="e#1867#1868#0" expanded="true" />
+                <element signature="e#1932#1933#0" expanded="true" />
+                <element signature="e#1963#1964#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc08/prim/LazyPrimMSTTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#285#293#0" expanded="true" />
+                <element signature="e#518#526#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/weightedgraph/SparseWeightedGraph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/weightedgraph/WeightedGraph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/weightedgraph/DenseWeightedGraph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="36" column="15" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
+              <folding>
+                <element signature="e#861#862#0" expanded="true" />
+                <element signature="e#889#890#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -112,9 +174,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc06/unionfind/quickfind/UnionFind1Test.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/quickfind/UnionFindTestHelper.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/quickunion/UnionFind2.java" />
         <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/unionfind/optimize/size/UnionFind3.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder24/SolutionOne.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder25/SolutionOne.java" />
@@ -163,6 +222,9 @@
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/TwoStackQueue05.java" />
         <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/MinHeap.java" />
         <option value="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc04/heap/MinHeapTest.java" />
+        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/weightedgraph/WeightedGraph.java" />
+        <option value="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc08/prim/LazyPrimMSTTest.java" />
+        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/prim/LazyPrimMST.java" />
       </list>
     </option>
   </component>
@@ -276,6 +338,32 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="mooc08" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="mooc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mooc08" type="462c0819:PsiDirectoryNode" />
+              <item name="weightedgraph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="mooc" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="mooc" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -286,7 +374,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548054304146" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548057222833" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -297,11 +385,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="mooc08.prim" />
       <recent name="mooc04.heap" />
       <recent name="nowcoder33" />
       <recent name="nowcoder32" />
       <recent name="nowcoder31" />
-      <recent name="mooc08" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="mooc06" />
@@ -335,13 +423,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinHeapTest">
-    <configuration name="MinHeapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mooc04.heap.MinHeapTest" />
+  <component name="RunManager" selected="Application.LazyPrimMSTTest">
+    <configuration name="LazyPrimMSTTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mooc08.prim.LazyPrimMSTTest" />
       <module name="mooc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mooc04.heap.*" />
+          <option name="PATTERN" value="mooc08.prim.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -349,12 +437,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadWeightedGraphTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mooc08.ReadWeightedGraphTest" />
+    <configuration name="MinHeapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mooc04.heap.MinHeapTest" />
       <module name="mooc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mooc08.weightedgraph.*" />
+          <option name="PATTERN" value="mooc04.heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -403,11 +491,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LazyPrimMSTTest" />
         <item itemvalue="Application.MinHeapTest" />
         <item itemvalue="Application.SolutionTest (2)" />
         <item itemvalue="Application.SolutionTest (1)" />
         <item itemvalue="Application.SolutionTest" />
-        <item itemvalue="Application.ReadWeightedGraphTest" />
       </list>
     </recent_temporary>
   </component>
@@ -437,14 +525,7 @@
       <workItem from="1547439161094" duration="7220000" />
       <workItem from="1547687300116" duration="31044000" />
       <workItem from="1547820373859" duration="13597000" />
-      <workItem from="1547945365221" duration="28377000" />
-    </task>
-    <task id="LOCAL-00045" summary="leetcode141实现">
-      <created>1547212347384</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1547212347384</updated>
+      <workItem from="1547945365221" duration="31316000" />
     </task>
     <task id="LOCAL-00046" summary="leetcode524">
       <created>1547215256540</created>
@@ -782,7 +863,14 @@
       <option name="project" value="LOCAL" />
       <updated>1548041954578</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="最小堆">
+      <created>1548054315802</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1548054315802</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -818,7 +906,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="231724000" />
+    <option name="totallyTimeSpent" value="234663000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
@@ -859,7 +947,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="自己实现nowcoder28" />
     <MESSAGE value="自己实现nowcoder29" />
     <MESSAGE value="自己实现nowcoder30" />
     <MESSAGE value="白板实现nowcoder03" />
@@ -884,7 +971,8 @@
     <MESSAGE value="剑指offer 丑数" />
     <MESSAGE value="手写两个栈实现队列05" />
     <MESSAGE value="复习两个栈实现队列05" />
-    <option name="LAST_COMMIT_MESSAGE" value="复习两个栈实现队列05" />
+    <MESSAGE value="最小堆" />
+    <option name="LAST_COMMIT_MESSAGE" value="最小堆" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1055,24 +1143,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/Components.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="751">
-          <caret line="50" column="30" lean-forward="true" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
-          <folding>
-            <element signature="e#1019#1020#0" expanded="true" />
-            <element signature="e#1047#1048#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/SparseGraph.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
@@ -1172,27 +1242,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/weightedgraph/SparseWeightedGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/weightedgraph/WeightedGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/weightedgraph/DenseWeightedGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1441,7 +1490,7 @@
     <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/MinHeap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
           <folding>
             <element signature="e#876#877#0" expanded="true" />
             <element signature="e#903#904#0" expanded="true" />
@@ -1453,10 +1502,61 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc04/heap/MinHeapTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#203#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/weightedgraph/DenseWeightedGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="36" column="15" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
+          <folding>
+            <element signature="e#861#862#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/weightedgraph/WeightedGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/weightedgraph/SparseWeightedGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/prim/LazyPrimMST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="50" column="43" lean-forward="true" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1842#1843#0" expanded="true" />
+            <element signature="e#1867#1868#0" expanded="true" />
+            <element signature="e#1932#1933#0" expanded="true" />
+            <element signature="e#1963#1964#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc08/prim/LazyPrimMSTTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#285#293#0" expanded="true" />
+            <element signature="e#518#526#0" expanded="true" />
           </folding>
         </state>
       </provider>

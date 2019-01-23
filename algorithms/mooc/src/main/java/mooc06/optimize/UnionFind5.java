@@ -32,15 +32,15 @@ public class UnionFind5 {
         // 根节点的特点: parent[p] == p
 
         // 路径压缩核心代码 第一版
-        /*while( p != parent[p] ){
+        while( p != parent[p] ){
             parent[p] = parent[parent[p]];
             p = parent[p];
-        }*/
+        }
 
         // 路径压缩核心代码 第二版
-        if (p != parent[p]) {
+        /*if (p != parent[p]) {
             parent[p] = find(parent[p]);
-        }
+        }*/
 
         //return p;
         return parent[p];

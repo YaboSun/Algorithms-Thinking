@@ -24,13 +24,13 @@ public class MinHeap<Item extends Comparable> {
     public MinHeap(Item[] arr) {
 
         int n = arr.length;
-        this.data = (Item[]) new Comparable[n + 1];
-        this.capacity = n;
+        data = (Item[]) new Comparable[n + 1];
+        capacity = n;
 
         for (int i = 0; i < n; i++) {
             data[i + 1] = arr[i];
         }
-        this.count = n;
+        count = n;
 
         for (int i = count / 2; i >= 1; i--) {
             shiftDown(i);

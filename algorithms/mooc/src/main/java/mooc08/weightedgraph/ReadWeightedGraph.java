@@ -19,16 +19,15 @@ public class ReadWeightedGraph {
 
         try {
             int V = scanner.nextInt(); // 定义读取顶点数
-            if (V <= 0) {
+            if (V < 0) {
                 throw new IllegalArgumentException("number of vertices in a Graph must be nonnegative");
             }
             assert V == graph.V();
 
             int E = scanner.nextInt();
-            if (E <= 0) {
+            if (E < 0) {
                 throw new IllegalArgumentException("number of vertices in a Graph must be nonnegative");
             }
-            assert E == graph.E();
 
             for (int i = 0; i < E; i++) {
                 int v = scanner.nextInt();

@@ -11,6 +11,7 @@ import java.util.ArrayList;
  */
 
 // 使用优化的Prim算法求图的最小生成树
+// 时间复杂度提升为elogv
 public class PrimMST<Weight extends Number & Comparable> {
 
     private WeightedGraph G; // 图的引用
@@ -37,7 +38,7 @@ public class PrimMST<Weight extends Number & Comparable> {
         mst = new ArrayList<>();
 
         // prim算法核心实现
-        visit(0); // TODO ？啥意思
+        visit(0); // 从第一个顶点开始访问
         while (!ipq.isEmpty()) {
             // 使用最小索引堆找到已经访问的边中权值最小的边
             // 最小索引对中存储的是结点的索引，通过点的索引找到对应的边

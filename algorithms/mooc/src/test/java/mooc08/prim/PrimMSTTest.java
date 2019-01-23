@@ -6,12 +6,10 @@ import mooc08.weightedgraph.SparseWeightedGraph;
 
 import java.util.ArrayList;
 
-import static org.junit.Assert.*;
-
 /**
  * @author YaboSun
  */
-public class LazyPrimMSTTest {
+public class PrimMSTTest {
 
     public static void main(String[] args) {
 
@@ -24,10 +22,21 @@ public class LazyPrimMSTTest {
         // Test Lazy Prim MST
         System.out.println("Test Lazy Prim MST:");
         LazyPrimMST<Double> lazyPrimMST = new LazyPrimMST<Double>(g);
-        ArrayList<Edge<Double>> mst = lazyPrimMST.mstEdges();
+        ArrayList<Edge<Double>> mstl = lazyPrimMST.mstEdges();
+        for( int i = 0 ; i < mstl.size() ; i ++ )
+            System.out.println(mstl.get(i));
+        System.out.println("The MST weight is: " + lazyPrimMST.result());
+
+        System.out.println();
+
+
+        // Test Prim MST
+        System.out.println("Test Prim MST:");
+        PrimMST<Double> primMST = new PrimMST<Double>(g);
+        ArrayList<Edge<Double>> mst = primMST.mstEdges();
         for( int i = 0 ; i < mst.size() ; i ++ )
             System.out.println(mst.get(i));
-        System.out.println("The MST weight is: " + lazyPrimMST.result());
+        System.out.println("The MST weight is: " + primMST.result());
 
         System.out.println();
     }

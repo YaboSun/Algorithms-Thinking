@@ -55,5 +55,4 @@ public class Selection {
         }
         assert isSorted(a, comparator);
     }
-
 }

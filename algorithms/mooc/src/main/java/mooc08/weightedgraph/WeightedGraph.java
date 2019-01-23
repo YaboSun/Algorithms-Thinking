@@ -12,7 +12,7 @@ public interface WeightedGraph<Weight extends Number & Comparable> {
     int V();
 
     /**
-     * 获得对应的边
+     * 获得对应的边数量
      * @return 对应的边
      */
     int E();

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e420e2a3-b3f5-465e-9b1c-3c0a7444dd6c" name="Default Changelist" comment="happy new year">
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder35/Solution.java" afterDir="false" />
+    <list default="true" id="e420e2a3-b3f5-465e-9b1c-3c0a7444dd6c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder35/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="235">
+              <caret line="41" column="25" lean-forward="true" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -199,7 +198,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549891633496" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549891992225" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -341,7 +340,7 @@
       <workItem from="1547621344907" duration="5222000" />
       <workItem from="1549367123377" duration="2172000" />
       <workItem from="1549888651286" duration="54000" />
-      <workItem from="1549888842581" duration="2701000" />
+      <workItem from="1549888842581" duration="3137000" />
     </task>
     <task id="LOCAL-00001" summary="完成剑指Offer第三题">
       <created>1546691205031</created>
@@ -609,7 +608,14 @@
       <option name="project" value="LOCAL" />
       <updated>1549368876970</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="35">
+      <created>1549891717570</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1549891717570</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -645,7 +651,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105049000" />
+    <option name="totallyTimeSpent" value="105485000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -757,7 +763,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="最小生成树-kruskal核心代码实现" />
     <MESSAGE value="剑指offer第9题 两种方法实现" />
     <MESSAGE value="剑指offer第10题" />
     <MESSAGE value="实现dijkstra代码 并调试运行" />
@@ -782,7 +787,8 @@
     <MESSAGE value="leetcode451" />
     <MESSAGE value="leetcode451思路整理" />
     <MESSAGE value="happy new year" />
-    <option name="LAST_COMMIT_MESSAGE" value="happy new year" />
+    <MESSAGE value="35" />
+    <option name="LAST_COMMIT_MESSAGE" value="35" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1127,8 +1133,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder35/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="235">
+          <caret line="41" column="25" lean-forward="true" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
         </state>
       </provider>
     </entry>

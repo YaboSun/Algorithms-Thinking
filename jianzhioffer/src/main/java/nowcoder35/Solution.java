@@ -48,7 +48,7 @@ public class Solution {
                 tmp[k] = array[i++];
             } else {
                 tmp[k] = array[j++];
-                this.cnt += m - i + 1;
+                this.cnt += m - i + 1; // nums[i] >= nums[j]，说明 n ums[i...mid] 都大于 nums[j]
             }
             k++;
         }

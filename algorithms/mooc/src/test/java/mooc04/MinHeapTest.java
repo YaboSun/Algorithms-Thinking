@@ -1,6 +1,4 @@
-package mooc04.heap;
-
-import static org.junit.Assert.*;
+package mooc04;
 
 /**
  * @author YaboSun

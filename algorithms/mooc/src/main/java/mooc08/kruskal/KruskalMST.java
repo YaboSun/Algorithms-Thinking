@@ -1,6 +1,6 @@
 package mooc08.kruskal;
 
-import mooc04.heap.MinHeap;
+import mooc04.MinHeap;
 import mooc06.optimize.UnionFind5;
 import mooc08.weightedgraph.Edge;
 import mooc08.weightedgraph.WeightedGraph;

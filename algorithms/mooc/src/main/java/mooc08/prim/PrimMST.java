@@ -1,6 +1,6 @@
 package mooc08.prim;
 
-import mooc04.heap.IndexMinHeap;
+import mooc04.IndexMinHeap;
 import mooc08.weightedgraph.Edge;
 import mooc08.weightedgraph.WeightedGraph;
 

@@ -1,102 +1,59 @@
 package nowcoder35;
 
-import java.util.Stack;
-
 /**
- * @author YaboSun
+ * @author YBSun
+ * Created in 2019-02-11
  *
- * 输入两个链表，找出它们的第一个公共结点
+ * 在数组中的两个数字，如果前面一个数字大于后面的数字，则这两个数字组成一个逆序对。
+ * 输入一个数组,求出这个数组中的逆序对的总数P。并将P对1000000007取模的结果输出。
+ * 即输出P%1000000007
+ *
+ * 题目保证输入的数组中没有的相同的数字
+ *
+ * 数据范围：
+ * 	对于%50的数据,size<=10^4
+ * 	对于%75的数据,size<=10^5
+ * 	对于%100的数据,size<=2*10^5
  */
 public class Solution {
 
-    // 解决思路(没通过测试用例)：
-    // 两个链表如果有重合的地方那么肯定是之后都重合
-    // 通过使用两个辅助栈实现从后往前进行比较，依次将两个链表结点入栈，直到节点值不相同为止
-    public ListNode FindFirstCommonNode1(ListNode pHead1, ListNode pHead2) {
-        if (pHead1 == null || pHead2 == null) {
-            return null;
-        }
-        Stack<ListNode> stack1 = new Stack<>();
-        Stack<ListNode> stack2 = new Stack<>();
+    private long cnt = 0;
+    private int[] tmp;
+    // 解决思路1：
+    // 通过归并排序实现，因为在归并排序时候如果
+    public int InversePairs1(int [] array) {
+        tmp = new int[array.length];
+        mergeSort(array, 0, array.length - 1);
+        return (int) (cnt % 1000000007);
+    }
 
-        ListNode node = new ListNode(0);
-        while (pHead1.next != null) {
-            stack1.push(pHead1);
-            pHead1 = pHead1.next;
+    private void mergeSort(int[] array, int l, int h) {
+        if (h - l < 1) {
+            return;
         }
-        stack1.push(pHead1);
+        int m = l + (h - l) / 2;
+        mergeSort(array, l, m);
+        mergeSort(array, m + 1, h);
+        merge(array, l, m, h);
+    }
 
-        while (pHead2.next != null) {
-            stack2.push(pHead2);
-            pHead2 = pHead2.next;
-        }
-        stack2.push(pHead2);
-
-        while (stack1.pop() != null && stack2.pop() != null) {
-            if (stack1.pop().val == stack2.pop().val) {
-                stack1.pop();
-                stack2.pop();
+    private void merge(int[] array, int l, int m, int h) {
+        int i = l, j = m + 1, k = l;
+        while (i <= m || j <= h) {
+            if (i > m) {
+                tmp[k] = array[j++];
+            } else if (j > h) {
+                tmp[k] = array[i++];
+            } else if (array[i] < array[j]) {
+                tmp[k] = array[i++];
             } else {
-                node = stack1.pop();
+                tmp[k] = array[j++];
+                this.cnt += m - i + 1; // nums[i] >= nums[j]，说明 n ums[i...mid] 都大于 nums[j]
             }
+            k++;
         }
-
-        return node;
-    }
-
-
-    // 找出2个链表的长度，然后让长的先走两个链表的长度差，然后再一起走
-    public ListNode FindFirstCommonNode(ListNode pHead1, ListNode pHead2) {
-        if (pHead1 == null || pHead2 == null) {
-            return null;
-        }
-
-        // 计算两个链表的长度
-        int count1 = 0; // 记录第一个链表长度
-        int count2 = 0; // 记录第二个链表长度
-
-        ListNode p1 = pHead1;
-        ListNode p2 = pHead2;
-        while (p1 != null) {
-            p1 = p1.next;
-            count1++;
-        }
-        while (p2 != null) {
-            p2 = p2.next;
-            count2++;
-        }
-
-        int flag = count1 - count2;
-        if (flag <= 0) {
-            while (flag < 0) {
-                pHead2 = pHead2.next;
-                flag++;
-            }
-            while (pHead1 != pHead2) {
-                pHead2 = pHead2.next;
-                pHead1 = pHead1.next;
-            }
-            return pHead1;
-        } else {
-            while (flag > 0) {
-                pHead1 = pHead1.next;
-                flag--;
-            }
-            while (pHead1 != pHead2) {
-                pHead1 = pHead1.next;
-                pHead2 = pHead2.next;
-            }
-            return pHead1;
-        }
-    }
-
-    // 辅助内部类
-    private class ListNode {
-        int val;
-        ListNode next = null;
-
-        ListNode(int val) {
-            this.val = val;
+        for (k = l; k <= h; k++) {
+            array[k] = tmp[k];
         }
     }
 }

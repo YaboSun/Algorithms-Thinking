@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed645c3e-dfe4-48b9-a1c4-b94a86186a3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/kruskal/KruskalMST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/kruskal/KruskalMST2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc08/kruskal/KruskalMSTTest.java" afterDir="false" />
+    <list default="true" id="e420e2a3-b3f5-465e-9b1c-3c0a7444dd6c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/MinHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/MinHeap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/optimize/UnionFind5.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/optimize/UnionFind5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/prim/PrimMST.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/prim/PrimMST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/weightedgraph/ReadWeightedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/weightedgraph/ReadWeightedGraph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc08/ReadWeightedGraphTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc08/ReadWeightedGraphTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/datastructure/target/" />
@@ -24,11 +16,10 @@
     <ignored path="$PROJECT_DIR$/algorithms/search/target/" />
     <ignored path="$PROJECT_DIR$/leetcode/algorithm/target/" />
     <ignored path="$PROJECT_DIR$/leetcode/datastru/target/" />
-    <ignored path="$PROJECT_DIR$/leetcode/datastruc/target/" />
-    <ignored path="$PROJECT_DIR$/algorithms/mooc/target/" />
-    <ignored path="$PROJECT_DIR$/algorithms/algo4/target/" />
     <ignored path="$PROJECT_DIR$/algorithms/dahua/target/" />
     <ignored path="$PROJECT_DIR$/leetcode/datastruc/array/target/" />
+    <ignored path="$PROJECT_DIR$/leetcode/datastruc/target/" />
+    <ignored path="$PROJECT_DIR$/algorithms/mooc/target/" />
     <ignored path="$PROJECT_DIR$/algorithms/algs4/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,144 +27,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/algorithms/mooc/target/classes/testWG1.txt">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="19">
-                    <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/kruskal/KruskalMST.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="38" column="15" lean-forward="true" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1807#1808#0" expanded="true" />
-                <element signature="e#1832#1833#0" expanded="true" />
-                <element signature="e#1884#1885#0" expanded="true" />
-                <element signature="e#1915#1916#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/optimize/UnionFind5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/weightedgraph/WeightedGraph.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc08/kruskal/KruskalMSTTest.java">
+        <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder35/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="545">
-              <caret line="38" column="48" lean-forward="true" selection-start-line="38" selection-start-column="48" selection-end-line="38" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1174#1182#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/kruskal/KruskalMST2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1026">
-              <caret line="54" column="19" lean-forward="true" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#474#488#0" expanded="true" />
-                <element signature="e#1441#1442#0" expanded="true" />
-                <element signature="e#1467#1468#0" expanded="true" />
-                <element signature="e#1507#1508#0" expanded="true" />
-                <element signature="e#1539#1540#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/weightedgraph/SparseWeightedGraph.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1425">
-              <caret line="75" column="33" lean-forward="true" selection-start-line="75" selection-start-column="33" selection-end-line="75" selection-end-column="33" />
-              <folding>
-                <element signature="e#650#651#0" expanded="true" />
-                <element signature="e#678#679#0" expanded="true" />
-                <element signature="e#714#715#0" expanded="true" />
-                <element signature="e#742#743#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc08/prim/PrimMSTTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="32" column="24" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/prim/PrimMST.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-266">
-              <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/MinHeap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="55" selection-start-line="55" selection-end-line="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc08/ReadWeightedGraphTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+            <state relative-caret-position="235">
+              <caret line="41" column="25" lean-forward="true" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -183,7 +43,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
@@ -195,7 +54,6 @@
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer</dir>
-      <dir>$PROJECT_DIR$/jianzhioffer/src/main/java</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -205,57 +63,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder29/SolutionOne.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder30/SolutionOne.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder03/SolutionThree.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/resources/testG1.txt" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/resources/testG2.txt" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/SparseGraph.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/Graph.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/ReadGraph.java" />
-        <option value="$PROJECT_DIR$/leetcode/pom.xml" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc07/ReadGraphTest.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc07/ComponentsTest.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/Components.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/Path.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/DenseGraph.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/ShortestPath.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/WeightedGraph.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/target/classes/testWG1.txt" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/DenseWeightedGraph.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/ReadWeightedGraph.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/Edge.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/SparseWeightedGraph.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/FindNum.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/PrintList.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/ReconstructBinaryTree04.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/FindNum01.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/ReplaceSpace02.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/PrintList03.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder31/Solution.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder31/SolutionTest.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder32/SolutionTest.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder32/Solution.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder33/SolutionTest.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder33/Solution.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/TwoStackQueue05.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc04/heap/MinHeapTest.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc08/prim/LazyPrimMSTTest.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/prim/LazyPrimMST.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/IndexMinHeap.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder34/SolutionTest.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder34/Solution.java" />
-        <option value="$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/Selection.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/weightedgraph/WeightedGraph.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc08/prim/PrimMSTTest.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/prim/PrimMST.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc08/ReadWeightedGraphTest.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/weightedgraph/ReadWeightedGraph.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/MinHeap.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/kruskal/KruskalMST.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/optimize/UnionFind5.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc08/kruskal/KruskalMSTTest.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/kruskal/KruskalMST2.java" />
+        <option value="$PROJECT_DIR$/datastructure/src/main/java/tree/shortestpath/Dijkstra.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder09/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder09/SolutionTwo.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder09/SolutionTwoTest.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder10/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/datastructure/src/test/java/graph/shortestpath/DijkstraTest.java" />
+        <option value="$PROJECT_DIR$/datastructure/src/test/java/graph/shortestpath/FloydTest.java" />
+        <option value="$PROJECT_DIR$/datastructure/src/main/java/graph/shortestpath/Dijkstra.java" />
+        <option value="$PROJECT_DIR$/datastructure/src/main/java/graph/shortestpath/Floyd.java" />
+        <option value="$PROJECT_DIR$/algorithms/search/src/test/java/orderedlist/BinarySearchTest.java" />
+        <option value="$PROJECT_DIR$/algorithms/search/src/main/java/orderedlist/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/algorithms/search/src/main/java/orderedlist/BinarySearchRecur.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder11/SolutionTwo.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder11/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/algorithms/sort/src/main/java/utils/SortTestHelper.java" />
+        <option value="$PROJECT_DIR$/algorithms/sort/src/main/java/heap/MaxHeap.java" />
+        <option value="$PROJECT_DIR$/algorithms/sort/src/test/java/heap/MaxHeapTest.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder12/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder12/SolutionOneTest.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder13/SolutionOneTest.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder13/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder13/SolutionTwo.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/utils/ListNode.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder03/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder03/SolutionTwo.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder14/ListNode.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder15/ListNode.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder16/ListNode.java" />
+        <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode167.java" />
+        <option value="$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode167Test.java" />
+        <option value="$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode633Test.java" />
+        <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode633.java" />
+        <option value="$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode345Test.java" />
+        <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode345.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/common/TreeNode.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder14/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder14/SolutionTwo.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder15/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder16/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder17/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder26/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder27/SolutionOneTest.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder27/SolutionOne.java" />
+        <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode347.java" />
+        <option value="$PROJECT_DIR$/leetcode/algorithm/src/test/java/sort/LeetCode347Test.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder02/SolutionTwo.java" />
+        <option value="$PROJECT_DIR$/leetcode/algorithm/src/test/java/sort/LeetCode451Test.java" />
+        <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode451.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/MinNumberInRotateArray06.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/test/java/MinNumberInRotateArray06Test.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder35/Solution.java" />
       </list>
     </option>
   </component>
@@ -283,11 +141,12 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="28" />
-    <option name="width" value="1920" />
-    <option name="height" value="1052" />
+    <option name="x" value="343" />
+    <option name="y" value="243" />
+    <option name="width" value="1717" />
+    <option name="height" value="969" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -295,6 +154,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -305,186 +166,51 @@
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc" type="462c0819:PsiDirectoryNode" />
+              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc" type="462c0819:PsiDirectoryNode" />
+              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc" type="462c0819:PsiDirectoryNode" />
+              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc04" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc04" type="462c0819:PsiDirectoryNode" />
-              <item name="heap" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc08" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc08" type="462c0819:PsiDirectoryNode" />
-              <item name="kruskal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc08" type="462c0819:PsiDirectoryNode" />
-              <item name="prim" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc08" type="462c0819:PsiDirectoryNode" />
-              <item name="weightedgraph" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc08" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc08" type="462c0819:PsiDirectoryNode" />
-              <item name="prim" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548235034985" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549891992225" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="mooc08.kruskal" />
-      <recent name="nowcoder34" />
-      <recent name="mooc08.prim" />
-      <recent name="mooc04.heap" />
-      <recent name="nowcoder33" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="mooc06" />
-      <recent name="mooc06.unionfind" />
+      <recent name="" />
+      <recent name="sort" />
+      <recent name="nowcoder27" />
+      <recent name="doublepointer" />
+      <recent name="nowcoder13" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -493,13 +219,6 @@
       <recent name="nowcoder16" />
       <recent name="nowcoder15" />
       <recent name="nowcoder14" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/algorithms/mooc/src/main/resources" />
-      <recent name="$PROJECT_DIR$/algorithms/mooc/src/test" />
-      <recent name="$PROJECT_DIR$/algorithms/mooc/src/main/java" />
-      <recent name="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07" />
-      <recent name="$PROJECT_DIR$/leetcode/datastruc" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -514,14 +233,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.KruskalMSTTest">
-    <configuration name="KruskalMSTTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mooc08.kruskal.KruskalMSTTest" />
-      <module name="mooc" />
-      <option name="VM_PARAMETERS" value="-ea" />
+  <component name="RunManager" selected="Application.MinNumberInRotateArray06Test">
+    <configuration name="LeetCode347Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.LeetCode347Test" />
+      <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mooc08.kruskal.*" />
+          <option name="PATTERN" value="sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -529,12 +247,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinHeapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mooc04.heap.MinHeapTest" />
-      <module name="mooc" />
+    <configuration name="LeetCode451Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.LeetCode451Test" />
+      <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mooc04.heap.*" />
+          <option name="PATTERN" value="sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -542,60 +260,56 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimMSTTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mooc08.prim.PrimMSTTest" />
-      <module name="mooc" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mooc08.prim.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="MinNumberInRotateArray06Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinNumberInRotateArray06Test" />
+      <module name="jianzhioffer" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadWeightedGraphTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mooc08.ReadWeightedGraphTest" />
-      <module name="mooc" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mooc08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SolutionTest (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nowcoder34.SolutionTest" />
+    <configuration name="SolutionOneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcoder27.SolutionOneTest" />
       <module name="jianzhioffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nowcoder34.*" />
+          <option name="PATTERN" value="nowcoder27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTwoTest.replaceSpace" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jianzhioffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nowcoder02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nowcoder02" />
+      <option name="MAIN_CLASS_NAME" value="nowcoder02.SolutionTwoTest" />
+      <option name="METHOD_NAME" value="replaceSpace" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PrimMSTTest" />
-      <item itemvalue="Application.MinHeapTest" />
-      <item itemvalue="Application.ReadWeightedGraphTest" />
-      <item itemvalue="Application.SolutionTest (3)" />
-      <item itemvalue="Application.KruskalMSTTest" />
+      <item itemvalue="Application.SolutionOneTest" />
+      <item itemvalue="Application.LeetCode347Test" />
+      <item itemvalue="Application.LeetCode451Test" />
+      <item itemvalue="Application.MinNumberInRotateArray06Test" />
+      <item itemvalue="JUnit.SolutionTwoTest.replaceSpace" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.KruskalMSTTest" />
-        <item itemvalue="Application.PrimMSTTest" />
-        <item itemvalue="Application.ReadWeightedGraphTest" />
-        <item itemvalue="Application.MinHeapTest" />
-        <item itemvalue="Application.SolutionTest (3)" />
+        <item itemvalue="Application.MinNumberInRotateArray06Test" />
+        <item itemvalue="Application.LeetCode451Test" />
+        <item itemvalue="JUnit.SolutionTwoTest.replaceSpace" />
+        <item itemvalue="Application.LeetCode347Test" />
+        <item itemvalue="Application.SolutionOneTest" />
       </list>
     </recent_temporary>
   </component>
@@ -604,7 +318,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ed645c3e-dfe4-48b9-a1c4-b94a86186a3b" name="Default Changelist" comment="" />
+      <changelist id="e420e2a3-b3f5-465e-9b1c-3c0a7444dd6c" name="Default Changelist" comment="" />
       <created>1546479447808</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -617,406 +331,334 @@
       <workItem from="1546759613036" duration="6172000" />
       <workItem from="1546823223840" duration="28263000" />
       <workItem from="1546910162424" duration="8454000" />
-      <workItem from="1546949441811" duration="13000000" />
-      <workItem from="1547107540744" duration="16312000" />
-      <workItem from="1547171837520" duration="32359000" />
-      <workItem from="1547280595862" duration="16516000" />
-      <workItem from="1547346080866" duration="22171000" />
-      <workItem from="1547439161094" duration="7220000" />
-      <workItem from="1547687300116" duration="31044000" />
-      <workItem from="1547820373859" duration="13597000" />
-      <workItem from="1547945365221" duration="32410000" />
-      <workItem from="1548058573793" duration="4948000" />
-      <workItem from="1548122189025" duration="3193000" />
-      <workItem from="1548209534853" duration="11468000" />
+      <workItem from="1546949441811" duration="12665000" />
+      <workItem from="1547426985170" duration="70000" />
+      <workItem from="1547427229908" duration="7946000" />
+      <workItem from="1547451819727" duration="9892000" />
+      <workItem from="1547517284007" duration="3748000" />
+      <workItem from="1547600281012" duration="3058000" />
+      <workItem from="1547621344907" duration="5222000" />
+      <workItem from="1549367123377" duration="2172000" />
+      <workItem from="1549888651286" duration="54000" />
+      <workItem from="1549888842581" duration="3137000" />
     </task>
-    <task id="LOCAL-00050" summary="nowcoder23实现">
-      <created>1547222754672</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
+    <task id="LOCAL-00001" summary="完成剑指Offer第三题">
+      <created>1546691205031</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1547222754681</updated>
+      <updated>1546691205032</updated>
     </task>
-    <task id="LOCAL-00051" summary="nowcoder23调试并详细了解其实现原理">
-      <created>1547279201227</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
+    <task id="LOCAL-00002" summary="剑指Offer第三题 优化">
+      <created>1546691365900</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1547279201227</updated>
+      <updated>1546691365900</updated>
     </task>
-    <task id="LOCAL-00052" summary="调整结构 实现二叉搜索树前中后遍历操作">
-      <created>1547282444699</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
+    <task id="LOCAL-00003" summary="剑指Offer第四题">
+      <created>1546786806899</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1547282444700</updated>
+      <updated>1546786806899</updated>
     </task>
-    <task id="LOCAL-00053" summary="实现二叉搜索树层序遍历操作">
-      <created>1547283875454</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
+    <task id="LOCAL-00004" summary="剑指Offer第五题">
+      <created>1546787784553</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1547283875454</updated>
+      <updated>1546787784553</updated>
     </task>
-    <task id="LOCAL-00054" summary="实现二叉搜索树删除最大最小值操作">
-      <created>1547291983573</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
+    <task id="LOCAL-00005" summary="剑指Offer第六题 暴力解法">
+      <created>1546788189751</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1547291983573</updated>
+      <updated>1546788189751</updated>
     </task>
-    <task id="LOCAL-00055" summary="leetcode215">
-      <created>1547298118847</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
+    <task id="LOCAL-00006" summary="剑指Offer第六题 二分法优化">
+      <created>1546788628372</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1547298118847</updated>
+      <updated>1546788628372</updated>
     </task>
-    <task id="LOCAL-00056" summary="彻底搞懂快速排序">
-      <created>1547302522704</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
+    <task id="LOCAL-00007" summary="剑指Offer第七题简单实现">
+      <created>1546789148346</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1547302522705</updated>
+      <updated>1546789148347</updated>
     </task>
-    <task id="LOCAL-00057" summary="my initial insertion">
-      <created>1547347613499</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
+    <task id="LOCAL-00008" summary="剑指Offer第七题动态规划 非递归实现">
+      <created>1546789449464</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1547347613502</updated>
+      <updated>1546789449464</updated>
     </task>
-    <task id="LOCAL-00058" summary="编写模板排序辅助类 将原有代码重新调用">
-      <created>1547349853685</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
+    <task id="LOCAL-00009" summary="剑指Offer第8题 跳台阶">
+      <created>1546790101945</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1547349853685</updated>
+      <updated>1546790101945</updated>
     </task>
-    <task id="LOCAL-00059" summary="完善选择排序">
-      <created>1547355660596</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
+    <task id="LOCAL-00010" summary="最小生成树-prim算法实现">
+      <created>1546825552152</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1547355660607</updated>
+      <updated>1546825552153</updated>
     </task>
-    <task id="LOCAL-00060" summary="二分搜索树删除节点">
-      <created>1547363286176</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
+    <task id="LOCAL-00011" summary="最小生成树-prim算法搞通">
+      <created>1546826838197</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
-      <updated>1547363286176</updated>
+      <updated>1546826838197</updated>
     </task>
-    <task id="LOCAL-00061" summary="union find第一版本实现以及运行时间测试">
-      <created>1547371108835</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
+    <task id="LOCAL-00012" summary="最小生成树-kruskal核心代码实现">
+      <created>1546831439866</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
       <option name="project" value="LOCAL" />
-      <updated>1547371108835</updated>
+      <updated>1546831439866</updated>
     </task>
-    <task id="LOCAL-00062" summary="union find第二版本实现以及运行时间测试">
-      <created>1547376783524</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
+    <task id="LOCAL-00013" summary="剑指offer第9题 两种方法实现">
+      <created>1546835517397</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
       <option name="project" value="LOCAL" />
-      <updated>1547376783524</updated>
+      <updated>1546835517397</updated>
     </task>
-    <task id="LOCAL-00063" summary="union find第三版本实现以及运行时间测试">
-      <created>1547378218032</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
+    <task id="LOCAL-00014" summary="剑指offer第10题">
+      <created>1546836410661</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
       <option name="project" value="LOCAL" />
-      <updated>1547378218032</updated>
+      <updated>1546836410661</updated>
     </task>
-    <task id="LOCAL-00064" summary="nowcoder24题">
-      <created>1547381287791</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
+    <task id="LOCAL-00015" summary="实现dijkstra代码 并调试运行">
+      <created>1546852298356</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
-      <updated>1547381287791</updated>
+      <updated>1546852298356</updated>
     </task>
-    <task id="LOCAL-00065" summary="nowcoder25题">
-      <created>1547383603388</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
+    <task id="LOCAL-00016" summary="实现floyd代码 并调试运行">
+      <created>1546859121992</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
       <option name="project" value="LOCAL" />
-      <updated>1547383603388</updated>
+      <updated>1546859121992</updated>
     </task>
-    <task id="LOCAL-00066" summary="union find第四种实现">
-      <created>1547707302320</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
+    <task id="LOCAL-00017" summary="实现floyd代码 并调试运行">
+      <created>1546859164429</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
       <option name="project" value="LOCAL" />
-      <updated>1547707302321</updated>
+      <updated>1546859164429</updated>
     </task>
-    <task id="LOCAL-00067" summary="union find第五种实现">
-      <created>1547715405957</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
+    <task id="LOCAL-00018" summary="新建查找模块 实现折半查找">
+      <created>1546861714238</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
       <option name="project" value="LOCAL" />
-      <updated>1547715405957</updated>
+      <updated>1546861714238</updated>
     </task>
-    <task id="LOCAL-00068" summary="修改结构">
-      <created>1547715639412</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
+    <task id="LOCAL-00019" summary="递归实现折半查找">
+      <created>1546864862656</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
       <option name="project" value="LOCAL" />
-      <updated>1547715639412</updated>
+      <updated>1546864862657</updated>
     </task>
-    <task id="LOCAL-00069" summary="并查集路径压缩优化">
-      <created>1547716192611</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
+    <task id="LOCAL-00020" summary="剑指Offer11题 偷巧解法">
+      <created>1546868956642</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
       <option name="project" value="LOCAL" />
-      <updated>1547716192611</updated>
+      <updated>1546868956642</updated>
     </task>
-    <task id="LOCAL-00070" summary="自己实现nowcoder28">
-      <created>1547725466161</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
+    <task id="LOCAL-00021" summary="剑指Offer11题 最优解太nb了">
+      <created>1546869228130</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
       <option name="project" value="LOCAL" />
-      <updated>1547725466161</updated>
+      <updated>1546869228130</updated>
     </task>
-    <task id="LOCAL-00071" summary="自己实现nowcoder29">
-      <created>1547726375718</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
+    <task id="LOCAL-00022" summary="剑指Offer12题">
+      <created>1546875239812</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
       <option name="project" value="LOCAL" />
-      <updated>1547726375718</updated>
+      <updated>1546875239812</updated>
     </task>
-    <task id="LOCAL-00072" summary="自己实现nowcoder30">
-      <created>1547727093129</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
+    <task id="LOCAL-00023" summary="max heap实现">
+      <created>1546945526189</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
       <option name="project" value="LOCAL" />
-      <updated>1547727093129</updated>
+      <updated>1546945526189</updated>
     </task>
-    <task id="LOCAL-00073" summary="白板实现nowcoder03">
-      <created>1547786597138</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
+    <task id="LOCAL-00024" summary="剑指Offer12 详细调试解析">
+      <created>1546946562556</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
       <option name="project" value="LOCAL" />
-      <updated>1547786597138</updated>
+      <updated>1546946562556</updated>
     </task>
-    <task id="LOCAL-00074" summary="邻接矩阵实现稠密图的基本操作">
-      <created>1547796698118</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
+    <task id="LOCAL-00025" summary="剑指Offer13">
+      <created>1546948641916</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
       <option name="project" value="LOCAL" />
-      <updated>1547796698118</updated>
+      <updated>1546948641916</updated>
     </task>
-    <task id="LOCAL-00075" summary="邻接表实现稀疏图的基本操作">
-      <created>1547798376623</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
+    <task id="LOCAL-00026" summary="剑指Offer14">
+      <created>1546951262489</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
       <option name="project" value="LOCAL" />
-      <updated>1547798376623</updated>
+      <updated>1546951262489</updated>
     </task>
-    <task id="LOCAL-00076" summary="两种实现添加得到顶点所有邻边功能">
-      <created>1547800892124</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
+    <task id="LOCAL-00027" summary="剑指Offer15 这个有点费解">
+      <created>1546952812417</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
       <option name="project" value="LOCAL" />
-      <updated>1547800892124</updated>
+      <updated>1546952812417</updated>
     </task>
-    <task id="LOCAL-00077" summary="图实现从文件读取以及显示">
-      <created>1547804020514</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
+    <task id="LOCAL-00028" summary="leetcode167">
+      <created>1546956587869</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
       <option name="project" value="LOCAL" />
-      <updated>1547804020514</updated>
+      <updated>1546956587869</updated>
     </task>
-    <task id="LOCAL-00078" summary="稠密图实现从文件读取以及显示">
-      <created>1547879269401</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
+    <task id="LOCAL-00029" summary="leetcode633">
+      <created>1546957474513</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
       <option name="project" value="LOCAL" />
-      <updated>1547879269401</updated>
+      <updated>1546957474513</updated>
     </task>
-    <task id="LOCAL-00079" summary="图的深度优先遍历">
-      <created>1547880715540</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
+    <task id="LOCAL-00030" summary="剑指offer16">
+      <created>1547037614479</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
       <option name="project" value="LOCAL" />
-      <updated>1547880715540</updated>
+      <updated>1547037614479</updated>
     </task>
-    <task id="LOCAL-00080" summary="深度优先遍历路径输出">
-      <created>1547884498395</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
+    <task id="LOCAL-00031" summary="剑指offer17">
+      <created>1547041013516</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
       <option name="project" value="LOCAL" />
-      <updated>1547884498395</updated>
+      <updated>1547041013516</updated>
     </task>
-    <task id="LOCAL-00081" summary="广度优先最短路径实现">
-      <created>1547887444430</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
+    <task id="LOCAL-00032" summary="剑指offer26">
+      <created>1547430785484</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
       <option name="project" value="LOCAL" />
-      <updated>1547887444430</updated>
+      <updated>1547430785484</updated>
     </task>
-    <task id="LOCAL-00082" summary="有权图构造边">
-      <created>1547967438963</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
+    <task id="LOCAL-00033" summary="剑指offer27 回溯法">
+      <created>1547453581141</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
       <option name="project" value="LOCAL" />
-      <updated>1547967438963</updated>
+      <updated>1547453581141</updated>
     </task>
-    <task id="LOCAL-00083" summary="提供接口 方便后面有权稠密图稀疏图实现">
-      <created>1547968246520</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
+    <task id="LOCAL-00034" summary="leetcode347">
+      <created>1547457419902</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
       <option name="project" value="LOCAL" />
-      <updated>1547968246520</updated>
+      <updated>1547457419902</updated>
     </task>
-    <task id="LOCAL-00084" summary="实现带权稠密图">
-      <created>1547969823821</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
+    <task id="LOCAL-00035" summary="leetcode347">
+      <created>1547458413106</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
       <option name="project" value="LOCAL" />
-      <updated>1547969823821</updated>
+      <updated>1547458413106</updated>
     </task>
-    <task id="LOCAL-00085" summary="实现从文件读取带权图">
-      <created>1547971170393</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
+    <task id="LOCAL-00036" summary="leetcode451">
+      <created>1547626166018</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
       <option name="project" value="LOCAL" />
-      <updated>1547971170393</updated>
+      <updated>1547626166019</updated>
     </task>
-    <task id="LOCAL-00086" summary="测试稠密图读取">
-      <created>1547971916993</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
+    <task id="LOCAL-00037" summary="leetcode451思路整理">
+      <created>1547627309482</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
       <option name="project" value="LOCAL" />
-      <updated>1547971916993</updated>
+      <updated>1547627309482</updated>
     </task>
-    <task id="LOCAL-00087" summary="实现稀疏带权图">
-      <created>1547972920264</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
+    <task id="LOCAL-00038" summary="happy new year">
+      <created>1549368876970</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
       <option name="project" value="LOCAL" />
-      <updated>1547972920264</updated>
+      <updated>1549368876970</updated>
     </task>
-    <task id="LOCAL-00088" summary="测试对比两种图读取">
-      <created>1547973353271</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
+    <task id="LOCAL-00039" summary="35">
+      <created>1549891717570</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
       <option name="project" value="LOCAL" />
-      <updated>1547973353271</updated>
+      <updated>1549891717570</updated>
     </task>
-    <task id="LOCAL-00089" summary="change">
-      <created>1547988959941</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1547988959941</updated>
-    </task>
-    <task id="LOCAL-00090" summary="剑指offer 找到1-n中1的个数">
-      <created>1547990951331</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1547990951331</updated>
-    </task>
-    <task id="LOCAL-00091" summary="剑指offer 排成的最小数字">
-      <created>1547992676423</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1547992676423</updated>
-    </task>
-    <task id="LOCAL-00092" summary="剑指offer 丑数">
-      <created>1548041100147</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1548041100147</updated>
-    </task>
-    <task id="LOCAL-00093" summary="复习两个栈实现队列05">
-      <created>1548041954578</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1548041954578</updated>
-    </task>
-    <task id="LOCAL-00094" summary="最小堆">
-      <created>1548054315802</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1548054315802</updated>
-    </task>
-    <task id="LOCAL-00095" summary="lazy prim">
-      <created>1548057265325</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1548057265325</updated>
-    </task>
-    <task id="LOCAL-00096" summary="最小索引堆">
-      <created>1548060255427</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1548060255428</updated>
-    </task>
-    <task id="LOCAL-00097" summary="nowcoder34">
-      <created>1548080568982</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1548080568982</updated>
-    </task>
-    <task id="LOCAL-00098" summary="prim通过索引最小堆实现">
-      <created>1548228325846</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1548228325847</updated>
-    </task>
-    <option name="localTasksCounter" value="99" />
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LeetCode345Test_reverseVowels - 2019.01.08 at 23h 42m 52s.xml">
+    <history-entry file="LeetCode345Test_reverseVowels - 2019.01.08 at 23h 04m 56s.xml">
       <configuration name="LeetCode345Test.reverseVowels" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortTimeTest_calculateSortTime - 2019.01.10 at 19h 19m 57s.xml">
-      <configuration name="SortTimeTest.calculateSortTime" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortTimeTest_calculateSortTime - 2019.01.10 at 20h 27m 42s.xml">
-      <configuration name="SortTimeTest.calculateSortTime" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortTimeTest_calculateSortTime - 2019.01.10 at 20h 28m 00s.xml">
-      <configuration name="SortTimeTest.calculateSortTime" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortTimeTest_calculateSortTime - 2019.01.10 at 20h 30m 00s.xml">
-      <configuration name="SortTimeTest.calculateSortTime" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolutionOneTest_printMatrix - 2019.01.11 at 00h 04m 16s.xml">
-      <configuration name="SolutionOneTest.printMatrix" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BinarySearchTest_binarySearch - 2019.01.11 at 16h 33m 18s.xml">
-      <configuration name="BinarySearchTest.binarySearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BinarySearchTest_binarySearch - 2019.01.11 at 18h 36m 05s.xml">
-      <configuration name="BinarySearchTest.binarySearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BinarySearchTest_binarySearch - 2019.01.11 at 18h 49m 13s.xml">
-      <configuration name="BinarySearchTest.binarySearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LeetCode345Test_reverseVowels - 2019.01.11 at 20h 08m 34s.xml">
+    <history-entry file="LeetCode345Test_reverseVowels - 2019.01.08 at 23h 14m 16s.xml">
       <configuration name="LeetCode345Test.reverseVowels" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LeetCode345Test_reverseVowels - 2019.01.08 at 23h 14m 22s.xml">
+      <configuration name="LeetCode345Test.reverseVowels" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LeetCode345Test_reverseVowels - 2019.01.08 at 23h 18m 19s.xml">
+      <configuration name="LeetCode345Test.reverseVowels" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LeetCode345Test_reverseVowels - 2019.01.08 at 23h 20m 45s.xml">
+      <configuration name="LeetCode345Test.reverseVowels" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LeetCode345Test_reverseVowels - 2019.01.08 at 23h 20m 50s.xml">
+      <configuration name="LeetCode345Test.reverseVowels" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LeetCode345Test_reverseVowels - 2019.01.08 at 23h 22m 37s.xml">
+      <configuration name="LeetCode345Test.reverseVowels" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LeetCode345Test_reverseVowels - 2019.01.08 at 23h 38m 06s.xml">
+      <configuration name="LeetCode345Test.reverseVowels" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LeetCode345Test_reverseVowels - 2019.01.08 at 23h 38m 09s.xml">
+      <configuration name="LeetCode345Test.reverseVowels" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTwoTest_replaceSpace - 2019.01.15 at 19h 45m 42s.xml">
+      <configuration name="SolutionTwoTest.replaceSpace" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="255366000" />
+    <option name="totallyTimeSpent" value="105485000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49673203" visible="true" weight="0.20277481" />
-      <window_info id="Structure" order="1" sideWeight="0.503268" side_tool="true" weight="0.2854856" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26701966" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -1024,17 +666,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49839914" visible="true" weight="0.3359288" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893278" weight="0.39599556" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3276923" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39692307" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32900432" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3276923" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010672" side_tool="true" weight="0.39599556" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32814237" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3276923" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3276923" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.3276923" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1045,55 +687,126 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30257186" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3276923" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39692307" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3276923" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3276923" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32923076" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32977587" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="邻接表实现稀疏图的基本操作" />
-    <MESSAGE value="两种实现添加得到顶点所有邻边功能" />
-    <MESSAGE value="图实现从文件读取以及显示" />
-    <MESSAGE value="稠密图实现从文件读取以及显示" />
-    <MESSAGE value="图的深度优先遍历" />
-    <MESSAGE value="深度优先遍历路径输出" />
-    <MESSAGE value="广度优先最短路径实现" />
-    <MESSAGE value="有权图构造边" />
-    <MESSAGE value="提供接口 方便后面有权稠密图稀疏图实现" />
-    <MESSAGE value="实现带权稠密图" />
-    <MESSAGE value="实现从文件读取带权图" />
-    <MESSAGE value="测试稠密图读取" />
-    <MESSAGE value="实现稀疏带权图" />
-    <MESSAGE value="测试对比两种图读取" />
-    <MESSAGE value="change" />
-    <MESSAGE value="剑指offer 找到1-n中1的个数" />
-    <MESSAGE value="剑指offer 排成的最小数字" />
-    <MESSAGE value="剑指offer 丑数" />
-    <MESSAGE value="手写两个栈实现队列05" />
-    <MESSAGE value="复习两个栈实现队列05" />
-    <MESSAGE value="最小堆" />
-    <MESSAGE value="lazy prim" />
-    <MESSAGE value="最小索引堆" />
-    <MESSAGE value="nowcoder34" />
-    <MESSAGE value="prim通过索引最小堆实现" />
-    <option name="LAST_COMMIT_MESSAGE" value="prim通过索引最小堆实现" />
+    <MESSAGE value="剑指offer第9题 两种方法实现" />
+    <MESSAGE value="剑指offer第10题" />
+    <MESSAGE value="实现dijkstra代码 并调试运行" />
+    <MESSAGE value="实现floyd代码 并调试运行" />
+    <MESSAGE value="新建查找模块 实现折半查找" />
+    <MESSAGE value="递归实现折半查找" />
+    <MESSAGE value="剑指Offer11题 偷巧解法" />
+    <MESSAGE value="剑指Offer11题 最优解太nb了" />
+    <MESSAGE value="剑指Offer12题" />
+    <MESSAGE value="max heap实现" />
+    <MESSAGE value="剑指Offer12 详细调试解析" />
+    <MESSAGE value="剑指Offer13" />
+    <MESSAGE value="剑指Offer14" />
+    <MESSAGE value="剑指Offer15 这个有点费解" />
+    <MESSAGE value="leetcode167" />
+    <MESSAGE value="leetcode633" />
+    <MESSAGE value="剑指offer16" />
+    <MESSAGE value="剑指offer17" />
+    <MESSAGE value="剑指offer26" />
+    <MESSAGE value="剑指offer27 回溯法" />
+    <MESSAGE value="leetcode347" />
+    <MESSAGE value="leetcode451" />
+    <MESSAGE value="leetcode451思路整理" />
+    <MESSAGE value="happy new year" />
+    <MESSAGE value="35" />
+    <option name="LAST_COMMIT_MESSAGE" value="35" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/datastructure/src/test/java/string/kmp/NativeKMPTest.java</url>
-          <line>14</line>
+          <line>16</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithms/dahua/src/main/java/graph/minimumSpanningtree/Prim.java</url>
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/graph/minimumSpanningtree/Prim.java</url>
           <line>48</line>
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithms/dahua/src/main/java/graph/minimumSpanningtree/Prim.java</url>
+          <url>file://$PROJECT_DIR$/datastructure/src/main/java/graph/minimumSpanningtree/Prim.java</url>
           <line>39</line>
           <properties />
           <option name="timeStamp" value="4" />
@@ -1106,7 +819,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/datastructure/src/test/java/graph/shortestpath/DijkstraTest.java</url>
-          <line>27</line>
+          <line>29</line>
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
@@ -1129,573 +842,307 @@
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithms/sort/src/test/java/heap/MaxHeapTest.java</url>
-          <line>19</line>
+          <url>file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder27/SolutionOneTest.java</url>
+          <line>11</line>
           <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder19/SolutionOneTest.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode345Test.java</url>
-          <line>15</line>
+          <url>file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode347.java</url>
+          <line>68</line>
           <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode524Test.java</url>
-          <line>20</line>
+          <url>file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode451.java</url>
+          <line>43</line>
           <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder23/SolutionOneTest.java</url>
-          <line>11</line>
+          <url>file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/sort/LeetCode451Test.java</url>
+          <line>12</line>
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/sort/LeetCode215Test.java</url>
-          <line>12</line>
+          <url>file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode451.java</url>
+          <line>40</line>
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc03/quick/QuickSortImoocTest.java</url>
-          <line>13</line>
-          <properties />
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithms/algs4/src/test/java/sorting/SelectionTest.java</url>
-          <line>13</line>
-          <properties />
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc06/unionfind/UnionFindTest.java</url>
-          <line>16</line>
-          <properties />
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder29/SolutionOneTest.java</url>
-          <line>12</line>
-          <properties />
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode451.java</url>
-          <line>42</line>
-          <properties />
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07/ReadGraph.java</url>
-          <line>46</line>
-          <properties />
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/weightedgraph/SparseWeightedGraph.java</url>
-          <line>69</line>
-          <properties />
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder31/SolutionTest.java</url>
-          <line>12</line>
-          <properties />
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder32/SolutionTest.java</url>
-          <line>12</line>
-          <properties />
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder32/Solution.java</url>
-          <line>28</line>
-          <properties />
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder33/SolutionTest.java</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder34/SolutionTest.java</url>
-          <line>12</line>
-          <properties />
-          <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc08/prim/PrimMSTTest.java</url>
-          <line>25</line>
-          <properties />
-          <option name="timeStamp" value="42" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc08/ReadWeightedGraphTest.java</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/MinHeap.java</url>
-          <line>51</line>
-          <properties />
-          <option name="timeStamp" value="49" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc08/kruskal/KruskalMSTTest.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="c" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder01/SolutionOne.java" />
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder01/SolutionTwo.java" />
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder01/SolutionThree.java" />
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder02/SolutionOne.java" />
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder02/SolutionTwo.java" />
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder03/SolutionTwo.java" />
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder03/SolutionThree.java" />
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder03/SolutionOne.java" />
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder04/SolutionOne.java" />
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/FindNum01.java">
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder11/SolutionOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="399">
+          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/ReplaceSpace02.java">
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder11/SolutionTwo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+        <state relative-caret-position="361">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/PrintList03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/ReconstructBinaryTree04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder02/SolutionTwoTest.java" />
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder31/SolutionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder31/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder30/SolutionOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="1511" selection-start-line="1511" selection-end-line="1511" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="174" selection-start-line="174" selection-end-line="174" />
-          <folding>
-            <element signature="e#7312#7313#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="1461" selection-start-line="1461" selection-end-line="1461" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/TimSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="355" selection-start-line="355" selection-end-line="355" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder32/SolutionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder32/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="41" lean-forward="true" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder33/SolutionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder05/SolutionOne.java" />
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/TwoStackQueue05.java">
+    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/utils/SortTestHelper.java" />
+    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/test/java/heap/MaxHeapTest.java" />
+    <entry file="file://$PROJECT_DIR$/algorithms/sort/src/main/java/heap/MaxHeap.java" />
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder12/SolutionOneTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder12/SolutionOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder13/SolutionOneTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder13/SolutionTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder13/SolutionOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
           <folding>
-            <element signature="e#120#129#0" expanded="true" />
-            <element signature="e#170#179#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/HeapSort.java">
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder03/SolutionOne.java" />
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder03/SolutionTwo.java" />
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder03/ListNode.java" />
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder15/ListNode.java" />
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode167Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+        <state relative-caret-position="95">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/MaxHeap.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode633Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/IndexMaxHeap.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode633.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+        <state relative-caret-position="105">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder33/Solution.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode167.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        <state relative-caret-position="188">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder34/SolutionTest.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode345Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="247">
+          <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder16/ListNode.java" />
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/common/TreeNode.java" />
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/common/ListNode.java" />
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder14/SolutionOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder14/SolutionTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder15/SolutionOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder16/SolutionOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder17/SolutionOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder26/SolutionOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder27/SolutionOneTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder27/SolutionOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="29" column="16" lean-forward="true" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/datastru/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/leetcode/datastru/datastruc.iml" />
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/sort/LeetCode347Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode347.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="81" column="13" lean-forward="true" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder01/SolutionTwo.java" />
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder01/SolutionThree.java" />
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder01/SolutionOne.java" />
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder02/SolutionTwo.java" />
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder02/SolutionTwoTest.java" />
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder02/SolutionOne.java" />
+    <entry file="file://$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/Selection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-266">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode345.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="50" column="39" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode141.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/sort/LeetCode451Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode451.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="44" column="15" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder06/SolutionOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/MinNumberInRotateArray06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding>
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/test/java/MinNumberInRotateArray06Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="1" selection-start-line="13" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder34/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="35" selection-start-line="5" selection-start-column="18" selection-end-line="7" selection-end-column="35" />
+        <state relative-caret-position="222">
+          <caret line="17" selection-start-line="17" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/lang/String.java">
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder35/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="1464" column="15" selection-start-line="1464" selection-start-column="15" selection-end-line="1464" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/algs4/src/main/java/sorting/Selection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/prim/LazyPrimMST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1834#1835#0" expanded="true" />
-            <element signature="e#1860#1861#0" expanded="true" />
-            <element signature="e#1901#1902#0" expanded="true" />
-            <element signature="e#1933#1934#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/weightedgraph/DenseWeightedGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
-          <folding>
-            <element signature="e#889#890#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/IndexMinHeap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-399">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="e#743#744#0" expanded="true" />
-            <element signature="e#771#772#0" expanded="true" />
-            <element signature="e#830#831#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/weightedgraph/ReadWeightedGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19">
-          <caret line="38" column="56" lean-forward="true" selection-start-line="38" selection-start-column="56" selection-end-line="38" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/weightedgraph/Edge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-          <folding>
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
-            <element signature="e#587#588#0" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc04/heap/MinHeapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="61" lean-forward="true" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
-          <folding>
-            <element signature="e#203#212#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc08/ReadWeightedGraphTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc08/prim/PrimMSTTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="32" column="24" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/prim/PrimMST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-266">
-          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/MinHeap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/weightedgraph/WeightedGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/target/classes/testWG1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/weightedgraph/SparseWeightedGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1425">
-          <caret line="75" column="33" lean-forward="true" selection-start-line="75" selection-start-column="33" selection-end-line="75" selection-end-column="33" />
-          <folding>
-            <element signature="e#650#651#0" expanded="true" />
-            <element signature="e#678#679#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
-            <element signature="e#742#743#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/kruskal/KruskalMST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="38" column="15" lean-forward="true" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1807#1808#0" expanded="true" />
-            <element signature="e#1832#1833#0" expanded="true" />
-            <element signature="e#1884#1885#0" expanded="true" />
-            <element signature="e#1915#1916#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc06/optimize/UnionFind5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/kruskal/KruskalMST2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="54" column="19" lean-forward="true" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#474#488#0" expanded="true" />
-            <element signature="e#1441#1442#0" expanded="true" />
-            <element signature="e#1467#1468#0" expanded="true" />
-            <element signature="e#1507#1508#0" expanded="true" />
-            <element signature="e#1539#1540#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc08/kruskal/KruskalMSTTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="545">
-          <caret line="38" column="48" lean-forward="true" selection-start-line="38" selection-start-column="48" selection-end-line="38" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1174#1182#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="235">
+          <caret line="41" column="25" lean-forward="true" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
+      <state key="ScopeChooserConfigurable.UI">
         <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>@types/jquery</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>algo4</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: junit:junit:4.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

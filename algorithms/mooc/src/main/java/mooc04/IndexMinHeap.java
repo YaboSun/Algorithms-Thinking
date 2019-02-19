@@ -1,4 +1,4 @@
-package mooc04.heap;
+package mooc04;
 
 /**
  * @author YaboSun

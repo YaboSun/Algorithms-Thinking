@@ -1,5 +1,6 @@
 package nowcoder37;
 
+
 /**
  * @author YaboSun
  *
@@ -9,7 +10,7 @@ public class Solution {
 
     // 知识迁移，结合二分法找到第一个出现k的位置以及最后一个出现k的位置
     // 对应的下标相减就是要的结果
-    public int GetNumberOfK(int [] array , int k) {
+    public int GetNumberOfK1(int [] array , int k) {
         int number = 0;
         int firstIndex = getFirstKey(array, k, 0, array.length - 1);
         int lastIndex = getLastKey(array, array.length, k, 0, array.length - 1);
@@ -66,5 +67,29 @@ public class Solution {
         }
 
         return getLastKey(array, length, k, start, end);
+    }
+
+
+
+    // 解法二：notebook上
+    public int GetNumberOfK2(int [] array , int k) {
+        int first = binarySearch(array, k);
+        int last = binarySearch(array, k + 1);
+        return (first == array.length || array[first] != k) ? 0 : last - first;
+    }
+
+    private int binarySearch(int[] array, int k) {
+        int l = 0;
+        int h = array.length;
+
+        while (l < h) {
+            int m = l + (h - l) / 2;
+            if (array[m] >= k)
+                h = m;
+            else
+                l = m + 1;
+        }
+
+        return l;
     }
 }

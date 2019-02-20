@@ -12,6 +12,7 @@
         <module name="huawei" />
         <module name="jianzhioffer" />
         <module name="mooc" />
+        <module name="nowcoder" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

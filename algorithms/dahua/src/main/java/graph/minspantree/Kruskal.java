@@ -1,4 +1,4 @@
-package graph.minimumSpanningtree;
+package graph.minspantree;
 
 import java.util.ArrayList;
 import java.util.List;

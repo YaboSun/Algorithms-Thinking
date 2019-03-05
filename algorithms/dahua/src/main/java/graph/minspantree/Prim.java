@@ -1,4 +1,4 @@
-package graph.minimumSpanningtree;
+package graph.minspantree;
 
 /**
  * @author YaboSun

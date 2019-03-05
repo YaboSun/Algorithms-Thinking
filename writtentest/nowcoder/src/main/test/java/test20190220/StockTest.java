@@ -7,6 +7,7 @@ import static org.junit.Assert.*;
  */
 public class StockTest {
     public static void main(String[] args) {
-        Stock.solve1();
+        // Stock.solve1();
+        System.out.println(Stock.solve2());
     }
 }

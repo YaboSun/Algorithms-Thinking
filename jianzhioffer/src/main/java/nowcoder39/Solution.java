@@ -32,10 +32,22 @@ public class Solution {
 
 
     // 解法二
-    // 因为之前每次是从
+    // 因为之前判断上层结点时，会多次重复遍历下层结点
+    // 增加了不必要的开销
+    // 可以直接从下往上遍历
+    // 如果子树是平衡二叉树，则返回子树的高度，反之直接停止遍历
     public boolean IsBalanced_Solution2(TreeNode root) {
 
-        return false;
+        return getDepth(root) != -1;
+    }
+
+    private int getDepth(TreeNode root) {
+        if (root == null) return 0;
+        int left = getDepth(root.left);
+        if (left == -1) return -1;
+        int right = getDepth(root.right);
+        if (right == -1) return -1;
+        return Math.abs(left - right) > 1 ? -1 : 1 + Math.max(left, right);
     }
 
     private class TreeNode {

@@ -1,6 +1,7 @@
 package nowcoder41;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 
 /**
  * @author YaboSun
@@ -14,7 +15,7 @@ public class Solution {
     // 思路：使用双指针，第一个指针从头到尾进行遍历
     // 第二个指针从尾到头进行遍历，如果tmp == sum,输出这两个数
     // 如果tmp > sum,大指针减小，反之小指针增加
-    public ArrayList<Integer> FindNumbersWithSum(int [] array, int sum) {
+    public ArrayList<Integer> FindNumbersWithSum1(int [] array, int sum) {
 
         ArrayList<Integer> list = new ArrayList<>();
         if (array.length == 1) return list;
@@ -32,5 +33,22 @@ public class Solution {
             }
         }
         return list;
+    }
+
+
+    // 代码改进 更简洁
+    public ArrayList<Integer> FindNumbersWithSu2(int [] array, int sum) {
+        int i = 0, j = array.length - 1;
+        while (i < j) {
+            int cur = array[i] + array[j];
+            if (cur == sum) {
+                return new ArrayList<>(Arrays.asList(array[i], array[j]));
+            } else if (cur < sum) {
+                i++;
+            } else {
+                j--;
+            }
+        }
+        return new ArrayList<>();
     }
 }

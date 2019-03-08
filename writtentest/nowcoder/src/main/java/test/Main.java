@@ -1,5 +1,7 @@
 package test;
 
+import java.util.Arrays;
+import java.util.List;
 import java.util.Scanner;
 
 /**
@@ -18,5 +20,9 @@ public class Main {
             price = date - 2 * priceDownNum;
             System.out.println(price);
         }
+
+        int[] array = {1,2,3,4,5};
+        List<Integer> list = Arrays.asList(1,2);
+        System.out.println(list);
     }
 }

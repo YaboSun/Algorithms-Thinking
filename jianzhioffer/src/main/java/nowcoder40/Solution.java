@@ -1,7 +1,6 @@
 package nowcoder40;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 /**
  * @author YaboSun

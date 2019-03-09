@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed645c3e-dfe4-48b9-a1c4-b94a86186a3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder42/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder42/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder42/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/datastructure/target/" />
@@ -35,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder42/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="34" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="19" selection-end-column="34" />
+            <state relative-caret-position="524">
+              <caret line="38" column="33" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="38" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -212,7 +212,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552096019813" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552096699605" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -378,14 +378,7 @@
       <workItem from="1551922443747" duration="2640000" />
       <workItem from="1551953504305" duration="1099000" />
       <workItem from="1552006463571" duration="4308000" />
-      <workItem from="1552093440630" duration="2110000" />
-    </task>
-    <task id="LOCAL-00069" summary="并查集路径压缩优化">
-      <created>1547716192611</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1547716192611</updated>
+      <workItem from="1552093440630" duration="2861000" />
     </task>
     <task id="LOCAL-00070" summary="自己实现nowcoder28">
       <created>1547725466161</created>
@@ -723,7 +716,14 @@
       <option name="project" value="LOCAL" />
       <updated>1552010166180</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <task id="LOCAL-00118" summary="42">
+      <created>1552096031857</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1552096031857</updated>
+    </task>
+    <option name="localTasksCounter" value="119" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -759,13 +759,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="299497000" />
+    <option name="totallyTimeSpent" value="300248000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49673203" visible="true" weight="0.2230523" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49673203" visible="true" weight="0.2230523" />
       <window_info id="Structure" order="1" sideWeight="0.503268" side_tool="true" weight="0.2854856" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -801,7 +801,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="剑指offer 找到1-n中1的个数" />
     <MESSAGE value="剑指offer 排成的最小数字" />
     <MESSAGE value="剑指offer 丑数" />
     <MESSAGE value="手写两个栈实现队列05" />
@@ -826,7 +825,8 @@
     <MESSAGE value="41-2" />
     <MESSAGE value="asList" />
     <MESSAGE value="40" />
-    <option name="LAST_COMMIT_MESSAGE" value="40" />
+    <MESSAGE value="42" />
+    <option name="LAST_COMMIT_MESSAGE" value="42" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1392,8 +1392,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder42/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="34" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="19" selection-end-column="34" />
+        <state relative-caret-position="524">
+          <caret line="38" column="33" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="38" selection-end-column="33" />
         </state>
       </provider>
     </entry>

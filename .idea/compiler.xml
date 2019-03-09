@@ -13,6 +13,7 @@
         <module name="jianzhioffer" />
         <module name="mooc" />
         <module name="nowcoder" />
+        <module name="tencent" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

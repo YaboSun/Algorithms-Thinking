@@ -16,9 +16,8 @@ public class LeetCode137 {
      */
     public int singleNumber(int[] nums) {
         int[] bits = new int[32];
-        Arrays.fill(bits, 0);
-        int i = 0, j = 0;
-        for (; i < nums.length; i++) {
+        int i, j;
+        for (i = 0; i < nums.length; i++) {
             for (j = 0; j < 32; j++) {
                 bits[j] += ((nums[i] >> j) & 1);
             }
@@ -32,11 +31,14 @@ public class LeetCode137 {
         return result;
     }
 
+    // 这种解法理解不了，～操作是怎么进行的？
+    // 参考https://cloud.tencent.com/developer/article/1131945
     public int singleNumber1(int[] nums) {
         int ones = 0, twos = 0;
         for (int i = 0; i < nums.length; i++) {
             ones = (ones ^ nums[i]) & ~twos;
             twos = (twos ^ nums[i]) & ~ones;
+            System.out.println(ones + " " + twos);
         }
         return ones;
     }

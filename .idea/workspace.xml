@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed645c3e-dfe4-48b9-a1c4-b94a86186a3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/datastructure/src/main/java/bitopera/LeetCode137.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/datastructure/src/test/java/bitopera/LeetCode137Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/datastructure/src/main/java/bitopera/LeetCode136.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/datastructure/src/main/java/bitopera/LeetCode136.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/datastructure/src/test/java/bitopera/LeetCode136Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/datastructure/src/test/java/bitopera/LeetCode136Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/datastructure/src/main/java/bitopera/LeetCode137.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/datastructure/src/main/java/bitopera/LeetCode137.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/datastructure/target/" />
@@ -38,50 +37,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/datastructure/pom.xml">
+        <entry file="file://$PROJECT_DIR$/leetcode/datastructure/src/main/java/bitopera/LeetCode137.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/datastructure/src/main/java/bitopera/LeetCode136.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="776">
+              <caret line="42" column="20" lean-forward="true" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/datastructure/src/main/java/bitopera/LeetCode137.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/datastructure/src/test/java/bitopera/LeetCode137Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/datastructure/src/test/java/bitopera/LeetCode136Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="2876" column="38" selection-start-line="2876" selection-start-column="38" selection-end-line="2876" selection-end-column="38" />
-              <folding>
-                <element signature="e#177013#177014#0" expanded="true" />
-                <element signature="e#177054#177055#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="228">
+              <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -92,8 +60,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -113,7 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/FindNum.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/PrintList.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/ReconstructBinaryTree04.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/FindNum01.java" />
@@ -162,8 +129,9 @@
         <option value="$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder43/SolutionTest.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder44/Solution.java" />
         <option value="$PROJECT_DIR$/leetcode/datastructure/src/test/java/bitopera/LeetCode136Test.java" />
-        <option value="$PROJECT_DIR$/leetcode/datastructure/src/main/java/bitopera/LeetCode137.java" />
         <option value="$PROJECT_DIR$/leetcode/datastructure/src/main/java/bitopera/LeetCode136.java" />
+        <option value="$PROJECT_DIR$/leetcode/datastructure/src/main/java/bitopera/LeetCode137.java" />
+        <option value="$PROJECT_DIR$/leetcode/datastructure/src/test/java/bitopera/LeetCode137Test.java" />
       </list>
     </option>
   </component>
@@ -264,6 +232,25 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bitopera" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -275,7 +262,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552369156462" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552372889555" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -325,7 +312,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LeetCode136Test.singleNumber">
+  <component name="RunManager" selected="JUnit.LeetCode137Test.singleNumber">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.Main" />
       <module name="nowcoder" />
@@ -335,13 +322,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="huawei" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -388,20 +368,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LeetCode137Test.singleNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="datastructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bitopera.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bitopera" />
+      <option name="MAIN_CLASS_NAME" value="bitopera.LeetCode137Test" />
+      <option name="METHOD_NAME" value="singleNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.StockTest" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.SolutionTest" />
       <item itemvalue="JUnit.LeetCode136Test.singleNumber" />
+      <item itemvalue="JUnit.LeetCode137Test.singleNumber" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LeetCode137Test.singleNumber" />
         <item itemvalue="JUnit.LeetCode136Test.singleNumber" />
         <item itemvalue="Application.SolutionTest" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.StockTest" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -446,14 +442,7 @@
       <workItem from="1552093440630" duration="3213000" />
       <workItem from="1552266400928" duration="6034000" />
       <workItem from="1552310605731" duration="22000" />
-      <workItem from="1552310833036" duration="7834000" />
-    </task>
-    <task id="LOCAL-00073" summary="白板实现nowcoder03">
-      <created>1547786597138</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1547786597138</updated>
+      <workItem from="1552310833036" duration="10050000" />
     </task>
     <task id="LOCAL-00074" summary="邻接矩阵实现稠密图的基本操作">
       <created>1547796698118</created>
@@ -791,49 +780,55 @@
       <option name="project" value="LOCAL" />
       <updated>1552368417058</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="leetcode137 single number 3">
+      <created>1552370127558</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1552370127558</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SortTimeTest_calculateSortTime - 2019.01.10 at 20h 27m 42s.xml">
-      <configuration name="SortTimeTest.calculateSortTime" configurationId="JUnit" />
+    <history-entry file="LeetCode137Test_singleNumber - 2019.03.12 at 14h 06m 21s.xml">
+      <configuration name="LeetCode137Test.singleNumber" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortTimeTest_calculateSortTime - 2019.01.10 at 20h 28m 00s.xml">
-      <configuration name="SortTimeTest.calculateSortTime" configurationId="JUnit" />
+    <history-entry file="LeetCode137Test_singleNumber - 2019.03.12 at 14h 06m 38s.xml">
+      <configuration name="LeetCode137Test.singleNumber" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortTimeTest_calculateSortTime - 2019.01.10 at 20h 30m 00s.xml">
-      <configuration name="SortTimeTest.calculateSortTime" configurationId="JUnit" />
+    <history-entry file="LeetCode137Test_singleNumber - 2019.03.12 at 14h 07m 25s.xml">
+      <configuration name="LeetCode137Test.singleNumber" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionOneTest_printMatrix - 2019.01.11 at 00h 04m 16s.xml">
-      <configuration name="SolutionOneTest.printMatrix" configurationId="JUnit" />
+    <history-entry file="LeetCode137Test_singleNumber - 2019.03.12 at 14h 32m 39s.xml">
+      <configuration name="LeetCode137Test.singleNumber" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinarySearchTest_binarySearch - 2019.01.11 at 16h 33m 18s.xml">
-      <configuration name="BinarySearchTest.binarySearch" configurationId="JUnit" />
+    <history-entry file="LeetCode137Test_singleNumber - 2019.03.12 at 14h 33m 01s.xml">
+      <configuration name="LeetCode137Test.singleNumber" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinarySearchTest_binarySearch - 2019.01.11 at 18h 36m 05s.xml">
-      <configuration name="BinarySearchTest.binarySearch" configurationId="JUnit" />
+    <history-entry file="LeetCode137Test_singleNumber - 2019.03.12 at 14h 34m 40s.xml">
+      <configuration name="LeetCode137Test.singleNumber" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinarySearchTest_binarySearch - 2019.01.11 at 18h 49m 13s.xml">
-      <configuration name="BinarySearchTest.binarySearch" configurationId="JUnit" />
+    <history-entry file="LeetCode137Test_singleNumber - 2019.03.12 at 14h 34m 51s.xml">
+      <configuration name="LeetCode137Test.singleNumber" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeetCode345Test_reverseVowels - 2019.01.11 at 20h 08m 34s.xml">
-      <configuration name="LeetCode345Test.reverseVowels" configurationId="JUnit" />
+    <history-entry file="LeetCode137Test_singleNumber - 2019.03.12 at 14h 35m 32s.xml">
+      <configuration name="LeetCode137Test.singleNumber" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeetCode136Test_singleNumber - 2019.03.12 at 13h 24m 26s.xml">
-      <configuration name="LeetCode136Test.singleNumber" configurationId="JUnit" />
+    <history-entry file="LeetCode137Test_singleNumber - 2019.03.12 at 14h 36m 38s.xml">
+      <configuration name="LeetCode137Test.singleNumber" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeetCode136Test_singleNumber - 2019.03.12 at 13h 24m 51s.xml">
-      <configuration name="LeetCode136Test.singleNumber" configurationId="JUnit" />
+    <history-entry file="LeetCode137Test_singleNumber - 2019.03.12 at 14h 40m 04s.xml">
+      <configuration name="LeetCode137Test.singleNumber" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="314490000" />
+    <option name="totallyTimeSpent" value="316706000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49673203" visible="true" weight="0.23105656" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49673203" visible="true" weight="0.23105656" />
       <window_info id="Structure" order="1" sideWeight="0.503268" side_tool="true" weight="0.2854856" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -842,7 +837,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49839914" visible="true" weight="0.33481646" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49839914" visible="true" weight="0.33481646" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893278" weight="0.39599556" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -869,7 +864,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="复习两个栈实现队列05" />
     <MESSAGE value="最小堆" />
     <MESSAGE value="lazy prim" />
     <MESSAGE value="最小索引堆" />
@@ -894,7 +888,8 @@
     <MESSAGE value="42-2" />
     <MESSAGE value="43" />
     <MESSAGE value="leetcode136 single number" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode136 single number" />
+    <MESSAGE value="leetcode137 single number 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode137 single number 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1097,23 +1092,16 @@
           <properties />
           <option name="timeStamp" value="60" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/datastructure/src/test/java/bitopera/LeetCode137Test.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/TwoStackQueue05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#120#129#0" expanded="true" />
-            <element signature="e#170#179#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/HeapSort.java" />
     <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/MaxHeap.java" />
     <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/IndexMaxHeap.java" />
@@ -1472,8 +1460,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/datastructure/src/main/java/bitopera/LeetCode137.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        <state relative-caret-position="776">
+          <caret line="42" column="20" lean-forward="true" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/datastructure/src/test/java/bitopera/LeetCode137Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="23" />
         </state>
       </provider>
     </entry>

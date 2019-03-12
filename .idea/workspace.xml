@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed645c3e-dfe4-48b9-a1c4-b94a86186a3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder43/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder43/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder44/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/datastructure/datastructure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/datastructure/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/datastructure/src/main/java/bitopera/LeetCode136.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/datastructure/src/test/java/bitopera/LeetCode136Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/datastructure/target/" />
@@ -27,6 +32,7 @@
     <ignored path="$PROJECT_DIR$/writtentest/nowcoder/target/" />
     <ignored path="$PROJECT_DIR$/writtentest/pdd/target/" />
     <ignored path="$PROJECT_DIR$/writtentest/tencent/target/" />
+    <ignored path="$PROJECT_DIR$/leetcode/datastructure/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,28 +42,41 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder42/Solution.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/datastructure/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="31" column="55" lean-forward="true" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
+            <state relative-caret-position="190">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder43/Solution.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/datastructure/src/main/java/bitopera/LeetCode136.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="771">
-              <caret line="68" column="5" lean-forward="true" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+            <state relative-caret-position="413">
+              <caret line="44" column="4" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder43/SolutionTest.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/datastructure/src/test/java/bitopera/LeetCode136Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="285">
+              <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="404">
+              <caret line="2876" column="38" selection-start-line="2876" selection-start-column="38" selection-end-line="2876" selection-end-column="38" />
+              <folding>
+                <element signature="e#177013#177014#0" expanded="true" />
+                <element signature="e#177054#177055#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -89,9 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/DenseWeightedGraph.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/ReadWeightedGraph.java" />
-        <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/Edge.java" />
         <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/SparseWeightedGraph.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/FindNum.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/PrintList.java" />
@@ -140,6 +156,9 @@
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder42/Solution.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder43/Solution.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder43/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder44/Solution.java" />
+        <option value="$PROJECT_DIR$/leetcode/datastructure/src/test/java/bitopera/LeetCode136Test.java" />
+        <option value="$PROJECT_DIR$/leetcode/datastructure/src/main/java/bitopera/LeetCode136.java" />
       </list>
     </option>
   </component>
@@ -180,7 +199,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,25 +209,34 @@
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -217,23 +244,52 @@
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="nowcoder42" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552270995704" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552368389305" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -245,11 +301,23 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="bitopera" />
       <recent name="nowcoder43" />
       <recent name="test20190220" />
       <recent name="mooc08.kruskal" />
       <recent name="nowcoder34" />
-      <recent name="mooc08.prim" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="mooc06" />
+      <recent name="mooc06.unionfind" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="nowcoder16" />
+      <recent name="nowcoder15" />
+      <recent name="nowcoder14" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/algorithms/mooc/src/main/resources" />
@@ -257,18 +325,6 @@
       <recent name="$PROJECT_DIR$/algorithms/mooc/src/main/java" />
       <recent name="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc07" />
       <recent name="$PROJECT_DIR$/leetcode/datastruc" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="mooc06" />
-      <recent name="mooc06.unionfind" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="nowcoder16" />
-      <recent name="nowcoder15" />
-      <recent name="nowcoder14" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -283,7 +339,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SolutionTest">
+  <component name="RunManager" selected="JUnit.LeetCode136Test.singleNumber">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.Main" />
       <module name="nowcoder" />
@@ -330,33 +386,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SurviveDaysTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test20190220.SurviveDaysTest" />
-      <module name="nowcoder" />
+    <configuration name="LeetCode136Test.singleNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test20190220.*" />
+          <option name="PATTERN" value="bitopera.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="bitopera" />
+      <option name="MAIN_CLASS_NAME" value="bitopera.LeetCode136Test" />
+      <option name="METHOD_NAME" value="singleNumber" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SurviveDaysTest" />
       <item itemvalue="Application.StockTest" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.SolutionTest" />
+      <item itemvalue="JUnit.LeetCode136Test.singleNumber" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LeetCode136Test.singleNumber" />
         <item itemvalue="Application.SolutionTest" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.StockTest" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.SurviveDaysTest" />
       </list>
     </recent_temporary>
   </component>
@@ -399,14 +458,9 @@
       <workItem from="1551953504305" duration="1099000" />
       <workItem from="1552006463571" duration="4308000" />
       <workItem from="1552093440630" duration="3213000" />
-      <workItem from="1552266400928" duration="4584000" />
-    </task>
-    <task id="LOCAL-00071" summary="自己实现nowcoder29">
-      <created>1547726375718</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1547726375718</updated>
+      <workItem from="1552266400928" duration="6034000" />
+      <workItem from="1552310605731" duration="22000" />
+      <workItem from="1552310833036" duration="6354000" />
     </task>
     <task id="LOCAL-00072" summary="自己实现nowcoder30">
       <created>1547727093129</created>
@@ -744,13 +798,17 @@
       <option name="project" value="LOCAL" />
       <updated>1552096724025</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="43">
+      <created>1552271009761</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1552271009762</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LeetCode345Test_reverseVowels - 2019.01.08 at 23h 42m 52s.xml">
-      <configuration name="LeetCode345Test.reverseVowels" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SortTimeTest_calculateSortTime - 2019.01.10 at 19h 19m 57s.xml">
       <configuration name="SortTimeTest.calculateSortTime" configurationId="JUnit" />
     </history-entry>
@@ -778,15 +836,18 @@
     <history-entry file="LeetCode345Test_reverseVowels - 2019.01.11 at 20h 08m 34s.xml">
       <configuration name="LeetCode345Test.reverseVowels" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="LeetCode136Test_singleNumber - 2019.03.12 at 13h 24m 26s.xml">
+      <configuration name="LeetCode136Test.singleNumber" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="305184000" />
+    <option name="totallyTimeSpent" value="313010000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49673203" visible="true" weight="0.22572039" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49673203" visible="true" weight="0.23105656" />
       <window_info id="Structure" order="1" sideWeight="0.503268" side_tool="true" weight="0.2854856" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -795,8 +856,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49839914" weight="0.33481646" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49893278" visible="true" weight="0.39599556" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49839914" visible="true" weight="0.33481646" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893278" weight="0.39599556" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -822,7 +883,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="剑指offer 丑数" />
     <MESSAGE value="手写两个栈实现队列05" />
     <MESSAGE value="复习两个栈实现队列05" />
     <MESSAGE value="最小堆" />
@@ -847,7 +907,8 @@
     <MESSAGE value="40" />
     <MESSAGE value="42" />
     <MESSAGE value="42-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="42-2" />
+    <MESSAGE value="43" />
+    <option name="LAST_COMMIT_MESSAGE" value="43" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1044,48 +1105,16 @@
           <properties />
           <option name="timeStamp" value="59" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/datastructure/src/test/java/bitopera/LeetCode136Test.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="1461" selection-start-line="1461" selection-end-line="1461" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/TimSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="355" selection-start-line="355" selection-end-line="355" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder32/SolutionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder32/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="41" lean-forward="true" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder33/SolutionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder05/SolutionOne.java" />
     <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/TwoStackQueue05.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1372,17 +1401,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="3784" column="56" lean-forward="true" selection-start-line="3784" selection-start-column="56" selection-end-line="3784" selection-end-column="56" />
-          <folding>
-            <element signature="e#177013#177014#0" expanded="true" />
-            <element signature="e#177054#177055#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder41/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="836">
@@ -1400,13 +1418,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder42/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="31" column="55" lean-forward="true" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder43/SolutionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -1414,10 +1425,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder44/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder43/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="771">
-          <caret line="68" column="5" lean-forward="true" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+        <state relative-caret-position="342">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder42/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="33" column="23" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/datastructure/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode167Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="2876" column="38" selection-start-line="2876" selection-start-column="38" selection-end-line="2876" selection-end-column="38" />
+          <folding>
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/datastructure/src/test/java/bitopera/LeetCode136Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/datastructure/src/main/java/bitopera/LeetCode136.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="44" column="4" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -1474,7 +1538,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>writtentest</last-edited>
+          <last-edited>datastructure</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

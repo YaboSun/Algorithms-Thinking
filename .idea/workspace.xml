@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed645c3e-dfe4-48b9-a1c4-b94a86186a3b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/src/main/java/LastRemaining45.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder44/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder44/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/datastructure/src/main/java/bitopera/LeetCode137.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/datastructure/src/main/java/bitopera/LeetCode137.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,10 +37,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder44/Solution.java">
+        <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/LastRemaining45.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            <state relative-caret-position="380">
+              <caret line="20" column="27" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="20" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -51,8 +54,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -72,7 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/PrintList.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/ReconstructBinaryTree04.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/FindNum01.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/ReplaceSpace02.java" />
@@ -123,6 +125,7 @@
         <option value="$PROJECT_DIR$/leetcode/datastructure/src/test/java/bitopera/LeetCode137Test.java" />
         <option value="$PROJECT_DIR$/leetcode/datastructure/src/main/java/bitopera/LeetCode137.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder44/Solution.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/LastRemaining45.java" />
       </list>
     </option>
   </component>
@@ -198,15 +201,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="nowcoder44" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -216,7 +210,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552613347022" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553132453934" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -400,14 +394,7 @@
       <workItem from="1552612428082" duration="1257000" />
       <workItem from="1552913665311" duration="1153000" />
       <workItem from="1552915127792" duration="599000" />
-      <workItem from="1553129649668" duration="1000000" />
-    </task>
-    <task id="LOCAL-00075" summary="邻接表实现稀疏图的基本操作">
-      <created>1547798376623</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1547798376623</updated>
+      <workItem from="1553129649668" duration="2690000" />
     </task>
     <task id="LOCAL-00076" summary="两种实现添加得到顶点所有邻边功能">
       <created>1547800892124</created>
@@ -745,7 +732,14 @@
       <option name="project" value="LOCAL" />
       <updated>1552372966213</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="nowcoder 44">
+      <created>1553130806779</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1553130806781</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -781,7 +775,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="320818000" />
+    <option name="totallyTimeSpent" value="322508000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
@@ -823,7 +817,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="lazy prim" />
     <MESSAGE value="最小索引堆" />
     <MESSAGE value="nowcoder34" />
     <MESSAGE value="prim通过索引最小堆实现" />
@@ -848,7 +841,8 @@
     <MESSAGE value="leetcode136 single number" />
     <MESSAGE value="leetcode137 single number 3" />
     <MESSAGE value="leetcode137 single number" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode137 single number" />
+    <MESSAGE value="nowcoder 44" />
+    <option name="LAST_COMMIT_MESSAGE" value="nowcoder 44" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1061,7 +1055,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/HeapSort.java" />
     <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/MaxHeap.java" />
     <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/IndexMaxHeap.java" />
     <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder33/Solution.java">
@@ -1429,8 +1422,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder44/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        <state relative-caret-position="399">
+          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/LastRemaining45.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="20" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

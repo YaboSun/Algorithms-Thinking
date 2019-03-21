@@ -1,7 +1,5 @@
 package bitopera;
 
-import java.util.Arrays;
-
 /**
  * @author YaboSun
  */

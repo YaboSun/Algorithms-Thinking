@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed645c3e-dfe4-48b9-a1c4-b94a86186a3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/src/main/java/Sum46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/src/main/java/Add47.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,11 +35,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/Sum46.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+            <state relative-caret-position="114">
+              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/Add47.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -71,7 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/FindNum01.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/ReplaceSpace02.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/PrintList03.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder31/Solution.java" />
@@ -122,6 +130,7 @@
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder44/Solution.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/LastRemaining45.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/Sum46.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/Add47.java" />
       </list>
     </option>
   </component>
@@ -206,7 +215,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553216261326" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553217752304" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -391,14 +400,7 @@
       <workItem from="1552913665311" duration="1153000" />
       <workItem from="1552915127792" duration="599000" />
       <workItem from="1553129649668" duration="3022000" />
-      <workItem from="1553170566762" duration="1412000" />
-    </task>
-    <task id="LOCAL-00077" summary="图实现从文件读取以及显示">
-      <created>1547804020514</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1547804020514</updated>
+      <workItem from="1553170566762" duration="2151000" />
     </task>
     <task id="LOCAL-00078" summary="稠密图实现从文件读取以及显示">
       <created>1547879269401</created>
@@ -736,7 +738,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553132509122</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="nowcoder 46">
+      <created>1553216273604</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1553216273605</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -772,7 +781,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="324252000" />
+    <option name="totallyTimeSpent" value="324991000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
@@ -814,7 +823,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="nowcoder34" />
     <MESSAGE value="prim通过索引最小堆实现" />
     <MESSAGE value="kruskal实现" />
     <MESSAGE value="nowcoder35" />
@@ -839,7 +847,8 @@
     <MESSAGE value="leetcode137 single number" />
     <MESSAGE value="nowcoder 44" />
     <MESSAGE value="nowcoder 45" />
-    <option name="LAST_COMMIT_MESSAGE" value="nowcoder 45" />
+    <MESSAGE value="nowcoder 46" />
+    <option name="LAST_COMMIT_MESSAGE" value="nowcoder 46" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1052,7 +1061,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/IndexMaxHeap.java" />
     <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder33/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -1435,8 +1443,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/Sum46.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        <state relative-caret-position="114">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/Add47.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
         </state>
       </provider>
     </entry>

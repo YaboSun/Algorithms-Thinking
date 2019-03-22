@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed645c3e-dfe4-48b9-a1c4-b94a86186a3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/src/main/java/LastRemaining45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/src/main/java/Sum46.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/datastructure/src/main/java/bitopera/LeetCode137.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/datastructure/src/main/java/bitopera/LeetCode137.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/datastructure/target/" />
@@ -37,13 +36,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/LastRemaining45.java">
+        <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/Sum46.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="27" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="20" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="95">
+              <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -75,7 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/ReconstructBinaryTree04.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/FindNum01.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/ReplaceSpace02.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/PrintList03.java" />
@@ -126,6 +121,7 @@
         <option value="$PROJECT_DIR$/leetcode/datastructure/src/main/java/bitopera/LeetCode137.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder44/Solution.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/LastRemaining45.java" />
+        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/Sum46.java" />
       </list>
     </option>
   </component>
@@ -210,7 +206,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553132453934" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553216261326" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -394,14 +390,8 @@
       <workItem from="1552612428082" duration="1257000" />
       <workItem from="1552913665311" duration="1153000" />
       <workItem from="1552915127792" duration="599000" />
-      <workItem from="1553129649668" duration="2690000" />
-    </task>
-    <task id="LOCAL-00076" summary="两种实现添加得到顶点所有邻边功能">
-      <created>1547800892124</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1547800892124</updated>
+      <workItem from="1553129649668" duration="3022000" />
+      <workItem from="1553170566762" duration="1412000" />
     </task>
     <task id="LOCAL-00077" summary="图实现从文件读取以及显示">
       <created>1547804020514</created>
@@ -739,7 +729,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553130806781</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="nowcoder 45">
+      <created>1553132509121</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1553132509122</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -775,13 +772,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="322508000" />
+    <option name="totallyTimeSpent" value="324252000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49673203" visible="true" weight="0.24172892" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49673203" visible="true" weight="0.24439701" />
       <window_info id="Structure" order="1" sideWeight="0.503268" side_tool="true" weight="0.2854856" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -817,7 +814,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="最小索引堆" />
     <MESSAGE value="nowcoder34" />
     <MESSAGE value="prim通过索引最小堆实现" />
     <MESSAGE value="kruskal实现" />
@@ -842,7 +838,8 @@
     <MESSAGE value="leetcode137 single number 3" />
     <MESSAGE value="leetcode137 single number" />
     <MESSAGE value="nowcoder 44" />
-    <option name="LAST_COMMIT_MESSAGE" value="nowcoder 44" />
+    <MESSAGE value="nowcoder 45" />
+    <option name="LAST_COMMIT_MESSAGE" value="nowcoder 45" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1055,7 +1052,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/MaxHeap.java" />
     <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/IndexMaxHeap.java" />
     <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder33/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1429,11 +1425,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/LastRemaining45.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="27" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="20" selection-end-column="27" />
+        <state relative-caret-position="304">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/Sum46.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
         </state>
       </provider>
     </entry>

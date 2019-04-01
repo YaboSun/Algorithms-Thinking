@@ -13,6 +13,7 @@
         <module>jianzhioffer</module>
         <module>algorithms</module>
         <module>writtentest</module>
+        <module>csbasic</module>
     </modules>
 
     <properties>

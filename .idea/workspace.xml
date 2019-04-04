@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed645c3e-dfe4-48b9-a1c4-b94a86186a3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/csbasic/csbasic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csbasic/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csbasic/src/main/java/opersystem/DeadLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csbasic/src/main/java/string/StringEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/writtentest/ali/src/main/java/ali0401/MinNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/writtentest/ali/src/main/java/bigdata/Sort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/datastructure/target/" />
@@ -42,19 +40,68 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/csbasic/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/quick/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/writtentest/ali/src/main/java/ali0326/First.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/writtentest/ali/src/main/java/ali0401/MinNum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="665">
+              <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/csbasic/src/main/java/string/StringEquals.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+              <folding>
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/csbasic/src/main/java/opersystem/DeadLock.java">
+        <entry file="file://$PROJECT_DIR$/writtentest/ali/src/main/java/bigdata/Sort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            <state relative-caret-position="608">
+              <caret line="32" column="68" selection-start-line="32" selection-start-column="68" selection-end-line="32" selection-end-column="68" />
               <folding>
-                <element signature="e#305#306#0" expanded="true" />
-                <element signature="e#434#435#0" expanded="true" />
-                <element signature="e#484#485#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/io/BufferedReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1634">
+              <caret line="114" column="11" selection-start-line="114" selection-start-column="11" selection-end-line="114" selection-end-column="11" />
+              <folding>
+                <element signature="e#3011#3012#0" expanded="true" />
+                <element signature="e#3058#3059#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -87,9 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jianzhioffer/src/test/java/nowcoder33/SolutionTest.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder33/Solution.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/TwoStackQueue05.java" />
         <option value="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc04/heap/MinHeapTest.java" />
         <option value="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc08/prim/LazyPrimMSTTest.java" />
         <option value="$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/prim/LazyPrimMST.java" />
@@ -138,6 +182,9 @@
         <option value="$PROJECT_DIR$/writtentest/ali/src/test/java/ali0326/FirstTest.java" />
         <option value="$PROJECT_DIR$/writtentest/ali/src/main/java/ali0326/First.java" />
         <option value="$PROJECT_DIR$/csbasic/src/main/java/opersystem/DeadLock.java" />
+        <option value="$PROJECT_DIR$/writtentest/ali/src/main/java/ali0401/MinNum.java" />
+        <option value="$PROJECT_DIR$/csbasic/src/main/java/string/StringEquals.java" />
+        <option value="$PROJECT_DIR$/writtentest/ali/src/main/java/bigdata/Sort.java" />
       </list>
     </option>
   </component>
@@ -177,6 +224,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,18 +259,51 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="writtentest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="writtentest" type="462c0819:PsiDirectoryNode" />
+              <item name="ali" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="writtentest" type="462c0819:PsiDirectoryNode" />
+              <item name="ali" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="writtentest" type="462c0819:PsiDirectoryNode" />
+              <item name="ali" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="writtentest" type="462c0819:PsiDirectoryNode" />
+              <item name="ali" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553862665348" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554193693548" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -271,7 +353,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DeadLock">
+  <component name="RunManager" selected="Application.StringEquals">
     <configuration name="DeadLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="opersystem.DeadLock" />
       <module name="csbasic" />
@@ -305,18 +387,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode136Test.singleNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="datastructure" />
+    <configuration name="StringEquals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.StringEquals" />
+      <module name="csbasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bitopera.*" />
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="bitopera" />
-      <option name="MAIN_CLASS_NAME" value="bitopera.LeetCode136Test" />
-      <option name="METHOD_NAME" value="singleNumber" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -341,16 +420,16 @@
       <item itemvalue="Application.FirstDuplicate49Test" />
       <item itemvalue="Application.FirstTest" />
       <item itemvalue="Application.DeadLock" />
-      <item itemvalue="JUnit.LeetCode136Test.singleNumber" />
+      <item itemvalue="Application.StringEquals" />
       <item itemvalue="JUnit.LeetCode137Test.singleNumber" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringEquals" />
         <item itemvalue="Application.DeadLock" />
         <item itemvalue="Application.FirstTest" />
         <item itemvalue="Application.FirstDuplicate49Test" />
         <item itemvalue="JUnit.LeetCode137Test.singleNumber" />
-        <item itemvalue="JUnit.LeetCode136Test.singleNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -406,14 +485,10 @@
       <workItem from="1553603255833" duration="4488000" />
       <workItem from="1553776690101" duration="262000" />
       <workItem from="1553776980891" duration="1237000" />
-      <workItem from="1554085485699" duration="605000" />
-    </task>
-    <task id="LOCAL-00083" summary="提供接口 方便后面有权稠密图稀疏图实现">
-      <created>1547968246520</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1547968246520</updated>
+      <workItem from="1554085485699" duration="1332000" />
+      <workItem from="1554118243403" duration="3787000" />
+      <workItem from="1554174453915" duration="3867000" />
+      <workItem from="1554337943136" duration="219000" />
     </task>
     <task id="LOCAL-00084" summary="实现带权稠密图">
       <created>1547969823821</created>
@@ -751,7 +826,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553776883659</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="dl">
+      <created>1554086314766</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1554086314767</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -787,13 +869,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="337639000" />
+    <option name="totallyTimeSpent" value="346258000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49673203" visible="true" weight="0.26040554" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49673203" visible="true" weight="0.26947704" />
       <window_info id="Structure" order="1" sideWeight="0.503268" side_tool="true" weight="0.2854856" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -802,7 +884,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49839914" weight="0.33441207" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49839914" weight="0.3337041" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893278" weight="0.39599556" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -829,7 +911,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="nowcoder37" />
     <MESSAGE value="nowcoder模拟笔试第一题" />
     <MESSAGE value="多重背包" />
     <MESSAGE value="test" />
@@ -854,7 +935,8 @@
     <MESSAGE value="nowcoder 48" />
     <MESSAGE value="nowcoder 49" />
     <MESSAGE value="ali" />
-    <option name="LAST_COMMIT_MESSAGE" value="ali" />
+    <MESSAGE value="dl" />
+    <option name="LAST_COMMIT_MESSAGE" value="dl" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1079,41 +1161,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc08/ReadWeightedGraphTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc08/prim/PrimMSTTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="32" column="24" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/prim/PrimMST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-266">
-          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc04/heap/MinHeap.java" />
-    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/weightedgraph/WeightedGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc08/weightedgraph/SparseWeightedGraph.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1425">
@@ -1449,24 +1496,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/writtentest/ali/src/main/java/ali0326/First.java">
+    <entry file="file://$PROJECT_DIR$/csbasic/src/main/java/opersystem/DeadLock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+        <state relative-caret-position="722">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/csbasic/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/csbasic/src/main/java/opersystem/DeadLock.java">
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/quick/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        <state relative-caret-position="285">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writtentest/ali/src/main/java/ali0326/First.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writtentest/ali/src/main/java/ali0401/MinNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
           <folding>
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csbasic/src/main/java/string/StringEquals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1634">
+          <caret line="114" column="11" selection-start-line="114" selection-start-column="11" selection-end-line="114" selection-end-column="11" />
+          <folding>
+            <element signature="e#3011#3012#0" expanded="true" />
+            <element signature="e#3058#3059#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writtentest/ali/src/main/java/bigdata/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="68" selection-start-line="32" selection-start-column="68" selection-end-line="32" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

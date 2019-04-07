@@ -11,8 +11,10 @@
         <module name="dahua" />
         <module name="datastructure" />
         <module name="huawei" />
+        <module name="huya" />
         <module name="jianzhioffer" />
         <module name="mooc" />
+        <module name="netease" />
         <module name="nowcoder" />
         <module name="pdd" />
         <module name="tencent" />

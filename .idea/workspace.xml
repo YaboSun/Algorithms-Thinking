@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e420e2a3-b3f5-465e-9b1c-3c0a7444dd6c" name="Default Changelist" comment="pdd">
-      <change afterPath="$PROJECT_DIR$/writtentest/huya/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/writtentest/huya/src/main/java/huya20190326/First.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/writtentest/huya/src/main/java/huya20190326/Second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/writtentest/huya/src/main/java/huya20190326/Third.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/writtentest/netease/netease.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/writtentest/netease/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/writtentest/netease/src/main/java/lh01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/writtentest/netease/src/main/java/lh02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/writtentest/netease/src/main/java/lh03/Main.java" afterDir="false" />
+    <list default="true" id="e420e2a3-b3f5-465e-9b1c-3c0a7444dd6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/writtentest/ctrip/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/writtentest/ctrip/src/main/java/xc01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/writtentest/ctrip/src/main/java/xc02/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/datastructure/datastructure.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/csbasic/csbasic.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/writtentest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/writtentest/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -40,6 +34,8 @@
     <ignored path="$PROJECT_DIR$/writtentest/qiniu/target/" />
     <ignored path="$PROJECT_DIR$/writtentest/huya/target/" />
     <ignored path="$PROJECT_DIR$/writtentest/netease/target/" />
+    <ignored path="$PROJECT_DIR$/csbasic/target/" />
+    <ignored path="$PROJECT_DIR$/writtentest/ctrip/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,20 +44,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/writtentest/netease/src/main/java/lh02/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/writtentest/netease/src/main/java/lh03/Main.java">
+        <entry file="file://$PROJECT_DIR$/writtentest/ctrip/src/main/java/xc02/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-95">
-              <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+            <state relative-caret-position="399">
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -91,8 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder14/ListNode.java" />
-        <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder15/ListNode.java" />
         <option value="$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder16/ListNode.java" />
         <option value="$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode167.java" />
         <option value="$PROJECT_DIR$/leetcode/algorithm/src/test/java/doublepointer/LeetCode167Test.java" />
@@ -140,8 +125,10 @@
         <option value="$PROJECT_DIR$/writtentest/pom.xml" />
         <option value="$PROJECT_DIR$/writtentest/huya/pom.xml" />
         <option value="$PROJECT_DIR$/writtentest/netease/src/main/java/lh01/Main.java" />
-        <option value="$PROJECT_DIR$/writtentest/netease/src/main/java/lh02/Main.java" />
         <option value="$PROJECT_DIR$/writtentest/netease/src/main/java/lh03/Main.java" />
+        <option value="$PROJECT_DIR$/writtentest/netease/src/main/java/lh02/Main.java" />
+        <option value="$PROJECT_DIR$/writtentest/ctrip/src/main/java/xc01/Main.java" />
+        <option value="$PROJECT_DIR$/writtentest/ctrip/src/main/java/xc02/Main.java" />
       </list>
     </option>
   </component>
@@ -169,10 +156,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="293" />
-    <option name="y" value="16" />
+    <option name="x" value="469" />
+    <option name="y" value="4" />
     <option name="width" value="887" />
-    <option name="height" value="780" />
+    <option name="height" value="775" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -182,6 +169,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,50 +181,84 @@
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="writtentest" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="writtentest" type="462c0819:PsiDirectoryNode" />
-              <item name="netease" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="writtentest" type="462c0819:PsiDirectoryNode" />
-              <item name="netease" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="writtentest" type="462c0819:PsiDirectoryNode" />
-              <item name="netease" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="writtentest" type="462c0819:PsiDirectoryNode" />
-              <item name="netease" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="doublepointer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="writtentest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="writtentest" type="462c0819:PsiDirectoryNode" />
+              <item name="ctrip" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="writtentest" type="462c0819:PsiDirectoryNode" />
+              <item name="ctrip" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="writtentest" type="462c0819:PsiDirectoryNode" />
+              <item name="ctrip" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554620266598" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554728536793" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -270,20 +293,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test20190314.First" />
-      <module name="nowcoder" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test20190314.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lh02.Main" />
       <module name="netease" />
@@ -310,6 +320,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xc01.Main" />
+      <module name="ctrip" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xc01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xc02.Main" />
+      <module name="ctrip" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xc02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lh01.Main" />
       <module name="netease" />
@@ -323,33 +359,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Third" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test20190314.Third" />
-      <module name="nowcoder" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test20190314.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.First" />
-      <item itemvalue="Application.Third" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Third" />
-        <item itemvalue="Application.First" />
       </list>
     </recent_temporary>
   </component>
@@ -392,7 +415,8 @@
       <workItem from="1552884935253" duration="590000" />
       <workItem from="1553408520990" duration="1926000" />
       <workItem from="1553595578565" duration="1340000" />
-      <workItem from="1554613176634" duration="5474000" />
+      <workItem from="1554613176634" duration="5728000" />
+      <workItem from="1554720772940" duration="6177000" />
     </task>
     <task id="LOCAL-00001" summary="完成剑指Offer第三题">
       <created>1546691205031</created>
@@ -709,7 +733,14 @@
       <option name="project" value="LOCAL" />
       <updated>1552567962664</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="netease">
+      <created>1554620346370</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1554620346370</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -745,13 +776,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146143000" />
+    <option name="totallyTimeSpent" value="152574000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="483" y="18" width="887" height="780" extended-state="0" />
+    <frame x="469" y="4" width="887" height="775" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.5695284" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24546553" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -760,8 +791,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32352942" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3978328" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32293293" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45709828" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -857,7 +888,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="实现floyd代码 并调试运行" />
     <MESSAGE value="新建查找模块 实现折半查找" />
     <MESSAGE value="递归实现折半查找" />
     <MESSAGE value="剑指Offer11题 偷巧解法" />
@@ -882,7 +912,8 @@
     <MESSAGE value="牛客2月模拟" />
     <MESSAGE value="tencent" />
     <MESSAGE value="pdd" />
-    <option name="LAST_COMMIT_MESSAGE" value="pdd" />
+    <MESSAGE value="netease" />
+    <option name="LAST_COMMIT_MESSAGE" value="netease" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1034,22 +1065,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/datastru/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/leetcode/datastru/datastruc.iml" />
-    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/test/java/sort/LeetCode347Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/sort/LeetCode347.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="81" column="13" lean-forward="true" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder01/SolutionTwo.java" />
     <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder01/SolutionThree.java" />
     <entry file="file://$PROJECT_DIR$/jianzhioffer/src/main/java/nowcoder01/SolutionOne.java" />
@@ -1067,13 +1082,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="50" column="39" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode141.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -1319,17 +1327,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/writtentest/netease/src/main/java/lh02/Main.java">
+    <entry file="file://$PROJECT_DIR$/writtentest/netease/src/main/java/lh03/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+        <state relative-caret-position="273">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/writtentest/netease/src/main/java/lh03/Main.java">
+    <entry file="file://$PROJECT_DIR$/writtentest/netease/src/main/java/lh02/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-95">
-          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        <state relative-caret-position="95">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writtentest/ctrip/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode88.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/src/main/java/doublepointer/LeetCode141.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writtentest/ctrip/src/main/java/xc01/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writtentest/ctrip/src/main/java/xc02/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
         </state>
       </provider>
     </entry>

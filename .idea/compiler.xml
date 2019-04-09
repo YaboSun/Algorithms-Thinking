@@ -21,6 +21,7 @@
         <module name="nowcoder" />
         <module name="pdd" />
         <module name="tencent" />
+        <module name="zh" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

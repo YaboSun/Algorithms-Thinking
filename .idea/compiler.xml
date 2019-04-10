@@ -9,6 +9,7 @@
         <module name="algs4" />
         <module name="mooc" />
         <module name="ali" />
+<<<<<<< HEAD
         <module name="datastructure" />
         <module name="huawei" />
         <module name="dahua" />
@@ -16,6 +17,17 @@
         <module name="csbasic" />
         <module name="jianzhioffer" />
         <module name="tencent" />
+=======
+        <module name="csbasic" />
+        <module name="ctrip" />
+        <module name="dahua" />
+        <module name="datastructure" />
+        <module name="huawei" />
+        <module name="huya" />
+        <module name="jianzhioffer" />
+        <module name="mooc" />
+        <module name="netease" />
+>>>>>>> 2510502e5a966fdd58d146cc726c1987566013a9
         <module name="nowcoder" />
         <module name="pdd" />
       </profile>

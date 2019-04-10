@@ -1,4 +1,4 @@
-package notes;
+package notes.jzoffer;
 
 /**
  * @author YaboSun
@@ -6,7 +6,7 @@ package notes;
  * 给定一个长度为 n，数组中所有数字都在 n - 1 范围内
  * 找出数组中任意一个重复的数字
  */
-public class Duplicate01 {
+public class Duplicate03 {
 
     public void duplicate(int[] nums) {
         if (nums.length == 0 || nums == null)

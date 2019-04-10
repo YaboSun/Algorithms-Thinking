@@ -1,9 +1,9 @@
-package notes;
+package notes.jzoffer;
 
 /**
  * @author YaboSun
  */
-public class Find02 {
+public class Find04 {
     // 设想通过二分搜索来实现每次，但是有个问题就是如果第一个行没有找到
 
     public boolean find1(int target, int[][] matrix) {

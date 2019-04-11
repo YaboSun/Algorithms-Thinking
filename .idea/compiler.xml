@@ -13,6 +13,7 @@
         <module name="ctrip" />
         <module name="dahua" />
         <module name="datastructure" />
+        <module name="dxm" />
         <module name="huawei" />
         <module name="huya" />
         <module name="jianzhioffer" />

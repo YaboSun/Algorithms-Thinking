@@ -20,6 +20,7 @@
         <module>netease</module>
         <module>ctrip</module>
         <module>zh</module>
+        <module>dxm</module>
     </modules>
 
 

@@ -42,21 +42,21 @@ public class PrintListFromTailToHead06 {
      * 解法三 头插法
      * 这种方式会改变链表结构,将链表翻转
      */
-    public ArrayList<Integer> printListFromTailToHead2(ListNode listNode) {
+    public ArrayList<Integer> printListFromTailToHead2(ListNode node) {
         // 头插法构建逆序链表
-        ListNode head = new ListNode(-1);
-        while (listNode != null) {
-            ListNode next = listNode.next;
-            listNode.next = head.next;
-            head.next = listNode;
-            listNode = next;
+        ListNode preNode = new ListNode(-1);
+        while (node != null) {
+            ListNode nextNode = node.next;
+            node.next = preNode.next;
+            preNode.next = node;
+            node = nextNode;
         }
 
         ArrayList<Integer> ret = new ArrayList<>();
-        head = head.next;
-        while (head != null) {
-            ret.add(head.val);
-            head = head.next;
+        preNode = preNode.next;
+        while (preNode != null) {
+            ret.add(preNode.val);
+            preNode = preNode.next;
         }
         return ret;
     }

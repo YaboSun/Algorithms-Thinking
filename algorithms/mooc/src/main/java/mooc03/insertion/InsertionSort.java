@@ -5,7 +5,7 @@ package mooc03.insertion;
  * @since Created in 18-10-18
  *
  * 插入排序
- * 对于近乎有序的数组排序的效率非常高，如果是完全有序的就是o（n）级别，
+ * 对于近乎有序的数组排序的效率非常高，如果是完全有序的就是O(n)级别，
  * 另外一点就是通过插入排序引申希尔排序，整体思路就是插入排序的延伸
  */
 public class InsertionSort {

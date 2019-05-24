@@ -1,5 +1,8 @@
 package cyc;
 
+/**
+ * @author transwarp
+ */
 public class Duplicate03 {
 
     // Parameters:
@@ -16,11 +19,13 @@ public class Duplicate03 {
             return false;
         int i = 0;
         while (i < length) {
-            if (numbers[i] != i && numbers[i] != numbers[numbers[i]]) {
-                swap(numbers, i, numbers[i]);
-            } else if (numbers[i] != i && numbers[i] == numbers[numbers[i]]) {
-                duplication[0] = numbers[i];
-                return true;
+            if (numbers[i] != i) {
+                if (numbers[i] != numbers[numbers[i]]) {
+                    swap(numbers, i, numbers[i]);
+                } else {
+                    duplication[0] = numbers[i];
+                    return true;
+                }
             } else {
                 i++;
             }

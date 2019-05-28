@@ -14,9 +14,13 @@ public class PrintListFromTailToHead06 {
         ListNode pre = new ListNode(-1);
 
         while (listNode != null) {
+            /** 先相当于备份一份链表 */
             ListNode next = listNode.next;
+            /** 将第一个节点从原链表中分离出来 */
             listNode.next = pre.next;
+            /** 将分离出来的节点插入到头结点下一个构成一个新的链表 */
             pre.next = listNode;
+            /** 更新当前要操作的链表头 */
             listNode = next;
         }
 

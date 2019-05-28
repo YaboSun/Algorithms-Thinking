@@ -31,6 +31,19 @@ public class PrintListFromTailToHead06 {
         return ret;
     }
 
+
+    public ArrayList<Integer> printListFromTailToHead1(ListNode listNode) {
+
+        ArrayList<Integer> ret = new ArrayList<>();
+
+        if (listNode != null) {
+            ret.addAll(printListFromTailToHead1(listNode.next));
+            ret.add(listNode.val);
+        }
+
+        return ret;
+    }
+
     private class ListNode {
         int val;
         ListNode next = null;

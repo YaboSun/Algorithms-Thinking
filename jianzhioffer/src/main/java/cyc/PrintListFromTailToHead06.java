@@ -13,14 +13,14 @@ public class PrintListFromTailToHead06 {
 
         ListNode pre = new ListNode(-1);
 
-        while (listNode.next != null) {
+        while (listNode != null) {
             ListNode next = listNode.next;
             listNode.next = pre.next;
             pre.next = listNode;
             listNode = next;
         }
 
-        ArrayList<Integer> ret = new ArrayList<>(100);
+        ArrayList<Integer> ret = new ArrayList<>();
         pre = pre.next;
 
         while (pre != null) {

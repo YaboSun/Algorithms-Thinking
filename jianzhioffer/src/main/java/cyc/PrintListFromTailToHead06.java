@@ -36,6 +36,11 @@ public class PrintListFromTailToHead06 {
     }
 
 
+    /**
+     * 递归版本
+     * @param listNode
+     * @return
+     */
     public ArrayList<Integer> printListFromTailToHead1(ListNode listNode) {
 
         ArrayList<Integer> ret = new ArrayList<>();

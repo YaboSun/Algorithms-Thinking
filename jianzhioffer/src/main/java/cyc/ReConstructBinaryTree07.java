@@ -52,17 +52,18 @@ public class ReConstructBinaryTree07 {
      * @return
      */
     public TreeNode reConstructBinaryTree1(int [] pre,int [] in) {
-        TreeNode root = reConstructBinaryTree(pre,0,pre.length-1,
+        TreeNode root = reConstructBinaryTree1(pre,0,pre.length-1,
                 in,0,in.length-1);
         return root;
     }
 
-    private TreeNode reConstructBinaryTree(int [] pre, int startPre, int endPre,
+    private TreeNode reConstructBinaryTree1(int [] pre, int startPre, int endPre,
                                            int [] in, int startIn, int endIn)  {
 
         // 输入的前序遍历以及后序遍历应该符合起始要求
-        if(startPre > endPre || startIn > endIn)
+        if(startPre > endPre || startIn > endIn) {
             return null;
+        }
         // 前序遍历对应的第一个结点应该是二叉树的根节点
         TreeNode root = new TreeNode(pre[startPre]);
 
@@ -72,10 +73,33 @@ public class ReConstructBinaryTree07 {
          */
         for(int i = startIn; i <= endIn; i++) {
             if(in[i] == pre[startPre]){
-                root.left = reConstructBinaryTree(pre,startPre + 1,startPre + i - startIn,
+                root.left = reConstructBinaryTree1(pre,startPre + 1,startPre + i - startIn,
                         in,startIn,i - 1);
-                root.right = reConstructBinaryTree(pre,i - startIn + startPre + 1, endPre,
+                root.right = reConstructBinaryTree1(pre,i - startIn + startPre + 1, endPre,
                         in,i + 1, endIn);
+                break;
+            }
+        }
+        return root;
+    }
+
+    public TreeNode reConstructBinaryTree2(int[] pre, int[] in) {
+        TreeNode root = reConstructBinaryTree2(pre, 0, pre.length - 1, in, 0, in.length - 1);
+        return root;
+    }
+
+    private TreeNode reConstructBinaryTree2(int[] pre, int startPre, int endPre, int[] in, int startIn, int endIn) {
+
+        if (startIn > endIn || startPre > endPre) {
+            return null;
+        }
+
+        TreeNode root = new TreeNode(pre[startPre]);
+
+        for (int i = startIn; i <= endIn; i++) {
+            if (in[i] == pre[startPre]) {
+                root.left = reConstructBinaryTree2(pre, startPre + 1, startPre + i - startIn, in, startIn, i - 1);
+                root.right = reConstructBinaryTree2(pre, i - startIn + startPre + 1, endPre, in, i + 1, endIn);
                 break;
             }
         }

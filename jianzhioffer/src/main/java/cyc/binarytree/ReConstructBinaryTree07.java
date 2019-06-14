@@ -1,4 +1,4 @@
-package cyc;
+package cyc.binarytree;
 
 import java.util.HashMap;
 

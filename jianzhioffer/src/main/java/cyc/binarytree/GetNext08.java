@@ -1,4 +1,4 @@
-package cyc;
+package cyc.binarytree;
 
 /**
  * @author transwarp

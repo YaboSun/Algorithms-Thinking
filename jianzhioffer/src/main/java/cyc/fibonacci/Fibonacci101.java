@@ -1,4 +1,4 @@
-package cyc;
+package cyc.fibonacci;
 
 /**
  * @author transwarp

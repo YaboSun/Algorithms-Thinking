@@ -19,6 +19,8 @@
         <module>huya</module>
         <module>netease</module>
         <module>ctrip</module>
+        <module>baidu</module>
+        <module>telegram</module>
     </modules>
 
 

@@ -19,7 +19,9 @@
         <module name="datastructure" />
         <module name="dahua" />
         <module name="algorithm" />
+        <module name="baidu" />
         <module name="algs4" />
+        <module name="telegram" />
       </profile>
     </annotationProcessing>
   </component>

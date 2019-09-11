@@ -2,8 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e11f2b9-26dd-4049-87bb-4e231ca346d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/csbasic/src/main/java/notes/jzoffer/PrintListFromTailToHead06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csbasic/src/main/java/notes/basicalgo/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csbasic/src/main/java/string/StringCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/writtentest/baidu/baidu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/writtentest/baidu/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/writtentest/baidu/src/main/java/baidu20190910/First.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/writtentest/baidu/src/main/java/baidu20190910/Second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/writtentest/baidu/src/main/java/baidu20190910/Three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/writtentest/huya/src/main/java/huya20190910/First.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/writtentest/huya/src/main/java/huya20190910/Second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/writtentest/huya/src/main/java/huya20190910/Third.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/writtentest/telegram/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/writtentest/telegram/src/main/java/telegram20190910/First.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/writtentest/telegram/src/main/java/telegram20190910/Second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/writtentest/telegram/src/main/java/telegram20190910/Third.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/writtentest/telegram/telegram.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc03/quick/QuickSortImoocTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc03/quick/QuickSortImoocTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csbasic/src/main/java/string/StringEquals.java" beforeDir="false" afterPath="$PROJECT_DIR$/csbasic/src/main/java/string/StringEquals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/writtentest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/writtentest/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/writtentest/netease/target/" />
     <ignored path="$PROJECT_DIR$/writtentest/nowcoder/target/" />
@@ -24,6 +43,8 @@
     <ignored path="$PROJECT_DIR$/leetcode/target/" />
     <ignored path="$PROJECT_DIR$/leetcode/datastructure/target/" />
     <ignored path="$PROJECT_DIR$/algorithms/mooc/target/" />
+    <ignored path="$PROJECT_DIR$/writtentest/baidu/target/" />
+    <ignored path="$PROJECT_DIR$/writtentest/telegram/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,18 +56,95 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/csbasic/src/main/java/notes/jzoffer/PrintListFromTailToHead06.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/writtentest/huya/src/main/java/huya20190910/First.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+            <state relative-caret-position="171">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/writtentest/baidu/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/writtentest/baidu/src/main/java/baidu20190910/First.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/writtentest/baidu/src/main/java/baidu20190910/Second.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/writtentest/baidu/src/main/java/baidu20190910/Three.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1052#1053#0" expanded="true" />
-                <element signature="e#1090#1091#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/writtentest/telegram/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/writtentest/telegram/src/main/java/telegram20190910/First.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/writtentest/telegram/src/main/java/telegram20190910/Second.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/writtentest/telegram/src/main/java/telegram20190910/Third.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/writtentest/huya/src/main/java/huya20190910/Third.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -70,13 +168,33 @@
         <option value="$PROJECT_DIR$/csbasic/src/test/java/notes/jzoffer/ReplaceSpace05Test.java" />
         <option value="$PROJECT_DIR$/csbasic/src/main/java/notes/jzoffer/ReplaceSpace05.java" />
         <option value="$PROJECT_DIR$/csbasic/src/main/java/notes/jzoffer/PrintListFromTailToHead06.java" />
+        <option value="$PROJECT_DIR$/csbasic/src/main/java/string/StringEquals.java" />
+        <option value="$PROJECT_DIR$/csbasic/src/main/java/string/StringCompare.java" />
+        <option value="$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc03/quick/QuickSortImoocTest.java" />
+        <option value="$PROJECT_DIR$/csbasic/src/main/java/notes/basicalgo/QuickSort.java" />
+        <option value="$PROJECT_DIR$/writtentest/huya/src/main/java/huya20190910/Third.java" />
+        <option value="$PROJECT_DIR$/writtentest/huya/src/main/java/huya20190910/First.java" />
+        <option value="$PROJECT_DIR$/writtentest/baidu/src/main/java/baidu20190910/First.java" />
+        <option value="$PROJECT_DIR$/writtentest/baidu/src/main/java/baidu20190910/Three.java" />
+        <option value="$PROJECT_DIR$/writtentest/baidu/src/main/java/baidu20190910/Second.java" />
+        <option value="$PROJECT_DIR$/writtentest/telegram/src/main/java/telegram20190910/First.java" />
+        <option value="$PROJECT_DIR$/writtentest/telegram/src/main/java/telegram20190910/Second.java" />
+        <option value="$PROJECT_DIR$/writtentest/telegram/src/main/java/telegram20190910/Third.java" />
       </list>
     </option>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="28" />
-    <option name="width" value="1920" />
-    <option name="height" value="1052" />
+    <option name="x" value="309" />
+    <option name="y" value="235" />
+    <option name="width" value="1430" />
+    <option name="height" value="789" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -86,6 +204,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -96,60 +215,65 @@
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="csbasic" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="csbasic" type="462c0819:PsiDirectoryNode" />
+              <item name="writtentest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="writtentest" type="462c0819:PsiDirectoryNode" />
+              <item name="baidu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="writtentest" type="462c0819:PsiDirectoryNode" />
+              <item name="baidu" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="csbasic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="csbasic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="csbasic" type="462c0819:PsiDirectoryNode" />
+              <item name="writtentest" type="462c0819:PsiDirectoryNode" />
+              <item name="baidu" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="notes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="csbasic" type="462c0819:PsiDirectoryNode" />
+              <item name="writtentest" type="462c0819:PsiDirectoryNode" />
+              <item name="baidu" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="notes" type="462c0819:PsiDirectoryNode" />
-              <item name="jzoffer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-Thinking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-Thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="writtentest" type="462c0819:PsiDirectoryNode" />
+              <item name="baidu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="baidu20190910" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/writtentest/huya/src/main" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -158,8 +282,15 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="notes.jzoffer" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/writtentest/huya/src/main/java" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/writtentest/huya/src/main" />
+      <recent name="$PROJECT_DIR$/writtentest/huya/src/main/java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -174,13 +305,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="ReplaceSpace05Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="notes.jzoffer.ReplaceSpace05Test" />
+  <component name="RunManager" selected="Application.Third">
+    <configuration name="First (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="telegram20190910.First" />
+      <module name="telegram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="telegram20190910.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baidu20190910.First" />
+      <module name="baidu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baidu20190910.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="notes.basicalgo.QuickSort" />
       <module name="csbasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="notes.jzoffer.*" />
+          <option name="PATTERN" value="notes.basicalgo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="telegram20190910.Second" />
+      <module name="telegram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="telegram20190910.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Third" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="telegram20190910.Third" />
+      <module name="telegram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="telegram20190910.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,7 +373,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReplaceSpace05Test" />
+        <item itemvalue="Application.Third" />
+        <item itemvalue="Application.Second" />
+        <item itemvalue="Application.First (1)" />
+        <item itemvalue="Application.First" />
+        <item itemvalue="Application.QuickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -211,19 +398,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555053217917</updated>
-      <workItem from="1555053239781" duration="3305000" />
+      <workItem from="1555053239781" duration="5131000" />
+      <workItem from="1556174383451" duration="1408000" />
+      <workItem from="1556192558375" duration="2285000" />
+      <workItem from="1567987333277" duration="5113000" />
+      <workItem from="1567995463460" duration="14096000" />
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="notes-jz-06">
+      <created>1555314301909</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555314301909</updated>
+    </task>
+    <task id="LOCAL-00003" summary="notes-jz-06 modified">
+      <created>1555314881561</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1555314881561</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5848000" />
+    <option name="totallyTimeSpent" value="30576000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49673203" visible="true" weight="0.2457356" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49673203" visible="true" weight="0.2563966" />
       <window_info id="Structure" order="1" sideWeight="0.503268" side_tool="true" weight="0.2854856" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -232,8 +437,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49839744" weight="0.33190578" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893278" weight="0.39532295" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49839744" visible="true" weight="0.32671082" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893278" weight="0.3934681" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -260,34 +465,45 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="notes-jz-05" />
-    <option name="LAST_COMMIT_MESSAGE" value="notes-jz-05" />
+    <MESSAGE value="notes-jz-06" />
+    <MESSAGE value="notes-jz-06 modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="notes-jz-06 modified" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/csbasic/src/main/java/notes/basicalgo/QuickSort.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc03/quick/QuickSortImoocTest.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/writtentest/telegram/src/main/java/telegram20190910/Second.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/writtentest/telegram/src/main/java/telegram20190910/Third.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/csbasic/src/main/java/opersystem/DeadLock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="234" column="30" selection-start-line="234" selection-start-column="30" selection-end-line="234" selection-end-column="30" />
-          <folding>
-            <element signature="e#10148#10149#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/csbasic/src/main/java/string/StringEquals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -336,13 +552,186 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/csbasic/src/main/java/notes/jzoffer/PrintListFromTailToHead06.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+        <state relative-caret-position="190">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1052#1053#0" expanded="true" />
-            <element signature="e#1090#1091#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csbasic/src/main/java/string/StringEquals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csbasic/src/main/java/string/StringCompare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/jdk1.8.0_181/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="59" column="36" selection-start-line="59" selection-start-column="36" selection-end-line="59" selection-end-column="36" />
+          <folding>
+            <element signature="e#5748#5749#0" expanded="true" />
+            <element signature="e#5784#5785#0" expanded="true" />
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csbasic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/algorithm/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/quick/QuickSortImooc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/test/java/mooc03/quick/QuickSortImoocTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/mooc/src/main/java/mooc03/quick/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csbasic/src/main/java/notes/basicalgo/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writtentest/huya/src/main/java/huya20190326/First.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writtentest/huya/src/main/java/huya20190326/Second.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writtentest/huya/src/main/java/huya20190326/Third.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writtentest/huya/src/main/java/huya20190910/Second.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writtentest/huya/src/main/java/huya20190910/Third.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writtentest/huya/src/main/java/huya20190910/First.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writtentest/baidu/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writtentest/baidu/src/main/java/baidu20190910/Second.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writtentest/baidu/src/main/java/baidu20190910/Three.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writtentest/telegram/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writtentest/telegram/src/main/java/telegram20190910/First.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writtentest/telegram/src/main/java/telegram20190910/Second.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writtentest/telegram/src/main/java/telegram20190910/Third.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writtentest/baidu/src/main/java/baidu20190910/First.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
         </state>
       </provider>
     </entry>

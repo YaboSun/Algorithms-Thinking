@@ -9,9 +9,10 @@ import static org.junit.Assert.*;
  */
 public class QuickSortImoocTest {
     public static void main(String[] args) {
-        int[] arr = {3,7,1,5,6,4,1};
-        int n = 7;
+        int[] arr = {1,2,3,7,6};
+        int n = 5;
         QuickSortImooc qs = new QuickSortImooc(arr, n);
         assert SortTestHelper.isSorted(arr, n);
+        SortTestHelper.printArr(arr);
     }
 }

@@ -21,6 +21,7 @@
         <module>ctrip</module>
         <module>baidu</module>
         <module>telegram</module>
+        <module>vivo</module>
     </modules>
 
 

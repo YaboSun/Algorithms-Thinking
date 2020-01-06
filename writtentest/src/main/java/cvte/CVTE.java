@@ -7,8 +7,8 @@ package cvte;
 public class CVTE {
 
     public static void main(String[] args) {
-        int[] ints = {7, 2};
-        int m = 2;
+        int[] ints = {7, 2, 5};
+        int m = 3;
 
         System.out.println(splitArray(ints, m));
     }
